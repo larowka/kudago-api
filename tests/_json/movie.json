@@ -1,0 +1,92 @@
+{
+  "id": 5074,
+  "site_url": "https://kudago.com/movie/zveropoj-2/",
+  "publication_date": 1635408089,
+  "slug": "zveropoj-2",
+  "title": "Зверопой 2",
+  "description": "",
+  "body_text": "<p>Сиквел мультипликационного мюзикла об антропоморфных животных и их певческих талантах. Со дня судьбоносного конкурса прошло несколько лет, и продюсер Бастер Мун решает запустить новый, не менее амбициозный проект. </p>",
+  "is_editors_choice": false,
+  "favorites_count": 0,
+  "genres": [
+    {
+      "id": 7,
+      "name": "детский",
+      "slug": "children"
+    },
+    {
+      "id": 2,
+      "name": "комедия",
+      "slug": "comedy"
+    },
+    {
+      "id": 21,
+      "name": "Мультфильмы",
+      "slug": "cartoons"
+    },
+    {
+      "id": 13,
+      "name": "мюзикл",
+      "slug": "musical"
+    },
+    {
+      "id": 3,
+      "name": "приключения",
+      "slug": "adventure"
+    }
+  ],
+  "comments_count": 0,
+  "original_title": "Sing 2",
+  "locale": "ru",
+  "country": "Франция, Япония, США",
+  "year": 2021,
+  "language": "английский",
+  "running_time": 112,
+  "budget_currency": "RUB",
+  "budget": 0.0,
+  "mpaa_rating": "pg",
+  "age_restriction": null,
+  "stars": "Мэттью Макконахи, Тэрон Эджертон, Тори Келли, Риз Уизерспун, Холзи, Боно, Скарлетт Йоханссон",
+  "director": "Гарт Дженнингс",
+  "writer": "Гарт Дженнингс",
+  "awards": "{\"blocks\":[{\"key\":\"2nonj\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+  "trailer": "https://www.youtube.com/watch?v=EPZu5MA2uqI",
+  "images": [
+    {
+      "image": "https://kudago.com/media/images/movie/f3/41/f341493a5375e8cfda47f8a89cec7eb3.jpg",
+      "thumbnails": {
+        "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/f3/41/f341493a5375e8cfda47f8a89cec7eb3.jpg",
+        "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/f3/41/f341493a5375e8cfda47f8a89cec7eb3.jpg"
+      },
+      "source": {
+        "name": "kinonews.ru",
+        "link": "https://www.kinonews.ru/shot187143/"
+      }
+    },
+    {
+      "image": "https://kudago.com/media/images/movie/8e/a3/8ea30a6593833a02d41d2084c40820ec.png",
+      "thumbnails": {
+        "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/8e/a3/8ea30a6593833a02d41d2084c40820ec.png",
+        "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/8e/a3/8ea30a6593833a02d41d2084c40820ec.png"
+      },
+      "source": {
+        "name": "afi.com/",
+        "link": "https://www.afi.com/news/afi-fest-announces-world-premiere-of-illuminations-sing-2/"
+      }
+    }
+  ],
+  "poster": {
+    "image": "https://kudago.com/media/images/movie/poster/78/31/7831838ed1d90cb9b6b53ead539fe4b1.jpg",
+    "thumbnails": {
+      "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/poster/78/31/7831838ed1d90cb9b6b53ead539fe4b1.jpg",
+      "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/poster/78/31/7831838ed1d90cb9b6b53ead539fe4b1.jpg"
+    },
+    "source": {
+      "name": "",
+      "link": ""
+    }
+  },
+  "url": "",
+  "imdb_url": "",
+  "imdb_rating": null
+}

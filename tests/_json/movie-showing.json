@@ -1,0 +1,53 @@
+{
+  "id": 6754033,
+  "movie": {
+    "id": 3315,
+    "title": "Хан Соло: Звездные войны. Истории",
+    "poster": {
+      "image": "https://kudago.com/media/images/movie/poster/12/7e/127e3cd7cdb8ef8d4b24c1ce079a8958.jpg",
+      "thumbnails": {
+        "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/poster/12/7e/127e3cd7cdb8ef8d4b24c1ce079a8958.jpg",
+        "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/poster/12/7e/127e3cd7cdb8ef8d4b24c1ce079a8958.jpg"
+      },
+      "source": {
+        "name": "",
+        "link": ""
+      }
+    }
+  },
+  "place": {
+    "id": 19757,
+    "title": "Эпицентр",
+    "slug": "ramblerkassa14149",
+    "address": "просп. им. Газеты «Красноярский Рабочий», 173б",
+    "phone": "+7 391 277-78-88",
+    "is_stub": false,
+    "site_url": "https://krasnoyarsk.kudago.com/place/ramblerkassa14149/",
+    "coords": {
+      "lat": 55.99124899999999,
+      "lon": 92.89551999999999
+    },
+    "subway": "",
+    "images": [
+      {
+        "image": "https://kudago.com/media/images/place/7f/0b/7f0be2e4461147a1d79fab5300864eec.jpg",
+        "thumbnails": {
+          "640x384": "https://kudago.com/media/thumbs/640x384/images/place/7f/0b/7f0be2e4461147a1d79fab5300864eec.jpg",
+          "144x96": "https://kudago.com/media/thumbs/144x96/images/place/7f/0b/7f0be2e4461147a1d79fab5300864eec.jpg"
+        },
+        "source": {
+          "name": "epicentr.ru",
+          "link": "http://www.epicentr.ru/cinema/o_kinoteatre"
+        }
+      }
+    ],
+    "is_closed": false,
+    "location": "krasnoyarsk"
+  },
+  "datetime": 1528164000,
+  "three_d": true,
+  "imax": false,
+  "four_dx": false,
+  "original_language": false,
+  "price": "100–300 руб."
+}

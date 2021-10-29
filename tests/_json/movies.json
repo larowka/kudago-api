@@ -1,0 +1,1925 @@
+{
+  "count": 4651,
+  "next": "https://kudago.com/public-api/v1.4/movies/?expand=images%2Cposter&fields=id%2Csite_url%2Cpublication_date%2Cslug%2Ctitle%2Cdescription%2Cbody_text%2Cis_editors_choice%2Cfavorites_count%2Cgenres%2Ccomments_count%2Coriginal_title%2Clocale%2Ccountry%2Cyear%2Clanguage%2Crunning_time%2Cbudget_currency%2Cbudget%2Cmpaa_rating%2Cage_restriction%2Cstars%2Cdirector%2Cwriter%2Cawards%2Ctrailer%2Cimages%2Cposter%2Curl%2Cimdb_url%2Cimdb_rating&page=2",
+  "previous": null,
+  "results": [
+    {
+      "id": 2719,
+      "site_url": "https://kudago.com/movie/urfin-dzhyus-i-ego-derevyannye/",
+      "publication_date": 1489484039,
+      "slug": "urfin-dzhyus-i-ego-derevyannye",
+      "title": "Урфин Джюс и его деревянные солдаты",
+      "description": "",
+      "body_text": "<p>Полнометражный мультфильм студии «Мельница» («Три богатыря и Морской царь»). В основу сюжета легла одноимённая сказка Александра Волкова. Волшебной стране угрожает злодей — нелюдимый и жестокий плотник <a class=\"external-link\" href=\"http://ad.adriver.ru/cgi-bin/click.cgi?sid=1&ad=620158&bt=21&pid=2529817&bid=4967074&bn=4967074&rnd=983009290\" rel=\"nofollow\" target=\"_blank\"><strong>Урфин Джюс</strong></a>, который при помощи своего деревянного войска решил захватить власть над Изумрудным городом. Честолюбивым планам злого гения должна помешать девочка Элли и её бессменные друзья — Страшила, Железный Дровосек и Смелый Лев. Голоса персонажам мультфильма подарили Сергей Шнуров, Дмитрий Дюжев и Константин Хабенский.</p>\n",
+      "is_editors_choice": true,
+      "favorites_count": 9,
+      "genres": [
+        {
+          "id": 7,
+          "name": "детский",
+          "slug": "children"
+        },
+        {
+          "id": 2,
+          "name": "комедия",
+          "slug": "comedy"
+        },
+        {
+          "id": 21,
+          "name": "Мультфильмы",
+          "slug": "cartoons"
+        },
+        {
+          "id": 3,
+          "name": "приключения",
+          "slug": "adventure"
+        }
+      ],
+      "comments_count": 0,
+      "original_title": "",
+      "locale": "ru",
+      "country": "Россия",
+      "year": 2017,
+      "language": "русский",
+      "running_time": 75,
+      "budget_currency": "RUB",
+      "budget": 0.0,
+      "mpaa_rating": "",
+      "age_restriction": 0,
+      "stars": "Константин Хабенский, Сергей Шнуров, Дмитрий Дюжев",
+      "director": "Владимир Торопчин, Федор Дмитриев, Дарина Шмидт",
+      "writer": "Александр Боярский",
+      "awards": "",
+      "trailer": "https://www.youtube.com/watch?v=rL27QFfJeDI",
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/movie/f7/0c/f70cb6a383b67a9d555b06f61c70f625.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/f7/0c/f70cb6a383b67a9d555b06f61c70f625.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/f7/0c/f70cb6a383b67a9d555b06f61c70f625.jpg"
+          },
+          "source": {
+            "name": "nkino.ru",
+            "link": "http://nkino.ru/smi/urfin_dzhus.html"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/17/f2/17f2209248c76043d20ad9d3013c5de8.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/17/f2/17f2209248c76043d20ad9d3013c5de8.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/17/f2/17f2209248c76043d20ad9d3013c5de8.jpg"
+          },
+          "source": {
+            "name": "nkino.ru",
+            "link": "http://nkino.ru/smi/urfin_dzhus.html"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/04/c3/04c31f6adfdd94ca95abe84b95a217e9.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/04/c3/04c31f6adfdd94ca95abe84b95a217e9.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/04/c3/04c31f6adfdd94ca95abe84b95a217e9.jpg"
+          },
+          "source": {
+            "name": "nkino.ru",
+            "link": "http://nkino.ru/smi/urfin_dzhus.html"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/b7/1f/b71fbeb9105761a80ee7b5831ced7ca8.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/b7/1f/b71fbeb9105761a80ee7b5831ced7ca8.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/b7/1f/b71fbeb9105761a80ee7b5831ced7ca8.jpg"
+          },
+          "source": {
+            "name": "nkino.ru",
+            "link": "http://nkino.ru/smi/urfin_dzhus.html"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/7f/e0/7fe05e72a0532687696b720d8e116afb.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/7f/e0/7fe05e72a0532687696b720d8e116afb.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/7f/e0/7fe05e72a0532687696b720d8e116afb.jpg"
+          },
+          "source": {
+            "name": "nkino.ru",
+            "link": "http://nkino.ru/smi/urfin_dzhus.html"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/2d/ae/2dae593bf7f46b2af762f6381cc173ab.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/2d/ae/2dae593bf7f46b2af762f6381cc173ab.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/2d/ae/2dae593bf7f46b2af762f6381cc173ab.jpg"
+          },
+          "source": {
+            "name": "nkino.ru",
+            "link": "http://nkino.ru/smi/urfin_dzhus.html"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/d0/ff/d0ff9930e0030cdd50f89c1a96cc3c80.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/d0/ff/d0ff9930e0030cdd50f89c1a96cc3c80.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/d0/ff/d0ff9930e0030cdd50f89c1a96cc3c80.jpg"
+          },
+          "source": {
+            "name": "nkino.ru",
+            "link": "http://nkino.ru/smi/urfin_dzhus.html"
+          }
+        }
+      ],
+      "poster": {
+        "image": "https://kudago.com/media/images/movie/poster/47/1d/471df47d35a035c28978909315602bba.jpg",
+        "thumbnails": {
+          "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/poster/47/1d/471df47d35a035c28978909315602bba.jpg",
+          "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/poster/47/1d/471df47d35a035c28978909315602bba.jpg"
+        },
+        "source": {
+          "name": "",
+          "link": ""
+        }
+      },
+      "url": "http://www.urfinfilm.ru/",
+      "imdb_url": "http://www.imdb.com/title/tt4685636/?ref_=nm_flmg_prd_4",
+      "imdb_rating": 4.8
+    },
+    {
+      "id": 3173,
+      "site_url": "https://kudago.com/movie/kvartira/",
+      "publication_date": 1513201848,
+      "slug": "kvartira",
+      "title": "Квартира",
+      "description": "",
+      "body_text": "<p>Настоящая голливудская классика от культового американского кинематографиста Билли Уйлдера («В джазе только девушки», «Бульвар Сансет»). Бакстер — рядовой бухгалтер, скромный, невидимый и бесперспективный. Чтобы продвинуться по службе, он систематически даёт ключи от своей холостяцкой квартиры коллегам и начальнику для встреч с дамами. Предприятие приносит Бакстеру ощутимую пользу, пока тот не влюбляется в прекрасную и ранимую девушку своего босса.</p>",
+      "is_editors_choice": false,
+      "favorites_count": 0,
+      "genres": [
+        {
+          "id": 1,
+          "name": "драма",
+          "slug": "drama"
+        },
+        {
+          "id": 2,
+          "name": "комедия",
+          "slug": "comedy"
+        },
+        {
+          "id": 6,
+          "name": "мелодрама",
+          "slug": "romance"
+        }
+      ],
+      "comments_count": 0,
+      "original_title": "The Apartment",
+      "locale": "ru",
+      "country": "США",
+      "year": 1960,
+      "language": "английский",
+      "running_time": 125,
+      "budget_currency": "USD",
+      "budget": 3000000.0,
+      "mpaa_rating": "",
+      "age_restriction": "16+",
+      "stars": "Джек Леммон, Ширли МакЛейн, Фред МакМюррэй, Рей Уолстон, Джек Крушен, Дэвид Льюис, Хоуп Холидей, Джоан Шоули, Наоми Стивенс, Джонни Севен",
+      "director": "Билли Уайлдер",
+      "writer": "Билли Уайлдер, И.А.Л. Даймонд",
+      "awards": "",
+      "trailer": "https://www.youtube.com/watch?v=3j9Q6w_3asA",
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/movie/0e/62/0e624c1734ec4dab8a70da24f1c33188.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/0e/62/0e624c1734ec4dab8a70da24f1c33188.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/0e/62/0e624c1734ec4dab8a70da24f1c33188.jpg"
+          },
+          "source": {
+            "name": "imdb.com",
+            "link": "http://www.imdb.com/title/tt0053604/mediaviewer/rm2981303552"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/ce/5f/ce5ff69039e0c4883b012044ef41afd2.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/ce/5f/ce5ff69039e0c4883b012044ef41afd2.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/ce/5f/ce5ff69039e0c4883b012044ef41afd2.jpg"
+          },
+          "source": {
+            "name": "imdb.com",
+            "link": "http://www.imdb.com/title/tt0053604/mediaviewer/rm3678438400"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/f4/61/f461f90784462099d2c92d4be212426a.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/f4/61/f461f90784462099d2c92d4be212426a.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/f4/61/f461f90784462099d2c92d4be212426a.jpg"
+          },
+          "source": {
+            "name": "imdb.com",
+            "link": "http://www.imdb.com/title/tt0053604/mediaviewer/rm591496192"
+          }
+        }
+      ],
+      "poster": {
+        "image": "https://kudago.com/media/images/movie/poster/80/4b/804bc903610d5740e2ffd9651f709f54.jpg",
+        "thumbnails": {
+          "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/poster/80/4b/804bc903610d5740e2ffd9651f709f54.jpg",
+          "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/poster/80/4b/804bc903610d5740e2ffd9651f709f54.jpg"
+        },
+        "source": {
+          "name": "",
+          "link": ""
+        }
+      },
+      "url": "",
+      "imdb_url": "http://www.imdb.com/title/tt0053604/?ref_=nv_sr_1",
+      "imdb_rating": 8.3
+    },
+    {
+      "id": 2789,
+      "site_url": "https://kudago.com/movie/liga-spravedlivosti/",
+      "publication_date": 1494852914,
+      "slug": "liga-spravedlivosti",
+      "title": "Лига справедливости",
+      "description": "",
+      "body_text": "<p>Блокбастер режиссёра Зака Снайдера («300 спартанцев», «Человек из стали», «Бэтмен против Супермена: На заре справедливости»). Брюс Уэйн, вдохновлённый самоотверженной жертвой Супермена и предчувствующий надвигающуюся катастрофу, собирает команду супергероев. Новоиспечённому отряду, в который помимо Бэтмена вошли Чудо-Женщина, Киборг, Аквамен и Флэш, предстоит использовать свои сверхспособности, чтобы победить зло. «Лига справедливости» стал пятым по счёту фильмом в расширенной киновселенной DC.</p>",
+      "is_editors_choice": false,
+      "favorites_count": 0,
+      "genres": [
+        {
+          "id": 4,
+          "name": "боевик",
+          "slug": "action"
+        },
+        {
+          "id": 3,
+          "name": "приключения",
+          "slug": "adventure"
+        },
+        {
+          "id": 10,
+          "name": "фантастика",
+          "slug": "sci-fi"
+        },
+        {
+          "id": 17,
+          "name": "фэнтези",
+          "slug": "fantasy"
+        }
+      ],
+      "comments_count": 0,
+      "original_title": "Justice League",
+      "locale": "ru",
+      "country": "США",
+      "year": 2017,
+      "language": "английский",
+      "running_time": 110,
+      "budget_currency": "RUB",
+      "budget": 0.0,
+      "mpaa_rating": "pg13",
+      "age_restriction": "16+",
+      "stars": "Галь Гадот, Джейсон Момоа, Эми Адамс, Эмбер Хёрд, Эзра Миллер, Бен Аффлек, Генри Кавилл, Конни Нильсен, Дайан Лэйн",
+      "director": "Зак Снайдер",
+      "writer": "Крис Террио, Зак Снайдер, Боб Кейн",
+      "awards": "",
+      "trailer": "https://www.youtube.com/watch?v=aVpBTu-k3-c",
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/movie/c7/94/c794cdeb38de77ddb63badb55b567037.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/c7/94/c794cdeb38de77ddb63badb55b567037.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/c7/94/c794cdeb38de77ddb63badb55b567037.jpg"
+          },
+          "source": {
+            "name": "imdb.com",
+            "link": "http://www.imdb.com/title/tt0974015/?ref_=ttmi_tt"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/3d/98/3d98866185670e2d5d144e9112150181.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/3d/98/3d98866185670e2d5d144e9112150181.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/3d/98/3d98866185670e2d5d144e9112150181.jpg"
+          },
+          "source": {
+            "name": "imdb.com",
+            "link": "http://www.imdb.com/title/tt0974015/?ref_=ttmi_tt"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/e3/9f/e39f19dde4762534467b7d48d538ef7e.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/e3/9f/e39f19dde4762534467b7d48d538ef7e.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/e3/9f/e39f19dde4762534467b7d48d538ef7e.jpg"
+          },
+          "source": {
+            "name": "imdb.com",
+            "link": "http://www.imdb.com/title/tt0974015/?ref_=ttmi_tt"
+          }
+        }
+      ],
+      "poster": {
+        "image": "https://kudago.com/media/images/movie/poster/7c/5d/7c5d21261c1b6cf620a1de47cd7d677f.jpg",
+        "thumbnails": {
+          "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/poster/7c/5d/7c5d21261c1b6cf620a1de47cd7d677f.jpg",
+          "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/poster/7c/5d/7c5d21261c1b6cf620a1de47cd7d677f.jpg"
+        },
+        "source": {
+          "name": "",
+          "link": ""
+        }
+      },
+      "url": "",
+      "imdb_url": "http://www.imdb.com/title/tt0974015/?ref_=ttmi_tt",
+      "imdb_rating": 6.6
+    },
+    {
+      "id": 3171,
+      "site_url": "https://kudago.com/movie/meri-i-maks/",
+      "publication_date": 1513201750,
+      "slug": "meri-i-maks",
+      "title": "Мэри и Макс",
+      "description": "",
+      "body_text": "<p>Мэри и Макс живут в разных странах и пишут друг другу письма, где рассказывают о своих мыслях и наблюдениях из жизни. В драме, созданной в технике пластилиновой анимации, австралиец Адам Бенджамин Эллиот иронично исследует злободневные темы и пытается ответить на самые неудобные вопросы. Например, почему дети чувствуют себя одинокими, как живётся людям с аутизмом и синдромом Аспергера и в чём истинные причины депрессии. </p>",
+      "is_editors_choice": false,
+      "favorites_count": 0,
+      "genres": [
+        {
+          "id": 1,
+          "name": "драма",
+          "slug": "drama"
+        },
+        {
+          "id": 2,
+          "name": "комедия",
+          "slug": "comedy"
+        },
+        {
+          "id": 21,
+          "name": "Мультфильмы",
+          "slug": "cartoons"
+        }
+      ],
+      "comments_count": 0,
+      "original_title": "Mary and Max",
+      "locale": "ru",
+      "country": "Австралия",
+      "year": 2009,
+      "language": "английский",
+      "running_time": 92,
+      "budget_currency": "RUB",
+      "budget": 0.0,
+      "mpaa_rating": "",
+      "age_restriction": "16+",
+      "stars": "Тони Коллетт, Филип Сеймур Хоффман, Бэрри Хамфриз, Эрик Бана, Бетани Витмор, Рени Гейер, Йен «Молли» Мелдрам, Джули Форсайт, Джон Флаус, Кристофер Мэсси",
+      "director": "Адам Бенжамин Эллиот",
+      "writer": "Адам Бенжамин Эллиот",
+      "awards": "",
+      "trailer": "https://www.youtube.com/watch?v=MgRjB8PEDkM",
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/movie/53/3e/533efb6a76d0ec060e18da03cf7e7e55.png",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/53/3e/533efb6a76d0ec060e18da03cf7e7e55.png",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/53/3e/533efb6a76d0ec060e18da03cf7e7e55.png"
+          },
+          "source": {
+            "name": "blog.animationstudies.org",
+            "link": "https://blog.animationstudies.org/?p=704"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/ba/a9/baa97ffaa47e9aa342974897eb94a0ff.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/ba/a9/baa97ffaa47e9aa342974897eb94a0ff.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/ba/a9/baa97ffaa47e9aa342974897eb94a0ff.jpg"
+          },
+          "source": {
+            "name": "imdb.com",
+            "link": "http://www.imdb.com/title/tt0978762/mediaviewer/rm3873934848"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/33/7e/337ed5d89f392c5874d0c3300342fad6.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/33/7e/337ed5d89f392c5874d0c3300342fad6.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/33/7e/337ed5d89f392c5874d0c3300342fad6.jpg"
+          },
+          "source": {
+            "name": "imdb.com",
+            "link": "http://www.imdb.com/title/tt0978762/mediaviewer/rm3857157632"
+          }
+        }
+      ],
+      "poster": {
+        "image": "https://kudago.com/media/images/movie/poster/01/e8/01e8b96e1eede5b3dc1743e61f049156.jpg",
+        "thumbnails": {
+          "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/poster/01/e8/01e8b96e1eede5b3dc1743e61f049156.jpg",
+          "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/poster/01/e8/01e8b96e1eede5b3dc1743e61f049156.jpg"
+        },
+        "source": {
+          "name": "",
+          "link": ""
+        }
+      },
+      "url": "",
+      "imdb_url": "http://www.imdb.com/title/tt0978762/?ref_=nv_sr_1",
+      "imdb_rating": 8.1
+    },
+    {
+      "id": 3142,
+      "site_url": "https://kudago.com/movie/sharada/",
+      "publication_date": 1508934017,
+      "slug": "sharada",
+      "title": "Шарада",
+      "description": "",
+      "body_text": "<p>Романтический детектив с Кэри Грантом, Одри Хепбёрн и саундтреком от легендарного Генри Манчини. Переводчица-синхронистка Реджина Лэмперт несчастна в браке и планирует подать на развод. Однако вернувшись домой из командировки, изумлённая девушка находит супруга мёртвым. Фильм-обладатель «Золотых глобусов» за мужские и женские роли. </p>",
+      "is_editors_choice": false,
+      "favorites_count": 0,
+      "genres": [
+        {
+          "id": 14,
+          "name": "детектив",
+          "slug": "crime"
+        },
+        {
+          "id": 2,
+          "name": "комедия",
+          "slug": "comedy"
+        },
+        {
+          "id": 6,
+          "name": "мелодрама",
+          "slug": "romance"
+        },
+        {
+          "id": 5,
+          "name": "триллер",
+          "slug": "thriller"
+        }
+      ],
+      "comments_count": 0,
+      "original_title": "Charade",
+      "locale": "ru",
+      "country": "США",
+      "year": 1963,
+      "language": "английский",
+      "running_time": 113,
+      "budget_currency": "RUB",
+      "budget": 0.0,
+      "mpaa_rating": "",
+      "age_restriction": "16+",
+      "stars": "Кэри Грант, Одри Хепберн, Уолтер Мэттау, Джеймс Коберн, Джордж Кеннеди, Доминик Мино, Нед Глэсс, Жак Марен, Поль Бонифас, Томас Челимски",
+      "director": "Стенли Донен",
+      "writer": "Питер Стоун, Марк Бем",
+      "awards": "",
+      "trailer": "https://youtu.be/C6T2Q4XO7uA",
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/movie/be/2c/be2c3f1cfc83bf4006fb239c0dc9c6eb.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/be/2c/be2c3f1cfc83bf4006fb239c0dc9c6eb.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/be/2c/be2c3f1cfc83bf4006fb239c0dc9c6eb.jpg"
+          },
+          "source": {
+            "name": "themoviedb.org",
+            "link": "https://www.themoviedb.org/movie/4808-charade/images/backdrops"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/4e/ea/4eeac1ae7dae91432aebf0e788cdb00b.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/4e/ea/4eeac1ae7dae91432aebf0e788cdb00b.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/4e/ea/4eeac1ae7dae91432aebf0e788cdb00b.jpg"
+          },
+          "source": {
+            "name": "themoviedb.org",
+            "link": "https://www.themoviedb.org/movie/4808-charade/images/backdrops"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/1a/ab/1aab56ec89a651416902ee1c48340958.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/1a/ab/1aab56ec89a651416902ee1c48340958.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/1a/ab/1aab56ec89a651416902ee1c48340958.jpg"
+          },
+          "source": {
+            "name": "themoviedb.org",
+            "link": "https://www.themoviedb.org/movie/4808-charade/images/backdrops"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/ef/08/ef0878a8ebd21663d281c746d95faa9e.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/ef/08/ef0878a8ebd21663d281c746d95faa9e.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/ef/08/ef0878a8ebd21663d281c746d95faa9e.jpg"
+          },
+          "source": {
+            "name": "themoviedb.org",
+            "link": "https://www.themoviedb.org/movie/4808-charade/images/backdrops"
+          }
+        }
+      ],
+      "poster": {
+        "image": "https://kudago.com/media/images/movie/poster/e7/8c/e78c51723b239664d1caacee2e14829d.jpg",
+        "thumbnails": {
+          "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/poster/e7/8c/e78c51723b239664d1caacee2e14829d.jpg",
+          "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/poster/e7/8c/e78c51723b239664d1caacee2e14829d.jpg"
+        },
+        "source": {
+          "name": "",
+          "link": ""
+        }
+      },
+      "url": "",
+      "imdb_url": "http://www.imdb.com/title/tt0056923/",
+      "imdb_rating": 8.0
+    },
+    {
+      "id": 3169,
+      "site_url": "https://kudago.com/movie/trio-iz-belvillya/",
+      "publication_date": 1513201586,
+      "slug": "trio-iz-belvillya",
+      "title": "Трио из Бельвилля",
+      "description": "",
+      "body_text": "<p>Чемпион — молодой и талантливый велосипедист, живущий с любимой бабушкой Сузой на окраине Парижа. Во время главной французской велогонки Le Tour de France Чемпиона похищают представители местной мафии. Напав на след бандитов, Суза отважно пересекает Атлантический океан и попадает в огромный мегаполис Бельвилль, где ей предстоит найти любимого внука. Первый полнометражный фильм французского аниматора Сильвена Шомэ был номинирован на премии «Оскар», «Сезар» и BAFTA.</p>",
+      "is_editors_choice": false,
+      "favorites_count": 0,
+      "genres": [
+        {
+          "id": 1,
+          "name": "драма",
+          "slug": "drama"
+        },
+        {
+          "id": 2,
+          "name": "комедия",
+          "slug": "comedy"
+        },
+        {
+          "id": 21,
+          "name": "Мультфильмы",
+          "slug": "cartoons"
+        },
+        {
+          "id": 3,
+          "name": "приключения",
+          "slug": "adventure"
+        }
+      ],
+      "comments_count": 0,
+      "original_title": "Les triplettes de Belleville",
+      "locale": "ru",
+      "country": "Франция, Бельгия, Канада, Великобритания, Латвия, США",
+      "year": 2003,
+      "language": "французский",
+      "running_time": 80,
+      "budget_currency": "USD",
+      "budget": 9500000.0,
+      "mpaa_rating": "pg13",
+      "age_restriction": "12+",
+      "stars": "Беатрис Бонифасси, Лина Бодро, Мишель Кочето, Жан-Клод Донда, Мари-Лу Готье, Чарльз Линтон, Мишель Робен, Моника Виега",
+      "director": "Сильвен Шомэ",
+      "writer": "Сильвен Шомэ",
+      "awards": "**Оскар, 2004 год**\t    \r\nНоминация (1):    \r\nЛучший анимационный фильм   \r\n \r\n    \r\n**Британская академия, 2004 год**\t    \r\nНоминация (1):    \r\nЛучший не англоязычный фильм\r\n \r\n    \r\n**Сезар, 2004 год**\t    \r\nНоминация (1):    \r\nЛучший фильм\r\n\r\nПобедитель (1)\r\nЛучшая музыка к фильму",
+      "trailer": "https://www.youtube.com/watch?v=qtU7YpYptC4",
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/movie/e9/ec/e9eceb248e912b5a4154a90b46487eac.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/e9/ec/e9eceb248e912b5a4154a90b46487eac.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/e9/ec/e9eceb248e912b5a4154a90b46487eac.jpg"
+          },
+          "source": {
+            "name": "alexkittle.com",
+            "link": "http://alexkittle.com/2011/02/22/les-triplettes-de-belleville-the-triplets-of-belleville-2003/"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/86/0e/860e514787a7e7bee62547b933a114c8.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/86/0e/860e514787a7e7bee62547b933a114c8.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/86/0e/860e514787a7e7bee62547b933a114c8.jpg"
+          },
+          "source": {
+            "name": "elle.fr",
+            "link": "http://www.elle.fr/Loisirs/Cinema/Dossiers/dessin-anime-enfant/Les-Triplettes-de-Belleville-2003"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/93/1d/931d8fa47adace946d4a2c70b0330363.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/93/1d/931d8fa47adace946d4a2c70b0330363.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/93/1d/931d8fa47adace946d4a2c70b0330363.jpg"
+          },
+          "source": {
+            "name": "imdb.com",
+            "link": "http://www.imdb.com/title/tt0286244/mediaviewer/rm2502441984"
+          }
+        }
+      ],
+      "poster": {
+        "image": "https://kudago.com/media/images/movie/poster/88/a9/88a91ca99907b29f80f97357ba749308.jpg",
+        "thumbnails": {
+          "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/poster/88/a9/88a91ca99907b29f80f97357ba749308.jpg",
+          "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/poster/88/a9/88a91ca99907b29f80f97357ba749308.jpg"
+        },
+        "source": {
+          "name": "",
+          "link": ""
+        }
+      },
+      "url": "",
+      "imdb_url": "http://www.imdb.com/title/tt0286244/?ref_=nv_sr_1",
+      "imdb_rating": 7.8
+    },
+    {
+      "id": 3310,
+      "site_url": "https://kudago.com/movie/mstiteli-vojna-beskonechnosti/",
+      "publication_date": 1520416337,
+      "slug": "mstiteli-vojna-beskonechnosti",
+      "title": "Мстители: Война бесконечности",
+      "description": "",
+      "body_text": "<p>Фантастический фильм на основе комиксов Marvel от режиссёров «Первого мстителя». Спустя четыре года после событий вторых «Стражей Галактики» Мстители продолжают своё дело, оберегая мир от опасностей. Однако угроза неожиданно приходит из космоса: могучий тиран Танос начинает охоту за Камнями Бесконечности, чтобы завладеть всем миром. Объединившись со Стражами Галактики и Доктором Стрэнджем, команда готовится принять фатальный бой.</p>",
+      "is_editors_choice": false,
+      "favorites_count": 2,
+      "genres": [
+        {
+          "id": 4,
+          "name": "боевик",
+          "slug": "action"
+        },
+        {
+          "id": 3,
+          "name": "приключения",
+          "slug": "adventure"
+        },
+        {
+          "id": 10,
+          "name": "фантастика",
+          "slug": "sci-fi"
+        },
+        {
+          "id": 17,
+          "name": "фэнтези",
+          "slug": "fantasy"
+        }
+      ],
+      "comments_count": 0,
+      "original_title": "Avengers: Infinity War",
+      "locale": "ru",
+      "country": "США",
+      "year": 2018,
+      "language": "английский",
+      "running_time": 149,
+      "budget_currency": "RUB",
+      "budget": 0.0,
+      "mpaa_rating": "",
+      "age_restriction": "16+",
+      "stars": "Летишиа Райт, Чедвик Боузман, Данай Джекесай Гурира, Уинстон Дьюк, Тесса Томпсон, Карен Гиллан, Анджела Бассетт, Себастьян Стэн, Скарлетт Йоханссон, Линда Карделлини",
+      "director": "Энтони Руссо, Джо Руссо",
+      "writer": "Джек Кирби, Джим Старлин, Кристофер Маркус",
+      "awards": "{\"entityMap\":{},\"blocks\":[{\"key\":\"fsqif\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}]}",
+      "trailer": "https://www.youtube.com/watch?v=FeJKZMFJ7NA",
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/movie/5d/f2/5df2ab77482298e059fd8829fcbfc14a.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/5d/f2/5df2ab77482298e059fd8829fcbfc14a.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/5d/f2/5df2ab77482298e059fd8829fcbfc14a.jpg"
+          },
+          "source": {
+            "name": "cnet.com",
+            "link": "https://www.cnet.com/news/avengers-infinity-war-release-date-april-27/"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/1f/01/1f016ced673d5d8f30d0a72fc2174027.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/1f/01/1f016ced673d5d8f30d0a72fc2174027.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/1f/01/1f016ced673d5d8f30d0a72fc2174027.jpg"
+          },
+          "source": {
+            "name": "gamespot.com",
+            "link": "https://www.gamespot.com/articles/new-avengers-infinity-war-movie-trailer-debuts-dur/1100-6456560/"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/0b/64/0b64e8bb0381831c21354b969476f993.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/0b/64/0b64e8bb0381831c21354b969476f993.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/0b/64/0b64e8bb0381831c21354b969476f993.jpg"
+          },
+          "source": {
+            "name": "gamespot.com",
+            "link": "https://www.gamespot.com/articles/avengers-infinity-war-might-have-spoiled-a-major-c/1100-6456581/"
+          }
+        }
+      ],
+      "poster": {
+        "image": "https://kudago.com/media/images/movie/poster/a1/69/a16928c1594c98a443f9e842d3b65f3e.jpg",
+        "thumbnails": {
+          "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/poster/a1/69/a16928c1594c98a443f9e842d3b65f3e.jpg",
+          "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/poster/a1/69/a16928c1594c98a443f9e842d3b65f3e.jpg"
+        },
+        "source": {
+          "name": "",
+          "link": ""
+        }
+      },
+      "url": "",
+      "imdb_url": "http://www.imdb.com/title/tt4154756/",
+      "imdb_rating": 8.6
+    },
+    {
+      "id": 3450,
+      "site_url": "https://kudago.com/movie/lyubovnyie-pohozhdeniya-blondinki/",
+      "publication_date": 1530721126,
+      "slug": "lyubovnyie-pohozhdeniya-blondinki",
+      "title": "Любовные похождения блондинки",
+      "description": "",
+      "body_text": "<p>Романтическая комедия Милоша Формана, запечатлевшая беспечность и бесхитростный романтизм чешской молодёжи 60-х. Сотрудница провинциальной обувной фабрики Андула проводит ночь с заезжим пианистом Милдой. Молодой музыкант возвращается в Прагу и быстро забывает об интрижке, но девушка настроена серьёзно — и внезапно приезжает знакомиться с родителями. «Оскар» и «Золотой глобус» в 1967 году как лучший фильм на иностранном языке.</p>",
+      "is_editors_choice": false,
+      "favorites_count": 0,
+      "genres": [
+        {
+          "id": 1,
+          "name": "драма",
+          "slug": "drama"
+        },
+        {
+          "id": 2,
+          "name": "комедия",
+          "slug": "comedy"
+        },
+        {
+          "id": 6,
+          "name": "мелодрама",
+          "slug": "romance"
+        }
+      ],
+      "comments_count": 0,
+      "original_title": "Lásky jedné plavovlásky",
+      "locale": "ru",
+      "country": "Чехословакия",
+      "year": 1965,
+      "language": "чешский",
+      "running_time": 90,
+      "budget_currency": "RUB",
+      "budget": 0.0,
+      "mpaa_rating": "",
+      "age_restriction": "16+",
+      "stars": "Гана Брейхова, Владимир Пухольт, Владимир Меншик, Иван Хейл, Иржи Грубы, Милада Ежкова, Йозеф Шебанек, Йозеф Колб, Мари Салачова, Яна Новакова",
+      "director": "Милош Форман",
+      "writer": "Милош Форман, Ярослав Папоушек, Иван Пассер и др.",
+      "awards": "{\"entityMap\":{},\"blocks\":[{\"key\":\"47b5f\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}]}",
+      "trailer": "https://www.youtube.com/watch?v=GN-aXFGWA84",
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/movie/6d/da/6dda003da0b5b87a7f882addab84db9f.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/6d/da/6dda003da0b5b87a7f882addab84db9f.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/6d/da/6dda003da0b5b87a7f882addab84db9f.jpg"
+          },
+          "source": {
+            "name": "imdb.com",
+            "link": "https://www.imdb.com/title/tt0059415/mediaviewer/rm3865555456"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/68/74/687485f951ce81fdd80879ca713a9ddf.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/68/74/687485f951ce81fdd80879ca713a9ddf.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/68/74/687485f951ce81fdd80879ca713a9ddf.jpg"
+          },
+          "source": {
+            "name": "imdb.com",
+            "link": "https://www.imdb.com/title/tt0059415/mediaviewer/rm521883136"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/a5/e1/a5e16bda61b4b4fd1c90d2ffebe59525.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/a5/e1/a5e16bda61b4b4fd1c90d2ffebe59525.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/a5/e1/a5e16bda61b4b4fd1c90d2ffebe59525.jpg"
+          },
+          "source": {
+            "name": "imdb.com",
+            "link": "https://www.imdb.com/title/tt0059415/mediaviewer/rm1981500928"
+          }
+        }
+      ],
+      "poster": {
+        "image": "https://kudago.com/media/images/movie/poster/e0/65/e065241569f4d7dabd958ec1bbcdc7c1.jpg",
+        "thumbnails": {
+          "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/poster/e0/65/e065241569f4d7dabd958ec1bbcdc7c1.jpg",
+          "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/poster/e0/65/e065241569f4d7dabd958ec1bbcdc7c1.jpg"
+        },
+        "source": {
+          "name": "",
+          "link": ""
+        }
+      },
+      "url": "",
+      "imdb_url": "https://www.imdb.com/title/tt0059415/?ref_=fn_al_tt_1",
+      "imdb_rating": 7.7
+    },
+    {
+      "id": 3138,
+      "site_url": "https://kudago.com/movie/sabrina/",
+      "publication_date": 1508419335,
+      "slug": "sabrina",
+      "title": "Сабрина",
+      "description": "",
+      "body_text": "<p>Чёрно-белая комедия главного специалиста по нуару Билли Уайлдера с Одри Хепбёрн и Хамфри Богартом в главных ролях и сюжетом-вариацией «Золушки». Сабрина, дочь водителя зажиточного семейства на Лонг-Айленде, влюбляется в одного из миллионеров и тотчас же по воле отца отправляется в Париж — учиться уму-разуму. Вернувшись, преображённая «замухрышка» наводит в особняке свои порядки. В 2002 году картина включена в Национальный реестр фильмов США. </p>",
+      "is_editors_choice": false,
+      "favorites_count": 0,
+      "genres": [
+        {
+          "id": 1,
+          "name": "драма",
+          "slug": "drama"
+        },
+        {
+          "id": 2,
+          "name": "комедия",
+          "slug": "comedy"
+        },
+        {
+          "id": 6,
+          "name": "мелодрама",
+          "slug": "romance"
+        }
+      ],
+      "comments_count": 0,
+      "original_title": "Sabrina",
+      "locale": "ru",
+      "country": "США",
+      "year": 1954,
+      "language": "английский",
+      "running_time": 113,
+      "budget_currency": "RUB",
+      "budget": 0.0,
+      "mpaa_rating": "",
+      "age_restriction": "12+",
+      "stars": "Хамфри Богарт, Одри Хепберн, Уильям Холден, Уолтер Хэмпден, Джон Уильямс, Марта Хайер, Джоан Вос, Марсель Далио, Марсель Хиллэр, Нелла Уолкер",
+      "director": "Билли Уайлдер",
+      "writer": "Сэмьюэл А. Тейлор, Билли Уайлдер, Эрнест Леман",
+      "awards": "",
+      "trailer": "https://youtu.be/GZKi-YPBJnU",
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/movie/3c/e1/3ce1027a331ed8c032b876eebc6be3f2.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/3c/e1/3ce1027a331ed8c032b876eebc6be3f2.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/3c/e1/3ce1027a331ed8c032b876eebc6be3f2.jpg"
+          },
+          "source": {
+            "name": "themoviedb.org",
+            "link": "https://www.themoviedb.org/movie/6620-sabrina/images/backdrops"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/2c/82/2c822cc77280202d4a81909786931c78.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/2c/82/2c822cc77280202d4a81909786931c78.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/2c/82/2c822cc77280202d4a81909786931c78.jpg"
+          },
+          "source": {
+            "name": "themoviedb.org",
+            "link": "https://www.themoviedb.org/movie/6620-sabrina/images/backdrops"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/df/63/df637683357bb3a867c7217bfceaec4b.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/df/63/df637683357bb3a867c7217bfceaec4b.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/df/63/df637683357bb3a867c7217bfceaec4b.jpg"
+          },
+          "source": {
+            "name": "themoviedb.org",
+            "link": "https://www.themoviedb.org/movie/6620-sabrina/images/backdrops"
+          }
+        }
+      ],
+      "poster": {
+        "image": "https://kudago.com/media/images/movie/poster/00/e4/00e45749508fe15ca1af3397eab8db78.jpg",
+        "thumbnails": {
+          "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/poster/00/e4/00e45749508fe15ca1af3397eab8db78.jpg",
+          "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/poster/00/e4/00e45749508fe15ca1af3397eab8db78.jpg"
+        },
+        "source": {
+          "name": "",
+          "link": ""
+        }
+      },
+      "url": "",
+      "imdb_url": "http://www.imdb.com/title/tt0047437/",
+      "imdb_rating": 7.7
+    },
+    {
+      "id": 3451,
+      "site_url": "https://kudago.com/movie/bal-pozharnyih/",
+      "publication_date": 1530721282,
+      "slug": "bal-pozharnyih",
+      "title": "Бал пожарных",
+      "description": "",
+      "body_text": "<p>Картина Милоша Формана, ставшая первым цветным и последним чешским фильмом в карьере режиссёра. Сюжет, на который Формана и сценариста Ярослава Папоушека вдохновил реальный бал пожарных, подсмотренный в городке Врхлаби, рассказывает о чествовании провинциальными чешскими укротителями огня своего 86-летнего руководителя. К сожалению, лучшие начинания — лотерея, конкурс красоты, топорик-сувенир для начальника — оборачиваются хаосом, воровством и непотушенным пожаром. Фильм обидел чешских огнеборцев и фактически стал для Формана причиной покинуть родину.</p>",
+      "is_editors_choice": false,
+      "favorites_count": 0,
+      "genres": [
+        {
+          "id": 1,
+          "name": "драма",
+          "slug": "drama"
+        },
+        {
+          "id": 2,
+          "name": "комедия",
+          "slug": "comedy"
+        }
+      ],
+      "comments_count": 0,
+      "original_title": "Horí, má panenko",
+      "locale": "ru",
+      "country": "Чехословакия, Италия",
+      "year": 1967,
+      "language": "чешский",
+      "running_time": 73,
+      "budget_currency": "RUB",
+      "budget": 0.0,
+      "mpaa_rating": "",
+      "age_restriction": "12+",
+      "stars": "Ян Вострчил, Йозеф Шебанек, Йозеф Валноха, Франтишек Дебелка, Йозеф Колб, Жан Стокл, Вратислав Цермак, Джозеф Ржегоржек, Вацлав Новотны, Франтишек Рейнстейн",
+      "director": "Милош Форман",
+      "writer": "Милош Форман, Ярослав Папоушек, Иван Пассер",
+      "awards": "{\"entityMap\":{},\"blocks\":[{\"key\":\"8l9am\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}]}",
+      "trailer": "https://www.youtube.com/watch?v=evR4k6-QQbc",
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/movie/eb/71/eb71603cb6992dbbbba9344c6a06884d.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/eb/71/eb71603cb6992dbbbba9344c6a06884d.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/eb/71/eb71603cb6992dbbbba9344c6a06884d.jpg"
+          },
+          "source": {
+            "name": "imdb.com",
+            "link": "https://www.imdb.com/title/tt0061781/mediaviewer/rm1405091840"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/81/05/81051ab3258e6b0622cec3f97c8e7649.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/81/05/81051ab3258e6b0622cec3f97c8e7649.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/81/05/81051ab3258e6b0622cec3f97c8e7649.jpg"
+          },
+          "source": {
+            "name": "imdb.com",
+            "link": "https://www.imdb.com/title/tt0061781/mediaviewer/rm1522532352"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/93/01/93016a7b43634c0cf0d221b0071fefc6.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/93/01/93016a7b43634c0cf0d221b0071fefc6.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/93/01/93016a7b43634c0cf0d221b0071fefc6.jpg"
+          },
+          "source": {
+            "name": "imdb.com",
+            "link": "https://www.imdb.com/title/tt0061781/mediaviewer/rm1103101952"
+          }
+        }
+      ],
+      "poster": {
+        "image": "https://kudago.com/media/images/movie/poster/00/26/0026eaf42e9827e1306506f516506ccf.jpg",
+        "thumbnails": {
+          "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/poster/00/26/0026eaf42e9827e1306506f516506ccf.jpg",
+          "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/poster/00/26/0026eaf42e9827e1306506f516506ccf.jpg"
+        },
+        "source": {
+          "name": "",
+          "link": ""
+        }
+      },
+      "url": "",
+      "imdb_url": "https://www.imdb.com/title/tt0061781/?ref_=fn_al_tt_1",
+      "imdb_rating": 7.6
+    },
+    {
+      "id": 3143,
+      "site_url": "https://kudago.com/movie/kak-ukrast-million/",
+      "publication_date": 1508934139,
+      "slug": "kak-ukrast-million",
+      "title": "Как украсть миллион",
+      "description": "",
+      "body_text": "<p>Авантюрная комедия от создателя «Римских каникул» об обеспеченной девушке и бывалом преступнике, которые планируют значительно обогатиться, устроив ограбление на экспозиции современного искусства. В главных ролях — Одри Хепбёрн и Питер О’Тул. Картина была отмечена киноведами за хороший сценарий, а в советских кинотеатрах собрала около 25 миллионов зрителей. </p>",
+      "is_editors_choice": false,
+      "favorites_count": 0,
+      "genres": [
+        {
+          "id": 2,
+          "name": "комедия",
+          "slug": "comedy"
+        },
+        {
+          "id": 6,
+          "name": "мелодрама",
+          "slug": "romance"
+        }
+      ],
+      "comments_count": 0,
+      "original_title": "How to Steal a Million",
+      "locale": "ru",
+      "country": "США",
+      "year": 1966,
+      "language": "английский",
+      "running_time": 123,
+      "budget_currency": "RUB",
+      "budget": 0.0,
+      "mpaa_rating": "",
+      "age_restriction": "12+",
+      "stars": "Одри Хепберн, Питер О’Тул, Илай Уоллак, Хью Гриффит, Шарль Буайе, Фернан Гравей, Марсель Далио, Жак Марен, Мусташ, Роже Тревиль",
+      "director": "Уильям Уайлер",
+      "writer": "Гарри Кернитц, Джордж Брэдшоу",
+      "awards": "",
+      "trailer": "https://youtu.be/ri4KsE2lvpw",
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/movie/3a/3c/3a3c7218c16d2e57dd03e8dd2350a3ef.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/3a/3c/3a3c7218c16d2e57dd03e8dd2350a3ef.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/3a/3c/3a3c7218c16d2e57dd03e8dd2350a3ef.jpg"
+          },
+          "source": {
+            "name": "themoviedb.org",
+            "link": "https://www.themoviedb.org/movie/3001-how-to-steal-a-million/images/backdrops"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/90/de/90debe7f0f4f63431d6bfea410ebb279.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/90/de/90debe7f0f4f63431d6bfea410ebb279.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/90/de/90debe7f0f4f63431d6bfea410ebb279.jpg"
+          },
+          "source": {
+            "name": "themoviedb.org",
+            "link": "https://www.themoviedb.org/movie/3001-how-to-steal-a-million/images/backdrops"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/7b/d0/7bd04103f8a807b9ddb4906e7e8fc877.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/7b/d0/7bd04103f8a807b9ddb4906e7e8fc877.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/7b/d0/7bd04103f8a807b9ddb4906e7e8fc877.jpg"
+          },
+          "source": {
+            "name": "themoviedb.org",
+            "link": "https://www.themoviedb.org/movie/3001-how-to-steal-a-million/images/backdrops"
+          }
+        }
+      ],
+      "poster": {
+        "image": "https://kudago.com/media/images/movie/poster/5d/1b/5d1bef554d753e68c271f8b86b59d6b0.jpg",
+        "thumbnails": {
+          "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/poster/5d/1b/5d1bef554d753e68c271f8b86b59d6b0.jpg",
+          "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/poster/5d/1b/5d1bef554d753e68c271f8b86b59d6b0.jpg"
+        },
+        "source": {
+          "name": "",
+          "link": ""
+        }
+      },
+      "url": "",
+      "imdb_url": "http://www.imdb.com/title/tt0060522/",
+      "imdb_rating": 7.6
+    },
+    {
+      "id": 3131,
+      "site_url": "https://kudago.com/movie/amerikanskij-psihopat/",
+      "publication_date": 1508402193,
+      "slug": "amerikanskij-psihopat",
+      "title": "Американский психопат",
+      "description": "",
+      "body_text": "<p>Криминальная чёрная комедия Мэри Хэррон по мотивам одноимённого романа Брета Истона Эллиса. Патрик Бейтман — типичный преставитель яппи,  амбициозный, преуспевающий, делающий всё для поддержания имиджа. Вечная гонка за первенством не проходит для него бесследно — по ночам элегантный волк с Уолл-стрит превращается в натурального маньяка и совершает жестокие кровавые убийства. </p>",
+      "is_editors_choice": false,
+      "favorites_count": 0,
+      "genres": [
+        {
+          "id": 1,
+          "name": "драма",
+          "slug": "drama"
+        }
+      ],
+      "comments_count": 0,
+      "original_title": "American Psycho",
+      "locale": "ru",
+      "country": "США",
+      "year": 2000,
+      "language": "английский",
+      "running_time": 102,
+      "budget_currency": "USD",
+      "budget": 7000000.0,
+      "mpaa_rating": "r",
+      "age_restriction": "18+",
+      "stars": "Кристиан Бэйл, Уиллем Дефо, Джош Лукас, Риз Уизерспун, Кэра Сеймур, Джастин Теру, Джаред Лето, Хлоя Севиньи, Саманта Мэтис, Мэтт Росс",
+      "director": "Мэри Хэррон",
+      "writer": "Мэри Хэррон, Гвиневер Тёрнер, Брет Истон Эллис",
+      "awards": "",
+      "trailer": "https://www.youtube.com/watch?v=5YnGhW4UEhc",
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/movie/f7/2f/f72fddbf6fd4410de65239ff9c1d4aa3.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/f7/2f/f72fddbf6fd4410de65239ff9c1d4aa3.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/f7/2f/f72fddbf6fd4410de65239ff9c1d4aa3.jpg"
+          },
+          "source": {
+            "name": "imdb.com",
+            "link": "http://www.imdb.com/title/tt0144084/mediaviewer/rm2579549184"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/fb/0a/fb0a16e5825a26c0e2a7fe2d4ab2aca7.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/fb/0a/fb0a16e5825a26c0e2a7fe2d4ab2aca7.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/fb/0a/fb0a16e5825a26c0e2a7fe2d4ab2aca7.jpg"
+          },
+          "source": {
+            "name": "imdb.com",
+            "link": "http://www.imdb.com/title/tt0144084/mediaviewer/rm706675968"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/6b/e2/6be25ddc8b2b8951f3209028bf95df03.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/6b/e2/6be25ddc8b2b8951f3209028bf95df03.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/6b/e2/6be25ddc8b2b8951f3209028bf95df03.jpg"
+          },
+          "source": {
+            "name": "imdb.com",
+            "link": "http://www.imdb.com/title/tt0144084/mediaviewer/rm1636820224"
+          }
+        }
+      ],
+      "poster": {
+        "image": "https://kudago.com/media/images/movie/poster/ad/9b/ad9bc7594e905468611cc1ef9a998924.jpg",
+        "thumbnails": {
+          "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/poster/ad/9b/ad9bc7594e905468611cc1ef9a998924.jpg",
+          "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/poster/ad/9b/ad9bc7594e905468611cc1ef9a998924.jpg"
+        },
+        "source": {
+          "name": "",
+          "link": ""
+        }
+      },
+      "url": "",
+      "imdb_url": "http://www.imdb.com/title/tt0144084/",
+      "imdb_rating": 7.6
+    },
+    {
+      "id": 3287,
+      "site_url": "https://kudago.com/movie/nedrugi/",
+      "publication_date": 1518699319,
+      "slug": "nedrugi",
+      "title": "Недруги",
+      "description": "",
+      "body_text": "<p>Драматический вестерн с Розамунд Пайк и Кристианом Бейлом. Свидетель всех ужасов только что отгремевшей войны, капитан Блокер получает задание увезти из залитых кровью земель смертельно раненого вождя по прозвищу Жёлтый Ястреб и доставить его на родину. Следуя по землям, полным преступников и вражеских племён, однажды они видят убитую горем женщину, потерявшую детей на войне. Вскоре оказывается, что встреча неслучайна.</p>",
+      "is_editors_choice": false,
+      "favorites_count": 1,
+      "genres": [
+        {
+          "id": 11,
+          "name": "вестерн",
+          "slug": "western"
+        },
+        {
+          "id": 1,
+          "name": "драма",
+          "slug": "drama"
+        },
+        {
+          "id": 3,
+          "name": "приключения",
+          "slug": "adventure"
+        }
+      ],
+      "comments_count": 0,
+      "original_title": "Hostiles",
+      "locale": "ru",
+      "country": "США",
+      "year": 2018,
+      "language": "английский",
+      "running_time": 134,
+      "budget_currency": "RUB",
+      "budget": 0.0,
+      "mpaa_rating": "",
+      "age_restriction": "18+",
+      "stars": "Кристиан Бейл, Розамунд Пайк, Пол Андерсон, Тимоте Шаламе, К'Орианка Килчер, Бен Фостер, Джесси Племонс, Стивен Лэнг, Уэс Стади, Питер Маллан, Адам Бич, Скотт Уилсон, Рори Кокран, Робин Малкольм, Таная Битти",
+      "director": "Скотт Купер",
+      "writer": "Скотт Купер, Дональд Стюарт",
+      "awards": "",
+      "trailer": "https://youtu.be/1M5cj4UmscE",
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/movie/19/b6/19b66f2dd99f642bc987b3150d9ac15a.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/19/b6/19b66f2dd99f642bc987b3150d9ac15a.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/19/b6/19b66f2dd99f642bc987b3150d9ac15a.jpg"
+          },
+          "source": {
+            "name": "hostilesmovie.com",
+            "link": "http://hostilesmovie.com/"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/c6/67/c6676c88ff922977fd9e87a00a13c8b5.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/c6/67/c6676c88ff922977fd9e87a00a13c8b5.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/c6/67/c6676c88ff922977fd9e87a00a13c8b5.jpg"
+          },
+          "source": {
+            "name": "hostilesmovie.com",
+            "link": "http://hostilesmovie.com/"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/dd/e0/dde018e6e217d8260ce48858e3e96006.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/dd/e0/dde018e6e217d8260ce48858e3e96006.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/dd/e0/dde018e6e217d8260ce48858e3e96006.jpg"
+          },
+          "source": {
+            "name": "nowtoronto.com",
+            "link": "https://nowtoronto.com/movies/reviews/hostiles-christian-bale-western/"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/6e/86/6e86873e330b1434a18bf1207cc25d86.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/6e/86/6e86873e330b1434a18bf1207cc25d86.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/6e/86/6e86873e330b1434a18bf1207cc25d86.jpg"
+          },
+          "source": {
+            "name": "christandpopculture.com",
+            "link": "https://christandpopculture.com/hostiles-worst-enemies-also-neighbors/"
+          }
+        }
+      ],
+      "poster": {
+        "image": "https://kudago.com/media/images/movie/poster/74/2e/742eb832cdc81ebdef111eecd5a4f55a.jpg",
+        "thumbnails": {
+          "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/poster/74/2e/742eb832cdc81ebdef111eecd5a4f55a.jpg",
+          "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/poster/74/2e/742eb832cdc81ebdef111eecd5a4f55a.jpg"
+        },
+        "source": {
+          "name": "",
+          "link": ""
+        }
+      },
+      "url": "http://hostilesmovie.com/",
+      "imdb_url": "http://www.imdb.com/title/tt5478478/",
+      "imdb_rating": 7.2
+    },
+    {
+      "id": 3223,
+      "site_url": "https://kudago.com/movie/afera-po-amerikanski/",
+      "publication_date": 1512747540,
+      "slug": "afera-po-amerikanski",
+      "title": "Афёра по-американски",
+      "description": "",
+      "body_text": "<p>Стилизованный криминальный детектив Дэвида Оуэна Рассела («Мой парень — псих», «Джой»). Колоритный мошенник Ирвинг и его роковая подруга Сидни промышляют мелкими махинациями, пока сотрудник ФБР не вербует их в грандиозную антикоррупционную операцию. Картина получила множество престижных кинонаград и десять номинаций на «Оскар».</p>",
+      "is_editors_choice": false,
+      "favorites_count": 0,
+      "genres": [
+        {
+          "id": 1,
+          "name": "драма",
+          "slug": "drama"
+        },
+        {
+          "id": 2,
+          "name": "комедия",
+          "slug": "comedy"
+        }
+      ],
+      "comments_count": 0,
+      "original_title": "American Hustle",
+      "locale": "ru",
+      "country": "США",
+      "year": 2013,
+      "language": "английский",
+      "running_time": 138,
+      "budget_currency": "RUB",
+      "budget": 0.0,
+      "mpaa_rating": "r",
+      "age_restriction": "16+",
+      "stars": "Кристиан Бэйл, Эми Адамс, Брэдли Купер, Дженнифер Лоуренс, Джереми Реннер, Луис С.К., Алессандро Нивола, Джек Хьюстон, Роберт Де Ниро, Майкл Пенья",
+      "director": "Дэвид О. Расселл",
+      "writer": "Эрик Уоррен Сингер, Дэвид О. Расселл",
+      "awards": "**Золотой глобус, 2014 год**\t\r\nПобедитель (3):\r\nЛучший фильм (комедия или мюзикл)\r\nЛучшая женская роль (комедия или мюзикл) (Эми Адамс)\r\nЛучшая женская роль второго плана (Дженнифер Лоуренc)\r\n\r\n**Британская академия, 2014 год**\r\n\r\nПобедитель (3):\r\nЛучшая женская роль второго плана (Дженнифер Лоуренс)\r\nЛучший оригинальный сценарий\r\nЛучший грим/прически\r\n\r\n**Премия Гильдии актеров, 2014 год**\r\n\t\r\nПобедитель (1):\r\nЛучший актерский состав",
+      "trailer": "https://www.youtube.com/watch?v=ST7a1aK_lG0&t=3s",
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/movie/72/ec/72ec7a8ae3ddb73a42846d61381ecf60.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/72/ec/72ec7a8ae3ddb73a42846d61381ecf60.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/72/ec/72ec7a8ae3ddb73a42846d61381ecf60.jpg"
+          },
+          "source": {
+            "name": "imdb.com",
+            "link": "http://www.imdb.com/title/tt1800241/mediaviewer/rm3424312064"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/f1/38/f138db854422ae3427ebad40fd550eb7.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/f1/38/f138db854422ae3427ebad40fd550eb7.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/f1/38/f138db854422ae3427ebad40fd550eb7.jpg"
+          },
+          "source": {
+            "name": "imdb.com",
+            "link": "http://www.imdb.com/title/tt1800241/mediaviewer/rm3407534848"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/b7/a7/b7a74ce1a61f349371f518ffe6cdc100.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/b7/a7/b7a74ce1a61f349371f518ffe6cdc100.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/b7/a7/b7a74ce1a61f349371f518ffe6cdc100.jpg"
+          },
+          "source": {
+            "name": "imdb.com",
+            "link": "http://www.imdb.com/title/tt1800241/mediaviewer/rm2958896640"
+          }
+        }
+      ],
+      "poster": {
+        "image": "https://kudago.com/media/images/movie/poster/0f/fa/0ffa8187662b3f3d9b59cc81e16c8ac1.jpg",
+        "thumbnails": {
+          "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/poster/0f/fa/0ffa8187662b3f3d9b59cc81e16c8ac1.jpg",
+          "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/poster/0f/fa/0ffa8187662b3f3d9b59cc81e16c8ac1.jpg"
+        },
+        "source": {
+          "name": "",
+          "link": ""
+        }
+      },
+      "url": "",
+      "imdb_url": "http://www.imdb.com/title/tt1800241/?ref_=nv_sr_1",
+      "imdb_rating": 7.3
+    },
+    {
+      "id": 3475,
+      "site_url": "https://kudago.com/movie/zver/",
+      "publication_date": 1530781009,
+      "slug": "zver",
+      "title": "Зверь",
+      "description": "",
+      "body_text": "<p>Британский триллер о запретной любви с Джонни Флинном и Джесси Бакли. Молодая девушка Молл живёт на маленьком острове со строгими родителями, следящими буквально за каждым её шагом. Но однажды в жизнь Молл приходит Паскаль — красивый, весёлый и свободный. С ним девушка наконец может обрести счастье, но время для их романа не самое удачное: по городу рыщет маньяк, и под подозрение попадает каждый мужчина на острове.</p>",
+      "is_editors_choice": false,
+      "favorites_count": 0,
+      "genres": [
+        {
+          "id": 5,
+          "name": "триллер",
+          "slug": "thriller"
+        }
+      ],
+      "comments_count": 0,
+      "original_title": "Beast",
+      "locale": "ru",
+      "country": "Великобритания",
+      "year": 2018,
+      "language": "английский",
+      "running_time": 107,
+      "budget_currency": "RUB",
+      "budget": 0.0,
+      "mpaa_rating": "",
+      "age_restriction": "18+",
+      "stars": "Джесси Бакли, Джонни Флинн, Джералдина Джеймс, Чарли Палмер Ротуэлл, Хэтти Готобед, Шеннон Тарбет, Эмили Тааффе, Тристан Грейвелл, Олуэн Фуэр, Тим Вудворд, Клэр Рафферти, Оливер Молтман",
+      "director": "Майкл Пирс",
+      "writer": "Майкл Пирс",
+      "awards": "{\"entityMap\":{},\"blocks\":[{\"key\":\"1d3d\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}]}",
+      "trailer": "https://www.youtube.com/watch?v=L59AoxsCLdQ",
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/movie/c2/1f/c21f21e195359b0b79967e59520ea1fb.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/c2/1f/c21f21e195359b0b79967e59520ea1fb.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/c2/1f/c21f21e195359b0b79967e59520ea1fb.jpg"
+          },
+          "source": {
+            "name": "imdb.com",
+            "link": "https://www.imdb.com/title/tt5628302/mediaindex?ref_=tt_pv_mi_sm"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/95/bd/95bd1f2781b64ccd6ed5d5c268817add.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/95/bd/95bd1f2781b64ccd6ed5d5c268817add.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/95/bd/95bd1f2781b64ccd6ed5d5c268817add.jpg"
+          },
+          "source": {
+            "name": "imdb.com",
+            "link": "https://www.imdb.com/title/tt5628302/mediaindex?ref_=tt_pv_mi_sm"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/ac/51/ac51ecb88b97457ca0559b604c2930bd.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/ac/51/ac51ecb88b97457ca0559b604c2930bd.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/ac/51/ac51ecb88b97457ca0559b604c2930bd.jpg"
+          },
+          "source": {
+            "name": "imdb.com",
+            "link": "https://www.imdb.com/title/tt5628302/mediaindex?ref_=tt_pv_mi_sm"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/da/50/da50c3cb2806bd215ce91b9b4429201a.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/da/50/da50c3cb2806bd215ce91b9b4429201a.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/da/50/da50c3cb2806bd215ce91b9b4429201a.jpg"
+          },
+          "source": {
+            "name": "imdb.com",
+            "link": "https://www.imdb.com/title/tt5628302/mediaindex?ref_=tt_pv_mi_sm"
+          }
+        }
+      ],
+      "poster": {
+        "image": "https://kudago.com/media/images/movie/poster/3a/24/3a247df5b2677886ff061524fcbb72b1_1.jpg",
+        "thumbnails": {
+          "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/poster/3a/24/3a247df5b2677886ff061524fcbb72b1_1.jpg",
+          "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/poster/3a/24/3a247df5b2677886ff061524fcbb72b1_1.jpg"
+        },
+        "source": {
+          "name": "",
+          "link": ""
+        }
+      },
+      "url": "",
+      "imdb_url": "https://www.imdb.com/title/tt5628302/",
+      "imdb_rating": 7.1
+    },
+    {
+      "id": 3214,
+      "site_url": "https://kudago.com/movie/sirota-kazanskaya/",
+      "publication_date": 1513202487,
+      "slug": "sirota-kazanskaya",
+      "title": "Сирота казанская",
+      "description": "",
+      "body_text": "<p>Новогодняя мелодрама Владимира Машкова, рассказывающая о провинциальной учительнице Насте, которая пытается найти отца в канун праздника. На её письмо откликаются сразу три кандидата. Каждый претендует на роль родственника девушки и не собирается покидать дом героини. Новогодняя ночь будет полна ностальгических воспоминаний, курьёзов и пронзительных бесед. </p>",
+      "is_editors_choice": false,
+      "favorites_count": 0,
+      "genres": [
+        {
+          "id": 2,
+          "name": "комедия",
+          "slug": "comedy"
+        },
+        {
+          "id": 6,
+          "name": "мелодрама",
+          "slug": "romance"
+        }
+      ],
+      "comments_count": 0,
+      "original_title": "",
+      "locale": "ru",
+      "country": "Россия",
+      "year": 1997,
+      "language": "русский",
+      "running_time": 82,
+      "budget_currency": "USD",
+      "budget": 800.0,
+      "mpaa_rating": "",
+      "age_restriction": "6+",
+      "stars": "Елена Шевченко, Николай Фоменко, Олег Табаков, Валентин Гафт, Лев Дуров, Виктор Павлов, Татьяна Рогозина, Федор Валиков, Владимир Машков, Михаил Филипчук",
+      "director": "Владимир Машков",
+      "writer": "Олег Антонов",
+      "awards": "",
+      "trailer": "https://www.youtube.com/watch?v=jQmvgej8f7I&t=10s",
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/movie/40/cf/40cf1fe520246d4204281c3e2e24dfef.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/40/cf/40cf1fe520246d4204281c3e2e24dfef.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/40/cf/40cf1fe520246d4204281c3e2e24dfef.jpg"
+          },
+          "source": {
+            "name": "filmpro.ru",
+            "link": "https://www.filmpro.ru/movies/31323/shot"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/76/90/769007a68a382c24ec32ea838fbb9992.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/76/90/769007a68a382c24ec32ea838fbb9992.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/76/90/769007a68a382c24ec32ea838fbb9992.jpg"
+          },
+          "source": {
+            "name": "filmpro.ru",
+            "link": "https://www.filmpro.ru/movies/31323/shot"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/6e/ff/6eff377080aa686e74bd39905c218769.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/6e/ff/6eff377080aa686e74bd39905c218769.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/6e/ff/6eff377080aa686e74bd39905c218769.jpg"
+          },
+          "source": {
+            "name": "vokrug.tv",
+            "link": "https://www.vokrug.tv/product/show/sirota_kazanskaya/"
+          }
+        }
+      ],
+      "poster": {
+        "image": "https://kudago.com/media/images/movie/poster/e2/6e/e26e9a01e9eeec96ac669a5522113fe4.jpg",
+        "thumbnails": {
+          "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/poster/e2/6e/e26e9a01e9eeec96ac669a5522113fe4.jpg",
+          "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/poster/e2/6e/e26e9a01e9eeec96ac669a5522113fe4.jpg"
+        },
+        "source": {
+          "name": "",
+          "link": ""
+        }
+      },
+      "url": "",
+      "imdb_url": "http://www.imdb.com/title/tt0129380/",
+      "imdb_rating": 7.0
+    },
+    {
+      "id": 3147,
+      "site_url": "https://kudago.com/movie/dikaya-shtuchka/",
+      "publication_date": 1508934908,
+      "slug": "dikaya-shtuchka",
+      "title": "Дикая штучка",
+      "description": "",
+      "body_text": "<p>Комедийный боевик о тягостях и невзгодах простого убийцы от режиссёра «Монахинь в бегах». Одинокий киллер среднего возраста живёт с матерью и страдает от неудач в личной жизни, пока не встречает очередную жертву — талантливую преступницу Роуз. В основе картины лежит сюжет французского фильма 1993 года «Нежная мишень». </p>",
+      "is_editors_choice": false,
+      "favorites_count": 0,
+      "genres": [
+        {
+          "id": 4,
+          "name": "боевик",
+          "slug": "action"
+        },
+        {
+          "id": 2,
+          "name": "комедия",
+          "slug": "comedy"
+        }
+      ],
+      "comments_count": 0,
+      "original_title": "Wild Target",
+      "locale": "ru",
+      "country": "Великобритания, Франция",
+      "year": 2010,
+      "language": "английский",
+      "running_time": 98,
+      "budget_currency": "RUB",
+      "budget": 0.0,
+      "mpaa_rating": "",
+      "age_restriction": "18+",
+      "stars": "Билл Найи, Эмили Блант, Руперт Гринт, Руперт Эверетт, Айлин Аткинс, Мартин Фриман, Грегор Фишер, Джофф Белл, Рори Киннер, Дункан Дафф",
+      "director": "Джонатан Линн",
+      "writer": "Люсинда Коксон, Пьер Сальвадори",
+      "awards": "",
+      "trailer": "https://youtu.be/8axaecPy3CA",
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/movie/3e/c5/3ec5a5691348aab627c80c0c67c1a542.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/3e/c5/3ec5a5691348aab627c80c0c67c1a542.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/3e/c5/3ec5a5691348aab627c80c0c67c1a542.jpg"
+          },
+          "source": {
+            "name": "themoviedb.org",
+            "link": "https://www.themoviedb.org/movie/44147-wild-target/images/backdrops"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/b1/3c/b13c8f55e73fad4354b3e7011e3bf3d0.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/b1/3c/b13c8f55e73fad4354b3e7011e3bf3d0.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/b1/3c/b13c8f55e73fad4354b3e7011e3bf3d0.jpg"
+          },
+          "source": {
+            "name": "themoviedb.org",
+            "link": "https://www.themoviedb.org/movie/44147-wild-target/images/backdrops"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/80/21/80212b4045f999b7eab507c7b7467ef9.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/80/21/80212b4045f999b7eab507c7b7467ef9.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/80/21/80212b4045f999b7eab507c7b7467ef9.jpg"
+          },
+          "source": {
+            "name": "themoviedb.org",
+            "link": "https://www.themoviedb.org/movie/44147-wild-target/images/backdrops"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/06/23/06231f22655ec62c025e7c54d6dd78c4.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/06/23/06231f22655ec62c025e7c54d6dd78c4.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/06/23/06231f22655ec62c025e7c54d6dd78c4.jpg"
+          },
+          "source": {
+            "name": "themoviedb.org",
+            "link": "https://www.themoviedb.org/movie/44147-wild-target/images/backdrops"
+          }
+        }
+      ],
+      "poster": {
+        "image": "https://kudago.com/media/images/movie/poster/1a/0e/1a0eb5aa22ffdd51f6cce06c9eb2f43e.jpg",
+        "thumbnails": {
+          "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/poster/1a/0e/1a0eb5aa22ffdd51f6cce06c9eb2f43e.jpg",
+          "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/poster/1a/0e/1a0eb5aa22ffdd51f6cce06c9eb2f43e.jpg"
+        },
+        "source": {
+          "name": "",
+          "link": ""
+        }
+      },
+      "url": "",
+      "imdb_url": "http://www.imdb.com/title/tt1235189",
+      "imdb_rating": 6.8
+    },
+    {
+      "id": 3224,
+      "site_url": "https://kudago.com/movie/pyilayuschaya-ravnina/",
+      "publication_date": 1513202470,
+      "slug": "pyilayuschaya-ravnina",
+      "title": "Пылающая равнина",
+      "description": "",
+      "body_text": "<p>Дебют мексиканца Гильермо Арриаги — сценариста фундаментальных драм «Сука-любовь», «21 грамм» и «Вавилон». Картина связывает в единое полотно независимые истории, разбросанные во времени. В центре — юная Марианна, которая пытается расстроить роман своей матери и помирить её с отцом. Повзрослев, девушка анализирует свою трагическую судьбу и раскаивается за содеянное.</p>",
+      "is_editors_choice": false,
+      "favorites_count": 1,
+      "genres": [
+        {
+          "id": 1,
+          "name": "драма",
+          "slug": "drama"
+        },
+        {
+          "id": 6,
+          "name": "мелодрама",
+          "slug": "romance"
+        }
+      ],
+      "comments_count": 0,
+      "original_title": "The Burning Plain",
+      "locale": "ru",
+      "country": "США, Аргентина",
+      "year": 2008,
+      "language": "английский",
+      "running_time": 107,
+      "budget_currency": "USD",
+      "budget": 20000000.0,
+      "mpaa_rating": "r",
+      "age_restriction": "16+",
+      "stars": "Шарлиз Терон, Ким Бейсингер, Дженнифер Лоуренс, Жоаки де Алмейда, Дж.Д. Пардо, Хосе Мария Яспик, Тесса Иа, Дэниэл Пино, Робин Танни, Джон Корбетт",
+      "director": "Гильермо Арриага",
+      "writer": "Гильермо Арриага",
+      "awards": "**Венецианский кинофестиваль, 2008 год**\r\nПобедитель (1):\r\nПремия Марчелло Мастрояни",
+      "trailer": "https://www.youtube.com/watch?v=09uFSfmo_fM",
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/movie/f1/e9/f1e9af04b5fb1a27680ee05feb6f321a.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/f1/e9/f1e9af04b5fb1a27680ee05feb6f321a.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/f1/e9/f1e9af04b5fb1a27680ee05feb6f321a.jpg"
+          },
+          "source": {
+            "name": "imdb.com",
+            "link": "http://www.imdb.com/title/tt1068641/mediaviewer/rm2788632320"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/5c/10/5c10f486525ac22ab78dd23a8069e98d.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/5c/10/5c10f486525ac22ab78dd23a8069e98d.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/5c/10/5c10f486525ac22ab78dd23a8069e98d.jpg"
+          },
+          "source": {
+            "name": "ourmaninboston.wordpress.com",
+            "link": "https://ourmaninboston.wordpress.com/tag/the-burning-plain/"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/2f/8e/2f8e01b3908a1d2dfff36d79b6046a96.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/2f/8e/2f8e01b3908a1d2dfff36d79b6046a96.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/2f/8e/2f8e01b3908a1d2dfff36d79b6046a96.jpg"
+          },
+          "source": {
+            "name": "rottentomatoes.com",
+            "link": "https://www.rottentomatoes.com/m/burning_plain/"
+          }
+        }
+      ],
+      "poster": {
+        "image": "https://kudago.com/media/images/movie/poster/85/5a/855ac6f180ef7d99725cdee45f8f5c91.jpg",
+        "thumbnails": {
+          "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/poster/85/5a/855ac6f180ef7d99725cdee45f8f5c91.jpg",
+          "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/poster/85/5a/855ac6f180ef7d99725cdee45f8f5c91.jpg"
+        },
+        "source": {
+          "name": "",
+          "link": ""
+        }
+      },
+      "url": "",
+      "imdb_url": "http://www.imdb.com/title/tt1068641/",
+      "imdb_rating": 6.8
+    },
+    {
+      "id": 3139,
+      "site_url": "https://kudago.com/movie/vojna-i-mir/",
+      "publication_date": 1508933118,
+      "slug": "vojna-i-mir",
+      "title": "Война и мир",
+      "description": "",
+      "body_text": "<p>Масштабная экранизация романа Льва Толстого с восемью тысячами итальянских солдат в роли статистов, «постаревшим» Пьером Безуховым в исполнении 50-летнего Генри Фонды и рекордным гонораром Одри Хепбёрн, которой роль далась тяжелее всех предшествующих и дальнейших. На родине фильм не получил широкого одобрения, однако в СССР произвёл фурор. По слухам, именно картина Кинга Видора вдохновила Сергея Бондарчука на начало работы над собственной версией «Войны и мира», впоследствии получившей «Оскар». </p>",
+      "is_editors_choice": false,
+      "favorites_count": 0,
+      "genres": [
+        {
+          "id": 1,
+          "name": "драма",
+          "slug": "drama"
+        },
+        {
+          "id": 18,
+          "name": "исторический",
+          "slug": "historical"
+        },
+        {
+          "id": 6,
+          "name": "мелодрама",
+          "slug": "romance"
+        }
+      ],
+      "comments_count": 0,
+      "original_title": "War and Peace",
+      "locale": "ru",
+      "country": "США, Италия",
+      "year": 1956,
+      "language": "английский",
+      "running_time": 208,
+      "budget_currency": "RUB",
+      "budget": 0.0,
+      "mpaa_rating": "",
+      "age_restriction": "12+",
+      "stars": "Одри Хепберн, Генри Фонда, Мел Феррер, Витторио Гассман, Херберт Лом, Оскар Хомолка, Анита Экберг, Хельмут Дантин, Туллио Карминати, Бэрри Джонс",
+      "director": "Кинг Видор",
+      "writer": "Джан Гаспаре Наполитано, Марио Сольдати",
+      "awards": "",
+      "trailer": "https://youtu.be/WgC38YZzQ-c",
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/movie/0d/eb/0deb7fdc3be294223dc2d67ea825815c.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/0d/eb/0deb7fdc3be294223dc2d67ea825815c.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/0d/eb/0deb7fdc3be294223dc2d67ea825815c.jpg"
+          },
+          "source": {
+            "name": "themoviedb.org",
+            "link": "https://www.themoviedb.org/movie/11706-war-and-peace/images/backdrops"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/e4/c9/e4c9a2ac95498490944f71093dc9ae70.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/e4/c9/e4c9a2ac95498490944f71093dc9ae70.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/e4/c9/e4c9a2ac95498490944f71093dc9ae70.jpg"
+          },
+          "source": {
+            "name": "themoviedb.org",
+            "link": "https://www.themoviedb.org/movie/11706-war-and-peace/images/backdrops"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/ef/3f/ef3f50ad9e662c39a8f38178ec1fc148.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/ef/3f/ef3f50ad9e662c39a8f38178ec1fc148.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/ef/3f/ef3f50ad9e662c39a8f38178ec1fc148.jpg"
+          },
+          "source": {
+            "name": "themoviedb.org",
+            "link": "https://www.themoviedb.org/movie/11706-war-and-peace/images/backdrops"
+          }
+        }
+      ],
+      "poster": {
+        "image": "https://kudago.com/media/images/movie/poster/a0/e2/a0e25644a72c06c43dfe574d5dc6a0dd.jpg",
+        "thumbnails": {
+          "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/poster/a0/e2/a0e25644a72c06c43dfe574d5dc6a0dd.jpg",
+          "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/poster/a0/e2/a0e25644a72c06c43dfe574d5dc6a0dd.jpg"
+        },
+        "source": {
+          "name": "",
+          "link": ""
+        }
+      },
+      "url": "",
+      "imdb_url": "http://www.imdb.com/title/tt0049934/",
+      "imdb_rating": 6.8
+    },
+    {
+      "id": 3132,
+      "site_url": "https://kudago.com/movie/komnata-straha/",
+      "publication_date": 1508402311,
+      "slug": "komnata-straha",
+      "title": "Комната страха",
+      "description": "",
+      "body_text": "<p>Мэг Олтман и её юная дочь Сара переехали в респектабельный дом, в котором есть специальная комната с титановой дверью и камерами наблюдения на случай проникновения грабителей. Вскоре обитательницам здания приходится ей воспользоваться, чтобы защитить себя от банды алчных и очень опасных преступников. Камерный и атмосферный триллер Дэвида Финчера («Бойцовский клуб», «Исчезнувшая», «Социальная сеть») заставляет изрядно понервничать, вызывает чувство лёгкой клаустрофобии и держит высокий градус напряжения.</p>",
+      "is_editors_choice": false,
+      "favorites_count": 0,
+      "genres": [
+        {
+          "id": 1,
+          "name": "драма",
+          "slug": "drama"
+        },
+        {
+          "id": 5,
+          "name": "триллер",
+          "slug": "thriller"
+        }
+      ],
+      "comments_count": 0,
+      "original_title": "Panic room",
+      "locale": "ru",
+      "country": "США",
+      "year": 2002,
+      "language": "английский",
+      "running_time": 107,
+      "budget_currency": "USD",
+      "budget": 48000000.0,
+      "mpaa_rating": "r",
+      "age_restriction": "16+",
+      "stars": "Джоди Фостер, Кристен Стюарт, Форест Уитакер, Дуайт Йоакам, Джаред Лето, Патрик Бошо, Энн Магнусон, Йен Бьюкэнэн, Мэл Родригез, Пол Шульц",
+      "director": "Дэвид Финчер",
+      "writer": "Дэвид Кепп",
+      "awards": "",
+      "trailer": "https://www.youtube.com/watch?v=wSB0BENenmA",
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/movie/03/2a/032a5b087bc5a119807c91dbf34774c3.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/03/2a/032a5b087bc5a119807c91dbf34774c3.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/03/2a/032a5b087bc5a119807c91dbf34774c3.jpg"
+          },
+          "source": {
+            "name": "muz1.tv",
+            "link": "http://www.muz1.tv/events/7679"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/b5/2e/b52eb887ba134a268ce19884231c5d8f.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/b5/2e/b52eb887ba134a268ce19884231c5d8f.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/b5/2e/b52eb887ba134a268ce19884231c5d8f.jpg"
+          },
+          "source": {
+            "name": "plus.kinopoisk.ru",
+            "link": "https://plus.kinopoisk.ru/film/780/"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/movie/29/68/29689a8fc6cedc030044eb6df3d2125b.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/29/68/29689a8fc6cedc030044eb6df3d2125b.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/29/68/29689a8fc6cedc030044eb6df3d2125b.jpg"
+          },
+          "source": {
+            "name": "kino-teatr.ru",
+            "link": "http://www.kino-teatr.ru/kino/movie/hollywood/25707/foto/314701/"
+          }
+        }
+      ],
+      "poster": {
+        "image": "https://kudago.com/media/images/movie/poster/ec/f9/ecf9e25d89a99d673e00cc979a92a998.jpg",
+        "thumbnails": {
+          "640x384": "https://kudago.com/media/thumbs/640x384/images/movie/poster/ec/f9/ecf9e25d89a99d673e00cc979a92a998.jpg",
+          "144x96": "https://kudago.com/media/thumbs/144x96/images/movie/poster/ec/f9/ecf9e25d89a99d673e00cc979a92a998.jpg"
+        },
+        "source": {
+          "name": "",
+          "link": ""
+        }
+      },
+      "url": "",
+      "imdb_url": "http://www.imdb.com/title/tt0258000/",
+      "imdb_rating": 6.8
+    }
+  ]
+}

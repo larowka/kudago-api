@@ -1,0 +1,2189 @@
+{
+  "count": 17881,
+  "next": "https://kudago.com/public-api/v1.4/places/?expand=images&fields=id%2Ctitle%2Cslug%2Caddress%2Ctimetable%2Cphone%2Cis_stub%2Cbody_text%2Cdescription%2Csite_url%2Cforeign_url%2Ccoords%2Csubway%2Cfavorites_count%2Cimages%2Ccomments_count%2Cis_closed%2Ccategories%2Cshort_title%2Ctags%2Clocation%2Cage_restriction%2Cdisable_comments%2Chas_parking_lot&page=2",
+  "previous": null,
+  "results": [
+    {
+      "id": 157,
+      "title": "Музей современного искусства Эрарта",
+      "slug": "erarta",
+      "address": "29-я линия В. О., д. 2",
+      "timetable": "пн, ср–вс 10:00–22:00",
+      "phone": "+7 812 324-08-09",
+      "is_stub": false,
+      "body_text": "<p>Перефразируя известную присказку, можно сказать, что музей начинается с фасада. У входа в <strong>Эрарту</strong> гостей встречают две статуи, объясняющие название <a href=\"http://kudago.com/spb/museums/\">музея</a> — фигуры богинь Era и Arta. Здание, возведённое в стиле сталинского неоклассицизма в 1951 году, внутри основательно перестроено. На первом этаже располагается грот, где сочетание красного и серого — основной лейтмотив. Помимо стойки ресепшена на первом этаже находится gift shop, книжный магазин с широким выбором изданий об искусстве и магазин принтов и жикле, которые создаются в мастерской музея.</p>\n<p>Для тех, кто хочет лучше разбираться в современном искусстве, по Музейному крылу, в котором находится постоянная экспозиция, ежедневно (кроме вторника) в 12:00, 16:00 и 19:00 проводятся часовые обзорные <a class=\"external-link\" href=\"https://www.erarta.com/ru/visit/guidedtours/\" rel=\"nofollow\" target=\"_blank\">экскурсии</a>. Самостоятельным посетителям рекомендуется обращать внимание на описания объектов. К примеру, без объяснения не так просто понять смысл произведения science art «Модель биполярной активности».</p>\n<p><img src=\"//kudago.com/media/thumbs/xl/images/place/a8/86/a8867799ba19496b5656f992944edf16.JPG\"></p>\n<p>Пройдя через большой зал первого этажа, посетители выходят к комнатам U-space. Тотальные инсталляции U-space погружают гостей в определённую атмосферу посредством света, звуков и запахов. Особой популярностью пользуется «Вишнёвый сад». Для каждого U-space надо покупать отдельный билет на ресепшен.</p>\n<p><img src=\"//kudago.com/media/thumbs/xl/images/place/f9/d5/f9d51ec52865f04a45a2fefa19b3dbcb.jpg\"></p>\n<p>На втором этаже Эрарты также находятся комнаты U-space и зал Елены Фигуриной, в котором демонстрируется мультимедийный спектакль «Отчего люди не летают?». Третий этаж занимают два кинозала, где можно увидеть истории об оживших картинах и мультсериал «Чёрный квадрат». Ещё два U-space расположены на четвёртом этаже. Здесь же экспонируются многочисленные экспериментальные картины, при создании которых использовались битум, мазут, кузбасс-лак и прочие нехудожественные средства и материалы. На пятом этаже посетителей ждут внушительные по размерам инсталляции и картины.</p>\n<p>На цокольном этаже Музейного крыла размещается ресторан Erarta. В тёплое время года заведение открывает летнюю террасу.</p>\n<p><img src=\"//kudago.com/media/thumbs/xl/images/place/8b/79/8b795458bf484fbb85d62679ad59c934.jpg\"></p>\n<p>В противоположном — Выставочном — крыле также пять этажей, и все они отданы под временные выставки, которые полностью обновляются примерно раз в 2–2,5 месяца. Среди недавних крупных событий — «Скульптуры Сальвадора Дали», «Стиль Ducati», «Под одеждой. История дизайна нижнего белья» (проект из лондонского музея Виктории и Альберта), «Восхитительный мир Феллини» и другие.</p>\n<p>Между Музейным крылом и временными экспозициями есть только два перехода — на первом и на третьем этажах. В переходе третьего этажа можно посмотреть видеоинтервью с художниками, порисовать на интерактивном экране, отдохнуть в кафе. В галерее третьего этажа находятся «соТы» — боксы, в которых каждый желающий может выставить то, что для него важно.</p>\n<p><img src=\"//kudago.com/media/thumbs/xl/images/place/9d/cd/9dcd1d7514c89b7452ad617af7c00baa.jpg\"></p>\n<p>30 июня 2015 года Эрарта стала частью Google Art Project — уникального виртуального проекта, благодаря которому миллионы пользователей со всего мира могут заочно «посещать» музеи и галереи, расположенные за тысячи километров от них. Увидеть виртуальную <a href=\"http://kudago.com/spb/exhibitions/\">экспозицию</a> Эрарты, а затем заглянуть в Лувр и Метрополитен-музей можно <a class=\"external-link\" href=\"https://www.google.com/culturalinstitute/collection/erarta-museum?projectId=art-project&hl=ru\" rel=\"nofollow\" target=\"_blank\">по ссылке</a>.</p>\n",
+      "description": "<p>От музея современного искусства заранее ожидаешь чего-то новаторского, решительного. В Эрарте можно встретиться и с современными технологиями, и со смелыми экспериментами, и с подчас шокирующими объектами contemporary art.</p>",
+      "site_url": "https://kudago.com/spb/place/erarta/",
+      "foreign_url": "http://www.erarta.com/",
+      "coords": {
+        "lat": 59.93178799999995,
+        "lon": 30.251674
+      },
+      "subway": "Василеостровская, Приморская, Спортивная",
+      "favorites_count": 928,
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/place/83/20/83206505e69f74906bd996c42c4c0fc9.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/83/20/83206505e69f74906bd996c42c4c0fc9.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/83/20/83206505e69f74906bd996c42c4c0fc9.jpg"
+          },
+          "source": {
+            "name": "vk.com",
+            "link": "https://vk.com/album-19191317_00"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/de/89/de89ef20687ea507e57107bfdf0e5735.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/de/89/de89ef20687ea507e57107bfdf0e5735.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/de/89/de89ef20687ea507e57107bfdf0e5735.jpg"
+          },
+          "source": {
+            "name": "vk.com",
+            "link": "https://vk.com/album-19191317_00"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/20/80/2080284223698961282551f7c87f6685.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/20/80/2080284223698961282551f7c87f6685.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/20/80/2080284223698961282551f7c87f6685.jpg"
+          },
+          "source": {
+            "name": "vk.com",
+            "link": "https://vk.com/album-19191317_00"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/bd/f6/bdf60df83d98b8337908752a85639de6.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/bd/f6/bdf60df83d98b8337908752a85639de6.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/bd/f6/bdf60df83d98b8337908752a85639de6.jpg"
+          },
+          "source": {
+            "name": "vk.com",
+            "link": "https://vk.com/album-19191317_00"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/07/a4/07a4791f04d063dddb49abcdbfa6daa0.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/07/a4/07a4791f04d063dddb49abcdbfa6daa0.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/07/a4/07a4791f04d063dddb49abcdbfa6daa0.jpg"
+          },
+          "source": {
+            "name": "vk.com",
+            "link": "https://vk.com/album-19191317_00"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/23/b4/23b46c37ccb99e5f942184f820d8a445.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/23/b4/23b46c37ccb99e5f942184f820d8a445.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/23/b4/23b46c37ccb99e5f942184f820d8a445.jpg"
+          },
+          "source": {
+            "name": "vk.com",
+            "link": "https://vk.com/album-19191317_00"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/ef/96/ef96bbafdfcba465421cd98957cdb68b.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/ef/96/ef96bbafdfcba465421cd98957cdb68b.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/ef/96/ef96bbafdfcba465421cd98957cdb68b.jpg"
+          },
+          "source": {
+            "name": "vk.com",
+            "link": "https://vk.com/album-19191317_00"
+          }
+        }
+      ],
+      "comments_count": 20,
+      "is_closed": false,
+      "categories": [
+        "museums"
+      ],
+      "short_title": "Эрарта",
+      "tags": [
+        "осень",
+        "селфи",
+        "музеи и галереи",
+        "6+",
+        "лучшее"
+      ],
+      "location": "spb",
+      "age_restriction": "6+",
+      "disable_comments": false,
+      "has_parking_lot": false
+    },
+    {
+      "id": 33338,
+      "title": "Comedy PLACE",
+      "slug": "attraktsion-comedy-place",
+      "address": "наб. канала Грибоедова, д. 36",
+      "timetable": "",
+      "phone": "+7 911 922-27-72",
+      "is_stub": false,
+      "body_text": "<p>Здесь проходят сольные и сборные StandUp-концерты, шоу импровизации, открытые микрофоны, съёмки юмористических шоу для YouTube. И вы можете легко стать частью всей этой захватывающей жизни. Comedy PLACE — место, где рождаются звезды комедии и происходят самые яркие юмористические события Петербурга. \n</p><div class=\"contentSlider post-big-preview-slider swiper-container\"><div class=\"swiper-wrapper\"><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"/media/images/rich_editor/3f/07/3f0773c3e3dff368e72888a9aafeb0a8.jpg\" src=\"/media/thumbs/xl/images/rich_editor/3f/07/3f0773c3e3dff368e72888a9aafeb0a8.jpg\"/></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"/media/images/rich_editor/81/c6/81c6567969f64c275ef540b33fcb6ecd.jpg\" src=\"/media/thumbs/xl/images/rich_editor/81/c6/81c6567969f64c275ef540b33fcb6ecd.jpg\"/></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"/media/images/rich_editor/79/fb/79fb20221dbc5dbc207e15e899fb95e8.JPG\" src=\"/media/thumbs/xl/images/rich_editor/79/fb/79fb20221dbc5dbc207e15e899fb95e8.JPG\"/></div></div><div class=\"contentSlider-pagination post-preview-pagination\"></div><div class=\"contentSlider-navigation\"><div class=\"swiper-button-prev\"></div><div class=\"swiper-button-next\"></div></div><div class=\"swiper-button-fullscreen\"></div></div><div class=\"contentInsert\">Осенью события Comedy PLACE проводятся в HOMIE Bar (Литейный просп., д. 17-19) и баре «Поправка» (Лиговский просп., д. 50)</div><p>Здесь вы увидите, как вчерашние ноунеймы становятся звёздами федерального масштаба. И не исключено, что когда-то вы сможете сказать, видя афиши известного артиста: «О, а этого парня я видел в Comedy PLACE!». </p><div class=\"contentSlider post-big-preview-slider swiper-container\"><div class=\"swiper-wrapper\"><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"/media/images/rich_editor/f1/98/f198d881f121edc548fbe642c3dd653b.jpg\" src=\"/media/thumbs/xl/images/rich_editor/f1/98/f198d881f121edc548fbe642c3dd653b.jpg\"/></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"/media/images/rich_editor/e0/c4/e0c466e7e4406fc6a27430747bc37423.jpg\" src=\"/media/thumbs/xl/images/rich_editor/e0/c4/e0c466e7e4406fc6a27430747bc37423.jpg\"/></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"/media/images/rich_editor/3b/90/3b9053a450efcaf1ee637b82323e76e3.jpg\" src=\"/media/thumbs/xl/images/rich_editor/3b/90/3b9053a450efcaf1ee637b82323e76e3.jpg\"/></div></div><div class=\"contentSlider-pagination post-preview-pagination\"></div><div class=\"contentSlider-navigation\"><div class=\"swiper-button-prev\"></div><div class=\"swiper-button-next\"></div></div><div class=\"swiper-button-fullscreen\"></div></div><p>Comedy PLACE предоставляют сцену иностранным артистам на вечерах «Английского стендапа», сталкивают нос к носу смешных девчонок в проекте «А мы и рады» и устраивают эксперименты с форматами в шоу «Бывшие», Improv Comedy Show и Well.com.</p><h3><strong><em>Расписание мероприятий Comedy PLACE на осень:</em></strong></h3><h4><strong>В </strong>HOMIE Bar:</h4><ul><li>15:10 в 19:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=3015709&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Братские. ИмПросто шоу</a></li><li>18.10 в 19:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=1475881&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Техническая вечеринка. StandUp</a></li><li>18.10 в 21:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=3198833&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Тренировочный Баттл. Импровизация</a></li><li>19.10 в 19:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=1151091&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Проверка материала. StandUp</a></li><li>19.10 в 21:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=840973&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Комики против зрителей</a></li><li>20.10 в 19:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=3353246&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Проверочный Standup концерт. Никита Шубин</a></li><li>20.10 в 21:00 — Открытый микрофон</li><li>01.11 в 19:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=1475881&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Техническая вечеринка. StandUp</a> </li><li>02.11 в 19:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=1151091&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Проверка материала. StandUp</a></li><li>02.11 в 21:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=840973&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Комики против зрителей</a></li><li>03.11 в 19:00 — Битва миниатюр</li><li>03.11 в 21:00 — Открытый микрофон</li><li>05.11. в 21:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=476203&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Improv Comedy Show</a></li><li>08.11 в 19:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=1475881&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Техническая вечеринка. StandUp</a> </li><li>09.11 в 19:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=1151091&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Проверка материала. StandUp</a></li><li>09.11 в 21:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=2661491&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">шоу «Видеопрокат»</a></li><li>10.11 в 21:00 — Открытый микрофон</li><li>11.11 в 19:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=476212&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">импровизационное шоу «Бывшие»</a></li><li> 11.11 в 21:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=2336270&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Back to School. StandUp</a> </li><li>15.11 в 19:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=1475881&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Техническая вечеринка. StandUp</a> </li><li>16.11 в 19:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=1151091&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Проверка материала. StandUp</a></li><li>16.11 в 21:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=840973&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Комики против зрителей</a></li><li>17.11 в 19:00 — Битва миниатюр</li><li>17.11 в 21:00 — Открытый микрофон</li><li>19.11. в 21:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=476203&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Improv Comedy Show</a></li><li>23.11 в 19:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=1151091&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Проверка материала. StandUp</a></li><li>23.11 в 21:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=2661491&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">шоу «Видеопрокат»</a></li><li>24.11 в 21:00 — Открытый микрофон</li><li>25.11 в 19:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=476212&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">импровизационное шоу «Бывшие»</a></li><li>25.11 в 21:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=2336270&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Back to School. StandUp</a></li><li>29.11 в 19:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=1475881&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Техническая вечеринка. StandUp</a></li><li>30.11 в 19:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=1151091&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Проверка материала. StandUp</a></li><li>30.11 в 21:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=840973&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Комики против зрителей</a></li></ul><h4>В баре «Поправка»:</h4><ul><li>15.10 в 20:00 — Молодые комики. Standup</li><li>16.10 в 19:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=857169&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Тайные. Импровизационное шоу</a></li><li>17.10 в 19:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=2403191&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">StandUp-концерт на троих</a></li><li>20.10 в 20:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=1608195&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">StandUp Improv Show</a></li><li>21.10 в 20:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=102869&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Импровизация. Команды</a></li><li>22.10 в 20:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=1233071&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">FeM StandUp</a> </li><li>23.10 в 19:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/action/4740?key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4&WIDGET_2666086493=soi1d65r81l2qolu36p1n1d48c\" rel=\"nofollow\" target=\"_blank\">StandUp Money Mic. Битва комиков за деньги</a></li><li>24.10 в 19:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=2403191&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">StandUp-концерт на троих</a></li><li>27.10 в 20:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=857169&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Тайные. Импровизационное шоу</a></li><li>28.10 в 20:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=102869&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Импровизация. Команды</a></li><li>29.10 в 20:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/action/4740?key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4&WIDGET_2666086493=soi1d65r81l2qolu36p1n1d48c\" rel=\"nofollow\" target=\"_blank\">StandUp Money Mic. Битва комиков за деньги</a></li><li>30.10 в 19:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=1233070&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Молодые комики. Standup</a></li><li>31.10 в 19:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=2403191&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">StandUp-концерт на троих</a></li><li>03.11 в 19:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=1608195&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">StandUp Improv Show</a></li><li>04.11 в 19:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=102869&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Импровизация. Команды</a></li><li>06.11 в 18:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=1233071&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">FeM StandUp</a></li><li>06.11 в 21:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/action/4740?key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4&WIDGET_2666086493=soi1d65r81l2qolu36p1n1d48c\" rel=\"nofollow\" target=\"_blank\">StandUp Money Mic. Битва комиков за деньги</a></li><li>07.11 в 19:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=2403191&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">StandUp-концерт на троих</a></li><li>10:11 в 20:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=857169&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Тайные. Импровизационное шоу</a></li><li>11.11 в 20:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=102869&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Импровизация. Команды</a></li><li>12.11 в 19:30 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=1233070&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Молодые комики. Standup</a></li><li>13.11 в 19:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/action/4740?key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4&WIDGET_2666086493=soi1d65r81l2qolu36p1n1d48c\" rel=\"nofollow\" target=\"_blank\">StandUp Money Mic. Битва комиков за деньги</a></li><li>14.11 в 19:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=2403191&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">StandUp-концерт на троих</a></li><li>24.11 в 20:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=1608195&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">StandUp Improv Show</a></li><li>26.11 в 19:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=857169&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Тайные. Импровизационное шоу</a></li><li>26.11 в 22:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=1233070&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">Молодые комики. Standup</a></li><li>28.11 в 19:00 — <a class=\"external-link\" href=\"https://spb.kassir.ru/frame/entry/index?type=A&id=2403191&key=8e8ba820-53b7-8ddf-85dc-bfef0ceadce4\" rel=\"nofollow\" target=\"_blank\">StandUp-концерт на троих</a></li></ul><p>И если Comedy PLACE — точка сбора лучших юмористов в городе, то зачем искать какое-то другое место, чтобы получить заряд позитива и свежего юмора? Двери Comedy PLACE открыты каждый день.</p><p><em>* «Камеди Плэйс, бар «Хомие», «Импрув Камеди Шоу», «Велл.ком»</em></p>",
+      "description": "<p>Если строят целые дома для тиктокеров, то почему ещё нет домов для стендаперов? А вот и есть! Это петербургский Comedy PLACE. С его появлением Санкт-Петербург теперь можно смело называть российской столицей юмора.</p>",
+      "site_url": "https://kudago.com/spb/place/attraktsion-comedy-place/",
+      "foreign_url": "",
+      "coords": {
+        "lat": 59.93043600000001,
+        "lon": 30.32252690000028
+      },
+      "subway": "Гостиный Двор, Сенная Площадь",
+      "favorites_count": 4,
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/place/cb/17/cb1753647d6367f3752946bca9c14116.JPG",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/cb/17/cb1753647d6367f3752946bca9c14116.JPG",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/cb/17/cb1753647d6367f3752946bca9c14116.JPG"
+          },
+          "source": {
+            "name": "предоставлено организатором",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/4f/25/4f25c43c5d0eb978ae005926d231bcd3.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/4f/25/4f25c43c5d0eb978ae005926d231bcd3.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/4f/25/4f25c43c5d0eb978ae005926d231bcd3.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/ac/85/ac8555119ba3f8e64dcc82503aa217ba.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/ac/85/ac8555119ba3f8e64dcc82503aa217ba.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/ac/85/ac8555119ba3f8e64dcc82503aa217ba.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/9f/f8/9ff83351d7014acb306c0c40ff422d7f.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/9f/f8/9ff83351d7014acb306c0c40ff422d7f.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/9f/f8/9ff83351d7014acb306c0c40ff422d7f.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/12/3d/123dc220f91bc843dae2b48e248c85c7.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/12/3d/123dc220f91bc843dae2b48e248c85c7.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/12/3d/123dc220f91bc843dae2b48e248c85c7.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/fa/8d/fa8d7487837167e28c85e5483f6cd64b.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/fa/8d/fa8d7487837167e28c85e5483f6cd64b.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/fa/8d/fa8d7487837167e28c85e5483f6cd64b.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/cb/f8/cbf8c67f3cd1518fa1271e5a2fac9730.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/cb/f8/cbf8c67f3cd1518fa1271e5a2fac9730.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/cb/f8/cbf8c67f3cd1518fa1271e5a2fac9730.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/16/10/16101143dede95445504c591cbc98f68.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/16/10/16101143dede95445504c591cbc98f68.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/16/10/16101143dede95445504c591cbc98f68.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        }
+      ],
+      "comments_count": 0,
+      "is_closed": false,
+      "categories": [
+        "amusement",
+        "sights",
+        "comedy-club",
+        "clubs"
+      ],
+      "short_title": "Comedy PLACE",
+      "tags": [
+        "интересные места",
+        "осень",
+        "юмористы",
+        "развлечения",
+        "веселье",
+        "с друзьями",
+        "16+",
+        "клубы",
+        "камеди клаб"
+      ],
+      "location": "spb",
+      "age_restriction": "16+",
+      "disable_comments": false,
+      "has_parking_lot": false
+    },
+    {
+      "id": 336,
+      "title": "клуб А2 Green Concert",
+      "slug": "klub-a2-spb",
+      "address": "пр. Медиков, дом 3",
+      "timetable": "ежедневно 19:00–23:00 (касса: ежедневно 10:00–22:00)",
+      "phone": "+7 812 333-03-79",
+      "is_stub": false,
+      "body_text": "<p>Клуб «А2» появился на карте Санкт-Петербурга в 2008 году, но после неудачного запуска на пару лет канул в небытие, чтобы в сентябре 2012 возродиться в новом здании с куда более высоким уровнем масштабности и качества. Сегодня A2 Green Concert — это две площадки: вмещающий до 5000 гостей «Мир» и более скромный «Спутник», готовый принять 1500 зрителей.</p>\n<p>Расположенное в историческом центре города помещение оснащено передовым светозвуковым оборудованием, подходящим не только для концертов, но и для спектаклей, церемоний, конференций, показов и корпоративов. На территории в 5000 м2 расположены 12 баров с разнообразной кухней и обширной алкогольной картой. VIP-клиентам предлагаются особые напитки и блюда от шеф-повара.</p>\n<p>Но главный конёк клуба — это, безусловно, концертные мероприятия. Афиша «А2» пестрит исключительно известными именами: здесь выступают российские мастодонты калибра «Арии», «Алисы» и Бориса Гребенщикова, а также звёзды мировой альтернативной и рок-сцены. Нередки в зале и ночные танцевальные мероприятия: прогрессивная молодёжь Петербурга регулярно собирается здесь на больших фестивалях электронной музыки и модных вечеринках.</p>\n<p>Время работы клуба, стоимость билетов и возрастные ограничения зависят от текущего мероприятия. Расписание можно посмотреть на официальном сайте места.</p>\n",
+      "description": "<p>Одна из крупнейших концертных площадок Северной столицы, регулярно обеспечивающая жителей города громкими привозами зарубежных артистов и выступлениями отечественных грандов.</p>\n",
+      "site_url": "https://kudago.com/spb/place/klub-a2-spb/",
+      "foreign_url": "http://a2.fm/",
+      "coords": {
+        "lat": 59.968772,
+        "lon": 30.315293
+      },
+      "subway": "Петроградская",
+      "favorites_count": 78,
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/place/45/93/459368b2f49a4e0c90641e8f48360295.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/45/93/459368b2f49a4e0c90641e8f48360295.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/45/93/459368b2f49a4e0c90641e8f48360295.jpg"
+          },
+          "source": {
+            "name": "ВКонтакте",
+            "link": "https://vk.com/album-40032634_235766321"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/e1/1c/e11cbcd7187606c2da09e0aa4648674b.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/e1/1c/e11cbcd7187606c2da09e0aa4648674b.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/e1/1c/e11cbcd7187606c2da09e0aa4648674b.jpg"
+          },
+          "source": {
+            "name": "ВКонтакте",
+            "link": "https://vk.com/album-40032634_173442267"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/33/aa/33aad32060e060dd8d005b3564953917.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/33/aa/33aad32060e060dd8d005b3564953917.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/33/aa/33aad32060e060dd8d005b3564953917.jpg"
+          },
+          "source": {
+            "name": "ВКонтакте",
+            "link": "https://vk.com/album-40032634_196665028"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/8d/07/8d07efade7b3218eac7ed2b179a19332.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/8d/07/8d07efade7b3218eac7ed2b179a19332.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/8d/07/8d07efade7b3218eac7ed2b179a19332.jpg"
+          },
+          "source": {
+            "name": "ВКонтакте",
+            "link": "https://vk.com/album-40032634_203260372"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/45/ea/45eab642a19dd8a570bcc9f48a687afb.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/45/ea/45eab642a19dd8a570bcc9f48a687afb.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/45/ea/45eab642a19dd8a570bcc9f48a687afb.jpg"
+          },
+          "source": {
+            "name": "ВКонтакте",
+            "link": "https://vk.com/album-40032634_223765797"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/92/a8/92a88ed87be84d8de18ee45b43e1b234.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/92/a8/92a88ed87be84d8de18ee45b43e1b234.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/92/a8/92a88ed87be84d8de18ee45b43e1b234.jpg"
+          },
+          "source": {
+            "name": "ВКонтакте",
+            "link": "https://vk.com/album-40032634_176414360"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/72/c3/72c38c264395057cfac26c1c47cf0982.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/72/c3/72c38c264395057cfac26c1c47cf0982.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/72/c3/72c38c264395057cfac26c1c47cf0982.jpg"
+          },
+          "source": {
+            "name": "kuda-spb.ru",
+            "link": "http://kuda-spb.ru/place/club/klub-a2/"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/01/06/0106b28cccc23bfe9c626d71a65362d3.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/01/06/0106b28cccc23bfe9c626d71a65362d3.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/01/06/0106b28cccc23bfe9c626d71a65362d3.jpg"
+          },
+          "source": {
+            "name": "ticketbest.ru",
+            "link": "https://ticketbest.ru/venue/163080"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/d7/a6/d7a654b36f6985e6c5892543655959ca.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/d7/a6/d7a654b36f6985e6c5892543655959ca.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/d7/a6/d7a654b36f6985e6c5892543655959ca.jpg"
+          },
+          "source": {
+            "name": "ticketbest.ru",
+            "link": "https://ticketbest.ru/venue/163080"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/be/47/be47ab42ab45c704a35ecb270a8c2f47.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/be/47/be47ab42ab45c704a35ecb270a8c2f47.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/be/47/be47ab42ab45c704a35ecb270a8c2f47.jpg"
+          },
+          "source": {
+            "name": "a2.fm",
+            "link": "https://a2.fm/arenda-kluba/kontserty"
+          }
+        }
+      ],
+      "comments_count": 3,
+      "is_closed": false,
+      "categories": [
+        "clubs",
+        "concert-hall"
+      ],
+      "short_title": "А2 Green Concert",
+      "tags": [
+        "12+",
+        "клубы",
+        "концертные залы",
+        "концертная площадка года"
+      ],
+      "location": "spb",
+      "age_restriction": "12+",
+      "disable_comments": false,
+      "has_parking_lot": false
+    },
+    {
+      "id": 33225,
+      "title": "Сервис для поиска собак и кошек из приютов MetPet",
+      "slug": "attraktsion-metpet",
+      "address": "Санкт-Петербург",
+      "timetable": "",
+      "phone": "",
+      "is_stub": false,
+      "body_text": "<p>MetPet стал первым российским сервисом-агрегатором по поиску питомцев. Благодаря проекту хозяину будет легче подобрать себе четвероногого друга, а приюты быстрее пристроят своих жителей в добрые руки. Пока сайт работает в Москве и Петербурге, но в дальнейшем создатели планируют расширить его для других городов.</p><div class=\"contentImage\"><div class=\"contentImage-inner\"><img alt=\"\" class=\"contentImage-image\" data-full=\"/media/images/rich_editor/76/a9/76a964b7da4e46f08dcf283ce688027f.jpg\" src=\"/media/thumbs/xl/images/rich_editor/76/a9/76a964b7da4e46f08dcf283ce688027f.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\">Фото: <a href=\"https://metpet.io/ru/\" target=\"_blank\">metpet.io</a></div></div></div></div><p>Для того, чтобы подобрать себе собаку или кошку, зайдите на сайт и по принципу приложений для знакомств свайпом вправо или влево выберите животное. После этого вы сможете связаться с приютом и договориться о встрече. Приложение работает бесплатно и не берёт деньги за услуги ни с приютов, ни с владельцев питомцев.</p><div class=\"contentImage\"><div class=\"contentImage-inner\"><img alt=\"\" class=\"contentImage-image\" data-full=\"/media/images/rich_editor/d4/6f/d46f3fb1f719c1a8177d0fa4ec2b667b.jpg\" src=\"/media/thumbs/xl/images/rich_editor/d4/6f/d46f3fb1f719c1a8177d0fa4ec2b667b.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\">Фото: <a href=\"https://metpet.io/ru/\" target=\"_blank\">metpet.io</a></div></div></div></div><p>Отправляйтесь на поиски четвероного друга <a class=\"external-link\" href=\"https://metpet.io/ru/\" rel=\"nofollow\" target=\"_blank\">на официальном сайте</a> и читайте увлекательные истории о тех, кто уже встретился со своим животным, в <a class=\"external-link\" href=\"https://www.instagram.com/metpet.io/\" rel=\"nofollow\" target=\"_blank\">Instagram</a> проекта. </p><p>Если вы хотите сами разместить питомца в приложении, напишите авторам проекта на почту: meow@metpet.io.</p>",
+      "description": "<p>Читатели KudaGo создали первый Tinder для животных и их будущих хозяев, благодаря которому вы сможете легко и быстро подобрать себе котика или собачку из приюта. </p>",
+      "site_url": "https://online.kudago.com/place/attraktsion-metpet/",
+      "foreign_url": "https://metpet.io/ru/",
+      "coords": {
+        "lat": 59.938951,
+        "lon": 30.315635
+      },
+      "subway": "",
+      "favorites_count": 5,
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/place/d1/a9/d1a9a8f77fdb387a5aad1023d41fad7a.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/d1/a9/d1a9a8f77fdb387a5aad1023d41fad7a.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/d1/a9/d1a9a8f77fdb387a5aad1023d41fad7a.jpg"
+          },
+          "source": {
+            "name": "shutterstock.com",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/16/c0/16c0464377253ed1d3d7122ea61aedf4.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/16/c0/16c0464377253ed1d3d7122ea61aedf4.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/16/c0/16c0464377253ed1d3d7122ea61aedf4.jpg"
+          },
+          "source": {
+            "name": "shutterstock.com",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/27/b3/27b3a9b785086dacac9cb38459d27bc2.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/27/b3/27b3a9b785086dacac9cb38459d27bc2.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/27/b3/27b3a9b785086dacac9cb38459d27bc2.jpg"
+          },
+          "source": {
+            "name": "shutterstock.com",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/c9/01/c901051e328439f50042224f12c45f18.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/c9/01/c901051e328439f50042224f12c45f18.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/c9/01/c901051e328439f50042224f12c45f18.jpg"
+          },
+          "source": {
+            "name": "shutterstock.com",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/fa/0b/fa0be9accc8c5ace4e84884d61318545.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/fa/0b/fa0be9accc8c5ace4e84884d61318545.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/fa/0b/fa0be9accc8c5ace4e84884d61318545.jpg"
+          },
+          "source": {
+            "name": "shutterstock.com",
+            "link": ""
+          }
+        }
+      ],
+      "comments_count": 0,
+      "is_closed": false,
+      "categories": [
+        "dogs",
+        "cats"
+      ],
+      "short_title": "MetPet",
+      "tags": [
+        "собачий питомник",
+        "благотворительные акции",
+        "кошачий питомник",
+        "животные",
+        "благотворительность",
+        "животные и птицы",
+        "интересное",
+        "места онлайн"
+      ],
+      "location": "online",
+      "age_restriction": 0,
+      "disable_comments": false,
+      "has_parking_lot": false
+    },
+    {
+      "id": 33904,
+      "title": "Уик-энд у Тосканки: озеро, сап-борд и руины древнего монастыря",
+      "slug": "park-ozero-toskanka",
+      "address": "Нижегородская область, Павловский район, город Ворсма",
+      "timetable": "",
+      "phone": "",
+      "is_stub": false,
+      "body_text": "<h2><strong>История места</strong></h2><p>Тосканка — одно из самых экологически чистых и живописных мест Нижегородской области. Согласно легенде, название озеру дали приезжие итальянские купцы, которым эта местность напомнила родную Тоскану.</p><p>На озере есть несколько островов, соединённых деревянными мостиками. На самом большом острове расположен Свято-Троицкий монастырь XVI века, который до недавнего времени лежал в руинах, а теперь активно реставрируется.</p><div class=\"contentImage\"><div class=\"contentImage-inner\"><img alt=\"Свято-Троицкий Островоезерский монастырь\" class=\"contentImage-image\" data-full=\"/media/images/rich_editor/e0/e1/e0e196b5a2d7a3b2338ad91558c3036a.jpg\" src=\"/media/thumbs/xl/images/rich_editor/e0/e1/e0e196b5a2d7a3b2338ad91558c3036a.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\">Фото: <a href=\"https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B5%D0%B7%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C\" target=\"_blank\">ru.wikipedia.org</a></div></div></div><div class=\"contentImage-caption\">Свято-Троицкий Островоезерский монастырь</div></div><h2>Где находится озеро?</h2><p>Тосканка расположена недалеко от города Ворсма (около 65 км от Нижнего Новгорода). В озеро впадают реки Кишма и Суринь. Средняя глубина водоёма — три метра, хотя в некоторых местах она достигает 12 метров. Северный берег озера покрыт густым лесом.</p><h2>Чем заняться? Что посмотреть? </h2><p>Традиционно озеро привлекает любителей водных видов спорта и экотуризма. Здесь можно покататься на сапах (1 500 рублей за двухчасовую прогулку или 2 500 — за полноценное занятие с инструктором). Многие туристические клубы предлагают двухдневную программу, в которую входят катание на доске, питание и организация досуга.</p><p>Сравнительно недавно на дне озера обнаружили пещеры длиной до 100 метров, так что любителям дайвинга тоже сюда. Самая глубокая разведанная точка пещер — 45 метров, при этом вода в озере кристально чистая, что позволяет без помех наблюдать живописный подводный ландшафт.</p><p>Переночевав в гостевом доме или отеле, можно отправиться в Павлово (15 километров от Ворсмы), где находится удивительной красоты усадьба купца Гомулина 1885 года постройки. Это краснокирпичное здание, в котором сейчас располагается исторический музей. Основа экспозиции — коллекция холодного оружия, ножниц и замков, которые производились павловскими умельцами.</p><div class=\"contentSlider post-big-preview-slider swiper-container\"><div class=\"swiper-wrapper\"><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"Прогулка на сапах\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"/media/images/rich_editor/1f/db/1fdb78d7463a242fe148dd603fb1b202.jpg\" src=\"/media/thumbs/xl/images/rich_editor/1f/db/1fdb78d7463a242fe148dd603fb1b202.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\"><div class=\"contentImage-caption\">Прогулка на сапах</div>Фото: <a href=\"https://www.shutterstock.com/ru/image-photo/back-view-on-man-stand-paddle-1874704150\" target=\"_blank\">shutterstock.com</a></div></div></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"Воскресенская церковь в Павлово\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"/media/images/rich_editor/64/47/6447b81c89abe07eae870a3c47a4947e.jpg\" src=\"/media/thumbs/xl/images/rich_editor/64/47/6447b81c89abe07eae870a3c47a4947e.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\"><div class=\"contentImage-caption\">Воскресенская церковь в Павлово</div>Фото: <a href=\"https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%BE\" target=\"_blank\">ru.wikipedia.org</a></div></div></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"Мастерская по производству ножниц\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"/media/images/rich_editor/60/e8/60e85e2cf0daa266723b3c8b22ec0eb5.jpg\" src=\"/media/thumbs/xl/images/rich_editor/60/e8/60e85e2cf0daa266723b3c8b22ec0eb5.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\"><div class=\"contentImage-caption\">Мастерская по производству ножниц</div>Фото: <a href=\"https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%BE\" target=\"_blank\">ru.wikipedia.org</a></div></div></div></div><div class=\"contentSlider-pagination post-preview-pagination\"></div><div class=\"contentSlider-navigation\"><div class=\"swiper-button-prev\"></div><div class=\"swiper-button-next\"></div></div><div class=\"swiper-button-fullscreen\"></div></div><h2>Как добраться?</h2><p>Своим ходом до Ворсмы можно доехать на автобусе от нижегородского автовокзала «Щербинки» (время в пути — чуть больше часа). Цена билета — 200 рублей.</p><p>Добраться немного быстрее можно на личном автомобиле.</p><div class=\"contentImage\"><div class=\"contentImage-inner\"><a href=\"https://www.google.com/maps/dir/%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9+%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4,+%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C/%D0%92%D0%BE%D1%80%D1%81%D0%BC%D0%B0,+%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB./@56.1690818,43.3386891,10z/data=!4m13!4m12!1m5!1m1!1s0x4151d5f9ee033251:0x28d3c0cf849657aa!2m2!1d44.0058793!2d56.3268684!1m5!1m1!1s0x414e4c3f97e3e035:0xd39b797016335c9!2m2!1d43.2745128!2d55.988075\" target=\"_blank\"><img alt=\"\" class=\"contentImage-image\" data-full=\"/media/images/rich_editor/15/fd/15fd6f33c3148ae0c0861e204b08058e.jpg\" src=\"/media/thumbs/xl/images/rich_editor/15/fd/15fd6f33c3148ae0c0861e204b08058e.jpg\"/></a><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\">Фото: <a href=\"https://www.google.com/maps/dir/%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9+%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4,+%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C/%D0%92%D0%BE%D1%80%D1%81%D0%BC%D0%B0,+%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB./@56.1690818,43.3386891,10z/data=!4m13!4m12!1m5!1m1!1s0x4151d5f9ee033251:0x28d3c0cf849657aa!2m2!1d44.0058793!2d56.3268684!1m5!1m1!1s0x414e4c3f97e3e035:0xd39b797016335c9!2m2!1d43.2745128!2d55.988075\" target=\"_blank\">google.com/maps/</a></div></div></div></div><h2>Где остановиться?</h2><p>Переночевать можно в гостином доме «Медведь» в Ворсме (1 500 рублей с человека за ночь) или в гостинице «Ока» в Павлово (от 1 140 рублей с человека за ночь). Более дорогой, но зато и более комфортный отдых предлагает экопарк «Лесной ключ». Здесь двухместный номер обойдётся в 3 800 рублей за ночь.</p><h2>Совет от KudaGo</h2><p>Вокруг Тосканки много интересных мест и достопримечательностей, так что лучше составить план поездки заранее (так вы ничего не пропустите). Не забудьте захватить в путешествие тёплые вещи и непромокаемую обувь.</p><p>О других вариантах отдыха в последние тёплые деньки осени читайте <a href=\"https://kudago.com/all/list/gde-provesti-osennij-uik-end/\">в подборке KudaGo</a>. </p>",
+      "description": "<p>Продлить лето легко: отправляйтесь к чистейшему озеру Нижегородской области, катайтесь на сапах, устройте поседелки у вечернего костра. А на следующий день заедьте в Павлово, посетите усадьбу Гомулина и музей с уникальной коллекцией ножей, ножниц и замков, которые производились местными мастерами.</p>",
+      "site_url": "https://nn.kudago.com/place/park-ozero-toskanka/",
+      "foreign_url": "",
+      "coords": {
+        "lat": 55.98807499999995,
+        "lon": 43.27451279999977
+      },
+      "subway": "",
+      "favorites_count": 0,
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/place/b4/aa/b4aa04bc166c24309d6631c5205557bc.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/b4/aa/b4aa04bc166c24309d6631c5205557bc.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/b4/aa/b4aa04bc166c24309d6631c5205557bc.jpg"
+          },
+          "source": {
+            "name": "ru.wikipedia.org",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B5%D0%B7%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/1e/5a/1e5ad1ac3bd4f4be913907b6fb578b21.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/1e/5a/1e5ad1ac3bd4f4be913907b6fb578b21.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/1e/5a/1e5ad1ac3bd4f4be913907b6fb578b21.jpg"
+          },
+          "source": {
+            "name": "shutterstock.com",
+            "link": "https://www.shutterstock.com/ru/image-photo/men-friends-sail-on-sup-boards-1122771251"
+          }
+        }
+      ],
+      "comments_count": 0,
+      "is_closed": false,
+      "categories": [
+        "park",
+        "suburb",
+        "prirodnyj-zapovednik"
+      ],
+      "short_title": "Озеро Тосканка",
+      "tags": [
+        "озёра",
+        "парки (интересные места, отдых)",
+        "природный заповедник",
+        "путешествия",
+        "продлеваем лето в сентябре! лучшие места, события и маршруты на последний тёплый уик-энд 17-19 сентября.",
+        "развлечения вайфай",
+        "выходные",
+        "загородный отдых",
+        "пригороды",
+        "новое на сайте"
+      ],
+      "location": "nnv",
+      "age_restriction": null,
+      "disable_comments": false,
+      "has_parking_lot": false
+    },
+    {
+      "id": 17073,
+      "title": "центр современной культуры «Смена»",
+      "slug": "centr-sovremennoj-kultury-smena",
+      "address": "ул. Бурхана Шахиди,  д.7",
+      "timetable": "вт–вс 12:00–20:00",
+      "phone": "+7 843 249-50-23",
+      "is_stub": false,
+      "body_text": "<p>«Смена» занимает помещения на втором этаже здания фуражного склада и конюшни XIX века. Сейчас в культурном центре действуют 4 площадки: лекторий, книжный магазин и два галерейных пространства.</p>\n<p>Основная галерея занимает более 300 кв. м. и позволяет передвигать стенды под требования ежемесячных экспозиций. Второе галерейное пространство – «Чердак» площадью 160 кв. м., – предназначено для эксклюзивных сезонных выставок.</p>\n<p>Лекторий вместимостью до 70 человек оборудован всем необходимым для проведения публичных лекций с возможность аудио- и видеотрансляций. Книжный магазин предложит вашему вниманию книги более 20 независимых издательств, а также лекции в рамках проводимых в центре презентаций.</p>\n<p>Пространство «Смена» ставит перед собой задачу содействовать популяризации актуального современного  искусства в Казани и оказывать поддержку молодым российским художникам. Помещение центра позволяет многое: общая площадь двухэтажного здания с чердаком составляет 1500 кв.м. Сейчас «Смена» занимает лишь треть строения, но культурный центр готов расширяться, в ближайших планах – открытие кофейни.</p>\n<p><a class=\"external-link\" href=\"http://vk.com/smena_kazan\" rel=\"nofollow\" target=\"_blank\">Официальный паблик</a></p>\n",
+      "description": "<p>На сегодняшний день в состав «Смены» входит художественная галерея, книжный магазин и лекторий. Всего за год центр превратился в ведущую городскую площадку для проведения самых разноплановых мероприятий: выставок, спектаклей, академических концертов, научных боев, лекций.</p>\n",
+      "site_url": "https://kzn.kudago.com/place/centr-sovremennoj-kultury-smena/",
+      "foreign_url": "http://www.smenagallery.ru/",
+      "coords": {
+        "lat": 55.78833799999999,
+        "lon": 49.10368299999999
+      },
+      "subway": "",
+      "favorites_count": 21,
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/place/e8/f7/e8f7a30b09dcd51687eb5a188e39c845.png",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/e8/f7/e8f7a30b09dcd51687eb5a188e39c845.png",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/e8/f7/e8f7a30b09dcd51687eb5a188e39c845.png"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/53/cf/53cff7ca763a7d704e1b9a1c48a68cf5.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/53/cf/53cff7ca763a7d704e1b9a1c48a68cf5.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/53/cf/53cff7ca763a7d704e1b9a1c48a68cf5.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/7f/a1/7fa1dd08a981e0afb08a674e48e1d3ca.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/7f/a1/7fa1dd08a981e0afb08a674e48e1d3ca.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/7f/a1/7fa1dd08a981e0afb08a674e48e1d3ca.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/84/f6/84f6748d38cff39135240381b9cfb8ea.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/84/f6/84f6748d38cff39135240381b9cfb8ea.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/84/f6/84f6748d38cff39135240381b9cfb8ea.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/74/11/7411255151b922e65af1781754190318.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/74/11/7411255151b922e65af1781754190318.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/74/11/7411255151b922e65af1781754190318.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/40/d1/40d1d17a3cb8a2cf06a022f9f49e714a.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/40/d1/40d1d17a3cb8a2cf06a022f9f49e714a.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/40/d1/40d1d17a3cb8a2cf06a022f9f49e714a.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/a8/97/a8971100db95b6effea369dffc33385c.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/a8/97/a8971100db95b6effea369dffc33385c.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/a8/97/a8971100db95b6effea369dffc33385c.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/0a/2e/0a2e6815d532c9debf764f5f45d5244e.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/0a/2e/0a2e6815d532c9debf764f5f45d5244e.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/0a/2e/0a2e6815d532c9debf764f5f45d5244e.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/36/c9/36c9384437437a8c7118851b2c26a45c.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/36/c9/36c9384437437a8c7118851b2c26a45c.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/36/c9/36c9384437437a8c7118851b2c26a45c.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        }
+      ],
+      "comments_count": 0,
+      "is_closed": false,
+      "categories": [
+        "art-centers",
+        "museums"
+      ],
+      "short_title": "Центр современной культуры «Смена»",
+      "tags": [
+        "музеи и галереи",
+        "арт-центры"
+      ],
+      "location": "kzn",
+      "age_restriction": null,
+      "disable_comments": false,
+      "has_parking_lot": false
+    },
+    {
+      "id": 33892,
+      "title": "Русская Атлантида — Светлояр. Легенды Китеж-града и фауна-парк",
+      "slug": "park-ozero-svetloyar",
+      "address": "Нижегородская область, Воскресенский район, село Владимирское",
+      "timetable": "",
+      "phone": "",
+      "is_stub": false,
+      "body_text": "<h2><strong>История места</strong></h2><p>Живописное озеро Светлояр известно на всю страну благодаря легенде о граде Китеже, основанном на его берегах более 800 лет назад. В XIII веке войска хана Батыя пришли на Русь. Заметив завоевателей у своих ворот, жители Китежа стали усердно молиться о спасении. По легенде, город погрузился на дно озера и не достался монголам. Местные утверждают, что до сих пор слышат пение и колокольный звон, а в толще воды иногда виднеются огни. Однако заметить город-призрак могут только люди чистые сердцем.  </p><div class=\"contentImage\"><div class=\"contentImage-inner\"><img alt=\"\" class=\"contentImage-image\" data-full=\"/media/images/rich_editor/55/45/55455de19042d93af135ad54a3fc1b13.jpg\" src=\"/media/thumbs/xl/images/rich_editor/55/45/55455de19042d93af135ad54a3fc1b13.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\">Фото: <a href=\"https://kitezh.info/\" target=\"_blank\">kitezh.info</a></div></div></div></div><h2><strong>Где находится озеро? </strong></h2><p>В наши дни Светлояр стал частью природного парка «Воскресенское Поветлужье». Озеро расположено на окраине села Владимирское, которое находится в 130 километрах от Нижнего Новгорода. </p><div class=\"contentSlider post-big-preview-slider swiper-container\"><div class=\"swiper-wrapper\"><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"/media/images/rich_editor/c3/46/c346416253798ab1fc47f7de4669357e.jpg\" src=\"/media/thumbs/xl/images/rich_editor/c3/46/c346416253798ab1fc47f7de4669357e.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\">Фото: shutterstock</div></div></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"/media/images/rich_editor/60/18/6018c5551aa07882f3e358b587db4e1d.jpg\" src=\"/media/thumbs/xl/images/rich_editor/60/18/6018c5551aa07882f3e358b587db4e1d.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\">Фото: shutterstock</div></div></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"/media/images/rich_editor/1d/d7/1dd7f51479b0cbc9219a139c1c1355ad.jpg\" src=\"/media/thumbs/xl/images/rich_editor/1d/d7/1dd7f51479b0cbc9219a139c1c1355ad.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\">Фото: shutterstock</div></div></div></div><div class=\"contentSlider-pagination post-preview-pagination\"></div><div class=\"contentSlider-navigation\"><div class=\"swiper-button-prev\"></div><div class=\"swiper-button-next\"></div></div><div class=\"swiper-button-fullscreen\"></div></div><h2><strong>Чем заняться? </strong></h2><p>Окрестности Светлояра — находка для любителей размеренного отдыха. На прогулку советуем отправиться в природно-ландшафтный заповедник «Град Китеж». Здесь можно поблуждать по экотропам, а после заглянуть в местный Центр развития ремёсел и записаться на мастер-класс.</p><p>В 27 километрах от Светлояра находится конный клуб «Серая лошадь», где можно познакомиться с племенными скакунами и прокатиться верхом на них.</p><div class=\"contentImage\"><div class=\"contentImage-inner\"><img alt=\"\" class=\"contentImage-image\" data-full=\"/media/images/rich_editor/25/76/25761f94100da5c6cfc1967c0e723236.jpg\" src=\"/media/thumbs/xl/images/rich_editor/25/76/25761f94100da5c6cfc1967c0e723236.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\">Фото: shutterstock</div></div></div></div><p>Ещё один вариант для максимального расслабления на природе — фауна-парк на территории клуба. Там вас встретят лоси и олени, которые периодически выходят из леса, чтобы принять дары и сделать селфи с гостями. </p><div class=\"contentImage\"><div class=\"contentImage-inner\"><img alt=\"\" class=\"contentImage-image\" data-full=\"/media/images/rich_editor/65/7a/657a996d64f41989786cc2b3746b2133.jpg\" src=\"/media/thumbs/xl/images/rich_editor/65/7a/657a996d64f41989786cc2b3746b2133.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\">Фото: <a href=\"http://www.greyhorse.ru/?id=286\" target=\"_blank\">greyhorse.ru</a></div></div></div></div><h2><strong>Как добраться?</strong></h2><p>Из-за расстояния между локациями изучать мистическую местность лучше на своём авто или каршеринге. Но подойдёт и привычный общественный транспорт. От автовокзала Нижнего Новгорода до остановки «Владимирское» ходит автобус. Если вы предпочитаете атмосферные поездки на электричках, то добираться придётся с пересадкой. Сначала необходимо доехать до станции «Семёнов», а затем дождаться автобус, следующий до села. На дорогу уйдёт от полутора часов.</p><div class=\"contentImage\"><div class=\"contentImage-inner\"><a href=\"https://www.google.com/maps/dir/%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9+%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4,+%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C/%D0%BE%D0%B7.+%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%BE%D1%8F%D1%80,+%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%81%D0%BA%D0%BE%D0%B5,+%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.,+606755/@56.6496543,44.1024102,9.5z/data=!4m14!4m13!1m5!1m1!1s0x4151d5f9ee033251:0x28d3c0cf849657aa!2m2!1d44.0058793!2d56.3268684!1m5!1m1!1s0x415103b153524f37:0x8c9a6cfaa18e73ea!2m2!1d45.0934841!2d56.8196176!3e0?hl=ru-RU\" target=\"_blank\"><img alt=\"\" class=\"contentImage-image\" data-full=\"/media/images/rich_editor/3a/17/3a17b194d952d1f15eba3df47225b418.jpg\" src=\"/media/thumbs/xl/images/rich_editor/3a/17/3a17b194d952d1f15eba3df47225b418.jpg\"/></a><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\">Фото: <a href=\"https://www.google.com/maps/dir/%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9+%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4,+%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C/%D0%BE%D0%B7.+%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%BE%D1%8F%D1%80,+%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%81%D0%BA%D0%BE%D0%B5,+%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.,+606755/@56.6496543,44.1024102,9.5z/data=!4m14!4m13!1m5!1m1!1s0x4151d5f9ee033251:0x28d3c0cf849657aa!2m2!1d44.0058793!2d56.3268684!1m5!1m1!1s0x415103b153524f37:0x8c9a6cfaa18e73ea!2m2!1d45.0934841!2d56.8196176!3e0?hl=ru-RU\" target=\"_blank\">google.com/maps</a></div></div></div></div><h2><strong>Где остановиться?</strong></h2><p>Место для ночёвки по весьма приятной цене найдётся прямо у Светлояра. Можно арендовать шале на берегу или снять номер в гостинице «Святогор» в селе Владимирское. Стоимость проживания стартует от 1 500—1 900 рублей.</p><p>Уже известный нам конный клуб «Серая лошадь» предлагает размещение и трёхразовое питание. Цена за сутки начинается от 3 000 рублей.</p><div class=\"contentImage\"><div class=\"contentImage-inner\"><img alt=\"\" class=\"contentImage-image\" data-full=\"/media/images/rich_editor/95/0c/950cd65b9363be6f9485ec35f1e8179d.jpg\" src=\"/media/thumbs/xl/images/rich_editor/95/0c/950cd65b9363be6f9485ec35f1e8179d.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\">Фото: <a href=\"http://www.greyhorse.ru/?id=286\" target=\"_blank\">greyhorse.ru</a></div></div></div></div><h2><strong>Совет от KudaGo</strong></h2><p>В поездку захватите с собой тёплую одежду, дождевик и непромокаемую обувь.</p><p>Также не лишним будет проверить заряд телефона и выбрать одежду с яркими элементами. Вдруг вам приглянётся боровичок, за которым придётся свернуть с экотропы. Лучше не рисковать, места там и впрямь таинственные.</p><p>О других вариантах отдыха в последние тёплые деньки осени читайте <a href=\"https://kudago.com/all/list/gde-provesti-osennij-uik-end/\">в подборке KudaGo</a>. </p>",
+      "description": "<p>Таинственное озеро в Нижегородской области — подходящее место для того, чтобы проститься с бурным летом, замедлиться и запастись энергией перед холодами. К Светлояру отправляются знатоки древних сказаний и сторонники философии slow living. Здесь можно неспешно побродить по эко-тропам, встретиться с дикими животными, заняться верховой ездой и, если повезёт, наткнуться на город-призрак. </p>",
+      "site_url": "https://nn.kudago.com/place/park-ozero-svetloyar/",
+      "foreign_url": "",
+      "coords": {
+        "lat": 56.81870010000008,
+        "lon": 45.11685229999989
+      },
+      "subway": "",
+      "favorites_count": 0,
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/place/cc/42/cc426194b6fc52f06e8822872e634eba.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/cc/42/cc426194b6fc52f06e8822872e634eba.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/cc/42/cc426194b6fc52f06e8822872e634eba.jpg"
+          },
+          "source": {
+            "name": "shutterstock.com",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/ab/99/ab9964ab58d2224a5abc894d8314f9d9.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/ab/99/ab9964ab58d2224a5abc894d8314f9d9.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/ab/99/ab9964ab58d2224a5abc894d8314f9d9.jpg"
+          },
+          "source": {
+            "name": "kitezh.info",
+            "link": "https://kitezh.info/"
+          }
+        }
+      ],
+      "comments_count": 0,
+      "is_closed": false,
+      "categories": [
+        "park",
+        "suburb",
+        "prirodnyj-zapovednik"
+      ],
+      "short_title": "Озеро Светлояр",
+      "tags": [
+        "озёра",
+        "парки (интересные места, отдых)",
+        "осень",
+        "природный заповедник",
+        "путешествия",
+        "продлеваем лето в сентябре! лучшие места, события и маршруты на последний тёплый уик-энд 17-19 сентября.",
+        "природа",
+        "отдых на природе",
+        "туризм",
+        "развлечения вайфай",
+        "выходные",
+        "загородный отдых",
+        "пригороды",
+        "новое на сайте"
+      ],
+      "location": "nnv",
+      "age_restriction": null,
+      "disable_comments": false,
+      "has_parking_lot": false
+    },
+    {
+      "id": 33914,
+      "title": "Арзамас и Ичалковский бор: культурные сокровища и подземные пещеры за один уик-энд",
+      "slug": "park-arzamas-i-ichalkovskij-bor",
+      "address": "Нижегородская область, Арзамас",
+      "timetable": "",
+      "phone": "",
+      "is_stub": false,
+      "body_text": "<h2><strong>История и описание мест</strong></h2><p>Арзамас — крупнейший исторический и культурный центр с множеством достопримечательностей и неповторимой атмосферой старого купеческого города. Арзамас был основан в 1578 году, а с XVII приобрёл важное значение как перевалочный пункт для путешествующих из Москвы на юг. Именно тогда и началось бурное развитие поселения, которое вскоре стало крупнейшим в регионе центром торговли. К XIX веку здесь было уже почти 40 церквей; в городе также неплохо сохранилась застройка XVIII—XIX веков. Насыщенный культурный досуг гостям Арзамаса гарантирован: в городе много музеев, парков, очаровательных улочек для прогулок и фотосессий.</p><p>Далее советуем отправиться в Ичалковский бор, являющийся охраняемой природной территорией. Это уникальная местность с характерным микроклиматом, неповторимым ландшафтом, самобытным животным и растительным миром. Здесь находятся отложения известняковых пород, поэтому земля в бору неровная, испещрённая множеством провалов, пещер, рвов и гротов. Самыми интересными с точки зрения альпинизма являются пещеры, протяжённостью от 15 до 25 метров — Кулева и Старцева ямы, Холодная (с озером, которое никогда не тает), Тёплая (высота сводов достигает 15 метров), Студенческая, Безымянная. Здесь можно провести целый день, насыщенный новыми впечатлениями и захватывающими приключениями.</p><p>По дороге в Ичалковский бор предлагаем заехать в город Перевоз, где расположен знаменитый Перевозский конный завод. Здесь выращивают красавцев-тяжеловозов, на которых можно прокатиться (стоимость 45-минутной прогулки 800 рублей) или сфотографироваться. Также для гостей завода устраивают экскурсии (о посещении и желаемых активностях необходимо договариваться заранее).</p><div class=\"contentSlider post-big-preview-slider swiper-container\"><div class=\"swiper-wrapper\"><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"Церковь Благовещения Пресвятой Богородицы в Арзамасе\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"/media/images/rich_editor/fb/af/fbaf9226d0cc7e690aa2b8afafba6d0f.jpg\" src=\"/media/thumbs/xl/images/rich_editor/fb/af/fbaf9226d0cc7e690aa2b8afafba6d0f.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\"><div class=\"contentImage-caption\">Церковь Благовещения Пресвятой Богородицы в Арзамасе</div>Фото: <a href=\"https://www.shutterstock.com/ru/image-photo/cathedral-blessed-virgin-arzamas-russia-1893575167\" target=\"_blank\">shutterstock.com</a></div></div></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"Пещера в Ичалковском бору\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"/media/images/rich_editor/ee/b6/eeb6a23f5e2189011e5a71df021581ca.jpg\" src=\"/media/thumbs/xl/images/rich_editor/ee/b6/eeb6a23f5e2189011e5a71df021581ca.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\"><div class=\"contentImage-caption\">Пещера в Ичалковском бору</div>Фото: <a href=\"https://ru.wikipedia.org/wiki/%D0%98%D1%87%D0%B0%D0%BB%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D0%BE%D1%80\" target=\"_blank\">ru.wikipedia.org</a></div></div></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"Питомец Перевозского конного завода\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"/media/images/rich_editor/b9/77/b977b9dfd066626b29743a6f55fa8c49.jpg\" src=\"/media/thumbs/xl/images/rich_editor/b9/77/b977b9dfd066626b29743a6f55fa8c49.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\"><div class=\"contentImage-caption\">Питомец Перевозского конного завода</div>Фото: <a href=\"https://studfarm.ru/foto-video\" target=\"_blank\">studfarm.ru</a></div></div></div></div><div class=\"contentSlider-pagination post-preview-pagination\"></div><div class=\"contentSlider-navigation\"><div class=\"swiper-button-prev\"></div><div class=\"swiper-button-next\"></div></div><div class=\"swiper-button-fullscreen\"></div></div><h2><strong>Где находятся локации?</strong></h2><p>Арзамас расположен на холмистом правом берегу реки Тёши. До Нижнего Новгорода отсюда 112 километров, до Ичалковского бора — 100 километров.</p><p>Ичалковский бор находится в излучине реки Пьяны, в 1,5 километрах от села Ичалки Нижегородской области и в 140 километрах от Нижнего Новгорода.</p><div class=\"contentImage\"><div class=\"contentImage-inner\"><img alt=\"Вид на Воскресенский собор\" class=\"contentImage-image\" data-full=\"/media/images/rich_editor/c9/de/c9de841602928f75da138b58144f3238.jpg\" src=\"/media/thumbs/xl/images/rich_editor/c9/de/c9de841602928f75da138b58144f3238.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\">Фото: <a href=\"https://www.shutterstock.com/ru/image-photo/beautiful-view-resurrection-cathedral-arzamas-nizhny-1995277814\" target=\"_blank\">shutterstock.com</a></div></div></div><div class=\"contentImage-caption\">Вид на Воскресенский собор</div></div><h2><strong>Чем заняться? Что посмотреть? </strong></h2><p>В Арзамасе вас ждут музеи — историко-художественный и «Мир старины», Максима Горького и Аркадия Гайдара. Обязательно посетите Соборную площадь с уникальным сооружением — огромным Воскресенским собором. Также здесь находится Никольский женский монастырь, церковь Живоносного источника, парк и здание магистрата. Среди других достопримечательностей города особо выделяются торговые ряды, водонапорная башня, улица Гостиный двор, старинные особняки и колоритные лавочки.</p><p>В Ичалковском бору можно спуститься в пещеры и побродить по осеннему лесу. </p><div class=\"contentSlider post-big-preview-slider swiper-container\"><div class=\"swiper-wrapper\"><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"Арзамас. Старая застройка\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"/media/images/rich_editor/73/2c/732c68064e042723b0b04a49101e190c.jpg\" src=\"/media/thumbs/xl/images/rich_editor/73/2c/732c68064e042723b0b04a49101e190c.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\"><div class=\"contentImage-caption\">Арзамас. Старая застройка</div>Фото: <a href=\"https://www.shutterstock.com/ru/image-photo/russia-arzamas-may-6-2018-view-1097179313\" target=\"_blank\">shutterstock.com</a></div></div></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"Арзамасская водонапорная башня\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"/media/images/rich_editor/57/3f/573f057094b1c178beae93c39dd028ce.jpg\" src=\"/media/thumbs/xl/images/rich_editor/57/3f/573f057094b1c178beae93c39dd028ce.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\"><div class=\"contentImage-caption\">Арзамасская водонапорная башня</div>Фото: <a href=\"https://www.shutterstock.com/ru/image-photo/old-brick-water-tower-arzamas-russia-1997135690\" target=\"_blank\">shutterstock.com</a></div></div></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"Ичкаловские пещеры\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"/media/images/rich_editor/9f/02/9f02398ddabd0dbc7b202bf843148554.jpg\" src=\"/media/thumbs/xl/images/rich_editor/9f/02/9f02398ddabd0dbc7b202bf843148554.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\"><div class=\"contentImage-caption\">Ичкаловские пещеры</div>Фото: <a href=\"https://ru.wikipedia.org/wiki/%D0%98%D1%87%D0%B0%D0%BB%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D0%BE%D1%80\" target=\"_blank\">ru.wikipedia.org</a></div></div></div></div><div class=\"contentSlider-pagination post-preview-pagination\"></div><div class=\"contentSlider-navigation\"><div class=\"swiper-button-prev\"></div><div class=\"swiper-button-next\"></div></div><div class=\"swiper-button-fullscreen\"></div></div><h2><strong>Как добраться?</strong></h2><p>Добраться до Арзамаса можно от автовокзала «Щербинки» в Нижнем Новгороде (около 450 рублей). На личном или арендованном автомобиле путь будет более быстрым и комфортным.</p><div class=\"contentImage\"><div class=\"contentImage-inner\"><a href=\"https://www.google.com/maps/dir/%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9+%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4,+%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB./%D0%90%D1%80%D0%B7%D0%B0%D0%BC%D0%B0%D1%81,+%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB./@55.8853597,43.2116913,8.5z/data=!4m13!4m12!1m5!1m1!1s0x4151d5f9ee033251:0x28d3c0cf849657aa!2m2!1d44.0058793!2d56.3268684!1m5!1m1!1s0x414f78efa870bdd7:0x19a1ecbb3d52a5f0!2m2!1d43.8302211!2d55.3969746\" target=\"_blank\"><img alt=\"\" class=\"contentImage-image\" data-full=\"/media/images/rich_editor/f6/88/f6884134cf7defbcfd96854039c6b8d4.jpg\" src=\"/media/thumbs/xl/images/rich_editor/f6/88/f6884134cf7defbcfd96854039c6b8d4.jpg\"/></a></div></div><h2><strong>Где остановиться?</strong></h2><p>В Арзамасе много хостелов и отелей, так что выбрать подходящий не составит труда. Стоимость номеров стартует от 1 000 рублей за ночь.</p><h2><strong>Совет от KudaGo</strong></h2><p>Если решите спускаться в пещеры, будьте предельно осторожны. Захватите с собой необходимое альпинистское снаряжение и несколько заряженных фонариков. В подземных гротах водятся летучие мыши, так что будьте готовы к не очень приятной встрече. Гардероб также стоит продумать заранее: под землёй может пригодиться тёплая одежда, а ботинки лучше подбирать специальные — с цепкой нескользящей подошвой.</p><p>О других вариантах отдыха в последние тёплые деньки осени читайте <a href=\"https://kudago.com/all/list/gde-provesti-osennij-uik-end/\">в подборке KudaGo</a>. </p>",
+      "description": "<p>Двухдневный маршрут для тех, кто любит разнообразие и хочет интересно отдохнуть в разгар бабьего лета. Вас ждёт Арзамас, красивейший уездный город региона, а также катание на конях-тяжеловозах, прогулка по осеннему лесу и спуск в живописные пещеры.</p>",
+      "site_url": "https://nn.kudago.com/place/park-arzamas-i-ichalkovskij-bor/",
+      "foreign_url": "",
+      "coords": {
+        "lat": 55.3955623067962,
+        "lon": 43.83284639796846
+      },
+      "subway": "",
+      "favorites_count": 0,
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/place/e2/57/e25762d09f0078a8e9e9d527f1765720.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/e2/57/e25762d09f0078a8e9e9d527f1765720.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/e2/57/e25762d09f0078a8e9e9d527f1765720.jpg"
+          },
+          "source": {
+            "name": "shutterstock.com",
+            "link": "https://www.shutterstock.com/ru/image-photo/view-resurrection-cathedral-above-panorama-arzamas-1049490785"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/a4/c6/a4c6a01249f4c5b44a9b74b3d562e7c8.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/a4/c6/a4c6a01249f4c5b44a9b74b3d562e7c8.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/a4/c6/a4c6a01249f4c5b44a9b74b3d562e7c8.jpg"
+          },
+          "source": {
+            "name": "shutterstock.com",
+            "link": "https://www.shutterstock.com/ru/image-photo/arzamas-russia-july-28-2021-gods-2016973889"
+          }
+        }
+      ],
+      "comments_count": 0,
+      "is_closed": false,
+      "categories": [
+        "park",
+        "suburb",
+        "prirodnyj-zapovednik"
+      ],
+      "short_title": "Арзамас и Ичалковский бор",
+      "tags": [
+        "парки (интересные места, отдых)",
+        "осень",
+        "природный заповедник",
+        "путешествия",
+        "продлеваем лето в сентябре! лучшие места, события и маршруты на последний тёплый уик-энд 17-19 сентября.",
+        "природа",
+        "отдых на природе",
+        "туризм",
+        "развлечения вайфай",
+        "выходные",
+        "загородный отдых",
+        "новое на сайте"
+      ],
+      "location": "nnv",
+      "age_restriction": null,
+      "disable_comments": false,
+      "has_parking_lot": false
+    },
+    {
+      "id": 33894,
+      "title": "Сплав по Керженцу. Байдарочный поход для любителей активного отдыха",
+      "slug": "park-splav-po-kerzhentsu",
+      "address": "Нижегородская область, городской округ Семёновский, деревня Взвоз",
+      "timetable": "",
+      "phone": "",
+      "is_stub": false,
+      "body_text": "<h2><strong>История места</strong></h2><p>В XVII—XIX веках вдоль Керженца селились беглые старообрядцы, их даже называть стали в честь реки — кержаками. Особую известность приобрёл Комаровский скит, описанный в романах Павла Мельникова. Сейчас поселение полностью разрушено, хотя вокруг него сохранились остатки старообрядческих кладбищ, которые можно осмотреть, пристав к берегу.</p><p>В устье Керженца находится действующий женский Макарьевский монастырь, основанный в XIV веке. Это прекрасный архитектурный комплекс, окружённый белокаменными стенами, которые отражаются в чистейшей речной воде. Сюда рекомендуют заглянуть в конце маршрута, если он предполагает спуск к низовью реки.</p><div class=\"contentSlider post-big-preview-slider swiper-container\"><div class=\"swiper-wrapper\"><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"Река Керженец\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"/media/images/rich_editor/cc/35/cc351b9fe5a67b3967ecac9e49675131.jpg\" src=\"/media/thumbs/xl/images/rich_editor/cc/35/cc351b9fe5a67b3967ecac9e49675131.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\"><div class=\"contentImage-caption\">Река Керженец</div>Фото: <a href=\"https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D0%B6%D0%B5%D0%BD%D0%B5%D1%86\" target=\"_blank\">ru.wikipedia.org</a></div></div></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"Макарьевский монастырь\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"/media/images/rich_editor/d3/7b/d37b4f0b1d578f6de228cb4c096ab9f8.jpg\" src=\"/media/thumbs/xl/images/rich_editor/d3/7b/d37b4f0b1d578f6de228cb4c096ab9f8.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\"><div class=\"contentImage-caption\">Макарьевский монастырь</div>Фото: <a href=\"https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BB%D1%82%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%9C%D0%B0%D0%BA%D0%B0%D1%80%D0%B8%D0%B5%D0%B2_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C\" target=\"_blank\">ru.wikipedia.org</a></div></div></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"Макарьевский монастырь\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"/media/images/rich_editor/cd/5b/cd5b013cdb7ffa68fd2655170e9265ba.jpg\" src=\"/media/thumbs/xl/images/rich_editor/cd/5b/cd5b013cdb7ffa68fd2655170e9265ba.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\"><div class=\"contentImage-caption\">Макарьевский монастырь</div>Фото: <a href=\"https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BB%D1%82%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%9C%D0%B0%D0%BA%D0%B0%D1%80%D0%B8%D0%B5%D0%B2_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C\" target=\"_blank\">ru.wikipedia.org</a></div></div></div></div><div class=\"contentSlider-pagination post-preview-pagination\"></div><div class=\"contentSlider-navigation\"><div class=\"swiper-button-prev\"></div><div class=\"swiper-button-next\"></div></div><div class=\"swiper-button-fullscreen\"></div></div><p>  </p><h2><strong>Где находится река?</strong></h2><p>  </p><p>Керженец протекает по территории Нижегородской области вдоль западной окраины Керженского заповедника. Река начинается у заброшенной деревни Невейки и впадает в Волгу. Двухдневные сплавы обычно организовывают от деревни Взвоз до Хахал или от Хахал до Рустая, но возможны и другие маршруты.</p><div class=\"contentImage\"><div class=\"contentImage-inner\"><img alt=\"\" class=\"contentImage-image\" data-full=\"/media/images/rich_editor/59/ec/59ec0f8c3ace6d02e8596bfe47188b3e.jpg\" src=\"/media/thumbs/xl/images/rich_editor/59/ec/59ec0f8c3ace6d02e8596bfe47188b3e.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\">Фото: <a href=\"https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D0%B6%D0%B5%D0%BD%D0%B5%D1%86\" target=\"_blank\">ru.wikipedia.org</a></div></div></div></div><h2><strong>Чем заняться? Что посмотреть?</strong></h2><p>  </p><p>Керженец — чистая неспешная река с неглубоким песчаным руслом, так что, путешествуя на байдарке, вы сможете вдоволь порелаксировать и насладиться окружающими красотами (для подобного путешествия никакая особая подготовка не нужна, можно смело брать с собой детей от 12 лет). На реке много песчаных отмелей и небольших уютных пляжей, здесь водятся бобры, велика вероятность встречи со стадом оленей. По пути можно посетить Керженский заповедник, в котором проложены экомаршруты разной сложности. А большое количество стоянок, оборудованных всем необходимым, сделают ваш отдых максимально комфортным.</p><div class=\"contentImage\"><div class=\"contentImage-inner\"><img alt=\"\" class=\"contentImage-image\" data-full=\"/media/images/rich_editor/c0/a9/c0a93443dc00828f50788c1b73b52b92.jpg\" src=\"/media/thumbs/xl/images/rich_editor/c0/a9/c0a93443dc00828f50788c1b73b52b92.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\">Фото: <a href=\"https://www.shutterstock.com/ru/image-photo/beaver-sitting-river-close-1976952095\" target=\"_blank\">shutterstock.com</a></div></div></div></div><p>Посиделки у костра, рыбалка, пляжный волейбол, вечерняя дискотека и даже походная баня — различные туристические клубы предлагают развлечения на любой вкус. Если же вы предпочитаете тишину, то здесь вы её найдёте непременно: берега реки мало населены, поэтому покой путешественников нарушает лишь шелест дубов и сосен.</p><div class=\"contentImage\"><div class=\"contentImage-inner\"><img alt=\"\" class=\"contentImage-image\" data-full=\"/media/images/rich_editor/d3/61/d36182d8e944de79e97538015ac98bed.jpg\" src=\"/media/thumbs/xl/images/rich_editor/d3/61/d36182d8e944de79e97538015ac98bed.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\">Фото: <a href=\"https://www.shutterstock.com/ru/image-photo/full-length-portrait-loving-father-son-1823308469\" target=\"_blank\">shutterstock.com</a></div></div></div></div><p>  </p><h2><strong>Как добраться?</strong></h2><p>  </p><p>Если вы решили доверить организацию сплава туроператору, то трансфер до исходной точки маршрута и обратный путь по суше он возьмёт на себя. В этом случае с вами отправится опытный инструктор. Вы также будете обеспечены всем необходимым туристическим снаряжением, едой, водой, а в некоторых случаях — даже холодильником! </p><p>Но и без сторонней помощи проблем возникнуть не должно. На личном автомобиле вы доберётесь до деревни Взвоз (около 90 км от Нижнего Новгорода), откуда начинается 20-километровый маршрут до деревни Хахалы. У туристических клубов можно арендовать байдарки (1 000 руб/день за двухместную + доставка до исходной точки 30 руб/км) и туристическое снаряжение (700 руб/выходные за палатку + 350 руб/выходные за спальник с ковриком). Такси в обратную сторону от Хахал до Взвоза обойдётся в 1 500 рублей.</p><div class=\"contentImage\"><div class=\"contentImage-inner\"><a href=\"https://www.google.com/maps/dir/%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9+%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4,+%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C,+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F/%D0%92%D0%B7%D0%B2%D0%BE%D0%B7,+%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.,+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F,+606635/@56.5732249,43.7083013,9z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x4151d5f9ee033251:0x28d3c0cf849657aa!2m2!1d44.0058793!2d56.3268684!1m5!1m1!1s0x4151af59bc62eaa7:0x57c115d59c97eb5c!2m2!1d44.615017!2d56.7582573\" target=\"_blank\"><img alt=\"\" class=\"contentImage-image\" data-full=\"/media/images/rich_editor/26/50/2650d0df5374c7f4d7cb99431f676bd8.jpg\" src=\"/media/thumbs/xl/images/rich_editor/26/50/2650d0df5374c7f4d7cb99431f676bd8.jpg\"/></a><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\">Фото: <a href=\"https://www.google.com/maps/dir/%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9+%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4,+%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C,+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F/%D0%92%D0%B7%D0%B2%D0%BE%D0%B7,+%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.,+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F,+606635/@56.5732249,43.7083013,9z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x4151d5f9ee033251:0x28d3c0cf849657aa!2m2!1d44.0058793!2d56.3268684!1m5!1m1!1s0x4151af59bc62eaa7:0x57c115d59c97eb5c!2m2!1d44.615017!2d56.7582573\" target=\"_blank\">google.com/maps/</a></div></div></div></div><p>  </p><h2><strong>Совет от KudaGo</strong></h2><p>  </p><p>Обязательно захватите с собой тёплую одежду, непромокаемую обувь и дождевики, продукты и всё необходимое для приготовления пищи.</p><p>О других вариантах отдыха в последние тёплые деньки осени читайте <a href=\"https://kudago.com/all/list/gde-provesti-osennij-uik-end/\">в подборке KudaGo</a>.  </p>",
+      "description": "<p>Впереди долгие холода, так что самое время запастись положительными эмоциями и тёплыми воспоминаниями. Неторопливо плыть вниз по реке, делать привалы на песчаных пляжах, купаться, рыбачить и наблюдать жизнь оленей и бобров — это ли не повод выбраться из четырёх стен на нежное осеннее солнышко?</p>",
+      "site_url": "https://nn.kudago.com/place/park-splav-po-kerzhentsu/",
+      "foreign_url": "",
+      "coords": {
+        "lat": 56.7575316455747,
+        "lon": 44.61394681251022
+      },
+      "subway": "",
+      "favorites_count": 0,
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/place/50/ce/50cead3a2c0734fe579e29008798690d.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/50/ce/50cead3a2c0734fe579e29008798690d.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/50/ce/50cead3a2c0734fe579e29008798690d.jpg"
+          },
+          "source": {
+            "name": "shutterstock.com",
+            "link": "https://www.shutterstock.com/ru/image-photo/kerzhenets-river-before-onset-golden-autumn-1237204288"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/06/58/06588f2183ce44e34cd8fb3f1b3c61ce.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/06/58/06588f2183ce44e34cd8fb3f1b3c61ce.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/06/58/06588f2183ce44e34cd8fb3f1b3c61ce.jpg"
+          },
+          "source": {
+            "name": "ru.wikipedia.org",
+            "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D0%B6%D0%B5%D0%BD%D0%B5%D1%86"
+          }
+        }
+      ],
+      "comments_count": 0,
+      "is_closed": false,
+      "categories": [
+        "park",
+        "suburb",
+        "prirodnyj-zapovednik"
+      ],
+      "short_title": "Сплав по Керженцу",
+      "tags": [
+        "парки (интересные места, отдых)",
+        "природный заповедник",
+        "путешествия",
+        "отдых на природе",
+        "природа",
+        "туризм",
+        "развлечения вайфай",
+        "выходные",
+        "загородный отдых",
+        "пригороды",
+        "новое на сайте"
+      ],
+      "location": "nnv",
+      "age_restriction": null,
+      "disable_comments": false,
+      "has_parking_lot": false
+    },
+    {
+      "id": 14771,
+      "title": "Бар \"Червячок\"",
+      "slug": "bar-chervyachok",
+      "address": "ул. Введенская, д. 89, под магазином \"Галерея на Введенской\"",
+      "timetable": "",
+      "phone": "+7 920 999-88-24",
+      "is_stub": false,
+      "body_text": "<p>Это место работает для тех, у кого хорошее чувство юмора и КТО...</p>\n<ul>\n<li>любит слушать хорошую музыку</li>\n<li>любит КВН и знает команду «Будка гласности»</li>\n<li>любит КВН и НЕ знает команду «Будка гласности»!</li>\n<li>любит настольные игры!</li>\n<li>любит футбол!</li>\n<li>спал на двухярусной кровати!</li>\n<li>знает, что такое кикер и как в него играть!</li>\n<li>не знает, что такое кикер, но очень хочет узнать и поиграть!</li>\n<li>в пятницу в 3 часа уже знает, что он будет делать в 6!</li>\n<li>помнит что такое вкладыши, фишки, дэнди, кто такой Альф и почему он не любит кошек!</li>\n</ul>\n<p>В игровом меню бара: Уно, Монополия, Активити, Алиас, Манчкин, Колонизаторы, Медвед, Свинтус, Эволюция, Диксит, Тикет ту райд, Головоноги, Улей, Шакал, Клуэдо и др!</p>\n<p>На барной стойке в ЧЕРВЯЧКЕ необычные пепельницы, а диковинные. Если где-либо путешествуете - владельцы бара будут рады заграничному подарку. Вознаграждение гарантируется.</p>\n",
+      "description": "<p>Особенно уютно здесь будет тем, чье детство пришлось на середину и конец лихих 90-х: игры в денди, кэпсы, группа \"руки вверх\" и т.д. Здесь можно поиграть в большое количество настольных игрулек и отлично провести время с целой компанией друзей.</p>\n",
+      "site_url": "https://ryazan.kudago.com/place/bar-chervyachok/",
+      "foreign_url": "http://vk.com/chervyachok_bar",
+      "coords": {
+        "lat": 54.621622,
+        "lon": 39.748718
+      },
+      "subway": "",
+      "favorites_count": 13,
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/place/d7/5a/d75adfda28bf00cf8448ee4ff242f532.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/d7/5a/d75adfda28bf00cf8448ee4ff242f532.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/d7/5a/d75adfda28bf00cf8448ee4ff242f532.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/d8/3a/d83adfe3b43e57ae609ef73a8eba0f3f.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/d8/3a/d83adfe3b43e57ae609ef73a8eba0f3f.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/d8/3a/d83adfe3b43e57ae609ef73a8eba0f3f.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/c0/6f/c06f90398c380b720f45fcc3425c6b0a.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/c0/6f/c06f90398c380b720f45fcc3425c6b0a.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/c0/6f/c06f90398c380b720f45fcc3425c6b0a.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/eb/db/ebdb18258f5b8d185359af0a15b0a218.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/eb/db/ebdb18258f5b8d185359af0a15b0a218.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/eb/db/ebdb18258f5b8d185359af0a15b0a218.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        }
+      ],
+      "comments_count": 2,
+      "is_closed": false,
+      "categories": [
+        "bar"
+      ],
+      "short_title": "",
+      "tags": [
+        "бары и пабы",
+        "игры",
+        "настольные игры",
+        "кикер",
+        "16+",
+        "европейская",
+        "квн"
+      ],
+      "location": "ryazan",
+      "age_restriction": "16+",
+      "disable_comments": false,
+      "has_parking_lot": false
+    },
+    {
+      "id": 14581,
+      "title": "Кинотеатр \"ПЯТЬ ЗВЁЗД\"",
+      "slug": "set-kinoteatrov-pyat-zvyozd",
+      "address": "Московское шоссе, д. 65А, торгово-развлекательный центр «M5 Mолл»",
+      "timetable": "ежедневно 10:00 - 01:00",
+      "phone": "+7 491 277-77-11",
+      "is_stub": false,
+      "body_text": "<p>Здесь проходят как показы новинок кинопроката, так и закрытые сеансы артхаусного, авторского и фестивального кино.</p>\n<p>Стоимость билетов варьируется от 100 до 200 рублей. Самые бюджетные сеансы, традиционно, идут до 12 утра. Самые высокие цены в прайм-тайм – с 18:00–23:00. По праздникам посетители кинотеатра могут принять участие в розыгрышах, конкурсах и получить подарки.</p>\n<p>Помимо просмотра кинофильмов здесь можно посидеть в кафе и барах, попробовать блюда европейской и японской кухни, расслабиться в лаунж-кафе, а для детей работает игровая зона.</p>\n",
+      "description": "<p>Московская сеть, состоящая в настоящее время из 11 кинотеатров, открыла свой филиал и в Рязани.</p>\n",
+      "site_url": "https://ryazan.kudago.com/place/set-kinoteatrov-pyat-zvyozd/",
+      "foreign_url": "http://vk.com/club65810313",
+      "coords": {
+        "lat": 53.51417099999999,
+        "lon": 49.62377200000001
+      },
+      "subway": "",
+      "favorites_count": 2,
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/place/02/10/0210d422d88e28ea94a1b8b640e3a9d9.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/02/10/0210d422d88e28ea94a1b8b640e3a9d9.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/02/10/0210d422d88e28ea94a1b8b640e3a9d9.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/97/43/9743345ee1ef10e11a3af6192b3bbba2.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/97/43/9743345ee1ef10e11a3af6192b3bbba2.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/97/43/9743345ee1ef10e11a3af6192b3bbba2.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        }
+      ],
+      "comments_count": 0,
+      "is_closed": false,
+      "categories": [
+        "cinema"
+      ],
+      "short_title": "",
+      "tags": [
+        "кинотеатры"
+      ],
+      "location": "ryazan",
+      "age_restriction": null,
+      "disable_comments": false,
+      "has_parking_lot": false
+    },
+    {
+      "id": 25241,
+      "title": "Videodrome",
+      "slug": "videodrome",
+      "address": "617 N. Highland Ave NE, Atlanta, GA 30306",
+      "timetable": "every day noon – midnight",
+      "phone": "+1 404-885-1117",
+      "is_stub": false,
+      "body_text": "<p>Indie ethics are the key to the existence of spots like this. They offer an alternative to outlet chains with their standard attitudes and set a standard of their own based on uniqueness and curiosity towards anything outstanding.</p>\n<p>Videodrome is one of the kind in the cinema field. The regularly updated list of films on DVDs encloses real gems of classic movies, Japanese animation, arthouse, and other rare and surprising stuff to satisfy someone's curiosity or hunger for alternative culture phenomena. You can definitely catch upon all the last year premieres, but if you are in the mood for an obscure French film from forty years ago, they are good for it too.</p>\n<p>Besides selling, the shop also offers DVD rentals at $4.00 for 3 nights.</p>\n<p>Everything is thoroughly organized in Atlanta's Videodrome, so you should not have any trouble finding the right genre, year or director. If you are unsure what to choose, check out the staff's recommendations section of their website called <em>Staff picks</em>. Personal touch is what makes this great. That, and a little bit of old-fashioned charm.</p>\n<p>Despite the advent of newer and newer technologies, certain things never really go out of fashion. Hanging out with friends and loved ones may have moved to the virtual reality. Netflix and Amazon do have convincingly successful algorithms that know exactly what you should watch next. However, arguing with a friend or your better half about the perfect movie between the rows of actual DVDs in an old-school video store like Videodrome is still worth a little extra time and effort.</p>\n",
+      "description": "<p>A place to meet a fellow movie freak and to broaden one's cinema scope. An alternative to the Internet movie channels, a good old-fashioned physical store where cinema rarities are available for purchase and rent, run by connoisseurs and fans.</p>\n",
+      "site_url": "https://kudago.com/atlanta/place/videodrome/",
+      "foreign_url": "http://www.videodromeatl.com/",
+      "coords": {
+        "lat": 33.77123,
+        "lon": -84.35222439999997
+      },
+      "subway": "",
+      "favorites_count": 0,
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/place/de/83/de833e968f0df5caf65edc96f08a65bc.png",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/de/83/de833e968f0df5caf65edc96f08a65bc.png",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/de/83/de833e968f0df5caf65edc96f08a65bc.png"
+          },
+          "source": {
+            "name": "KSU News Now",
+            "link": "https://ksunewsnow.wordpress.com/2015/10/24/atlanta-video-store-not-concerned-about-future/"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/e8/36/e836cb1548d337c3a8af3d46f054e28f.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/e8/36/e836cb1548d337c3a8af3d46f054e28f.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/e8/36/e836cb1548d337c3a8af3d46f054e28f.jpg"
+          },
+          "source": {
+            "name": "Videodrome",
+            "link": "http://www.videodromeatl.com/pictures/the-store/"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/46/e8/46e84d231403a740fda1d2fc7121ed22.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/46/e8/46e84d231403a740fda1d2fc7121ed22.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/46/e8/46e84d231403a740fda1d2fc7121ed22.jpg"
+          },
+          "source": {
+            "name": "KSU News Now",
+            "link": "https://ksunewsnow.wordpress.com/2015/10/24/atlanta-video-store-not-concerned-about-future/"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/87/9d/879dd6f8df91f970037e24dfae9d0cd6.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/87/9d/879dd6f8df91f970037e24dfae9d0cd6.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/87/9d/879dd6f8df91f970037e24dfae9d0cd6.jpg"
+          },
+          "source": {
+            "name": "Georgia State Signal",
+            "link": "http://georgiastatesignal.com/highlands/"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/f3/b2/f3b27a6180988c423ace94fcc137e798.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/f3/b2/f3b27a6180988c423ace94fcc137e798.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/f3/b2/f3b27a6180988c423ace94fcc137e798.jpg"
+          },
+          "source": {
+            "name": "Videodrome",
+            "link": "http://www.videodromeatl.com/pictures/the-store/9193984"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/ec/5b/ec5b9011d8cfc9aeae6a4aa67122d40d.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/ec/5b/ec5b9011d8cfc9aeae6a4aa67122d40d.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/ec/5b/ec5b9011d8cfc9aeae6a4aa67122d40d.jpg"
+          },
+          "source": {
+            "name": "Dave N.",
+            "link": "http://www.yelp.com/biz_photos/videodrome-atlanta?select=3BOsn4sG5E-8U0arBg0jIg"
+          }
+        }
+      ],
+      "comments_count": 0,
+      "is_closed": false,
+      "categories": [
+        "shops"
+      ],
+      "short_title": "Videodrome",
+      "tags": [
+        "магазины"
+      ],
+      "location": "atlanta",
+      "age_restriction": null,
+      "disable_comments": false,
+      "has_parking_lot": false
+    },
+    {
+      "id": 20415,
+      "title": "Rough Trade NYC",
+      "slug": "rough-trade-nyc",
+      "address": "64 N 9th St, Brooklyn, NY 11249",
+      "timetable": "every day 11 a.m. – 11 p.m.",
+      "phone": "+1 718-388-4111",
+      "is_stub": false,
+      "body_text": "<p><em>Rough Trade NYC</em> is a part of a huge network of stores located in London, Nottingham, and NYC. It acts as an intermediary between customers and artists representing various musical genres and styles.</p>\n<p>Rough Trade NYC is not an ordinary musical store. It is also a music club welcoming various artists and musicians. The venue hosts numerous live events and performances. Cozy underground atmosphere makes the audience feel as part of the onstage processes.</p>\n<p>There are also ping-pong tables to have some fun in between the events, and a full-bar bar with soft drinks and beers on tap.</p>\n",
+      "description": "<p>The aim of the venue is very simple: to make the distance between artists and audience as short as possible as well as to represent artistic talent and creativity of music in all genres that are represented here.</p>\n",
+      "site_url": "https://kudago.com/new-york/place/rough-trade-nyc/",
+      "foreign_url": "http://www.roughtradenyc.com/",
+      "coords": {
+        "lat": 40.72082720000001,
+        "lon": -73.96004889999998
+      },
+      "subway": "Bedford Ave (L)",
+      "favorites_count": 2,
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/place/cc/8c/cc8c1c34e561a7090e4b55aa2aad1099.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/cc/8c/cc8c1c34e561a7090e4b55aa2aad1099.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/cc/8c/cc8c1c34e561a7090e4b55aa2aad1099.jpg"
+          },
+          "source": {
+            "name": "independent.co.uk",
+            "link": "http://www.independent.co.uk/travel/americas/rough-trade-nyc-the-vinyl-countdown-8972414.html"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/56/ec/56ec821e5d5f5610be370786d529148d.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/56/ec/56ec821e5d5f5610be370786d529148d.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/56/ec/56ec821e5d5f5610be370786d529148d.jpg"
+          },
+          "source": {
+            "name": "houselist.bowerypresents.com",
+            "link": "http://houselist.bowerypresents.com/2013/12/04/we-are-scientists-are-wildly-entertaining/"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/9a/f3/9af3b3a24aeee6e5c8034ee7e38109fc.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/9a/f3/9af3b3a24aeee6e5c8034ee7e38109fc.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/9a/f3/9af3b3a24aeee6e5c8034ee7e38109fc.jpg"
+          },
+          "source": {
+            "name": "brokelyn.com",
+            "link": "http://brokelyn.com/charles-bradley-opens-rough-trade-nyc-soul-pelvic-gyrations/"
+          }
+        }
+      ],
+      "comments_count": 0,
+      "is_closed": false,
+      "categories": [
+        "shops",
+        "clubs"
+      ],
+      "short_title": "",
+      "tags": [
+        "клубы",
+        "магазины",
+        "бруклин"
+      ],
+      "location": "new-york",
+      "age_restriction": null,
+      "disable_comments": false,
+      "has_parking_lot": false
+    },
+    {
+      "id": 18162,
+      "title": "Terminal 5",
+      "slug": "terminal-5",
+      "address": "610 W 56th St, New York, NY 10019",
+      "timetable": "",
+      "phone": "+1 212-260-4700",
+      "is_stub": false,
+      "body_text": "<p><em>Terminal 5</em> used to be a nightclub, a huge warehouse-like affair with a slightly underground rave-ish feel. It retains the same aura as a concert venue. It has an impressive capacity and works best with big performances. It has a bit of that special stadium atmosphere without actually being a stadium: crowded, wild and electric.</p>\n<p>Add to the mix: good sound, general cleanliness, reasonable admission prices, and affordable beer. The place is well-organized and quite easy to navigate, and you can always ask the staff for help. The walk from the Columbus Circle subway station takes some time, but a Midtown location has its upsides: it shouldn’t be a problem to find a bar or a restaurant for a pre-concert drink or dinner.</p>\n<p>All in all, a great place to see your favorite band, especially if you want the unruly and slightly gritty  rock-out experience.</p>\n",
+      "description": "<p>With more than 3,000 capacity, <em>Terminal 5</em> is a gigantic multi-level venue perfect for rock concerts. It's a cool place to see a good band and enjoy a night out with friends.</p>\n",
+      "site_url": "https://kudago.com/new-york/place/terminal-5/",
+      "foreign_url": "http://www.terminal5nyc.com/",
+      "coords": {
+        "lat": 40.7697795,
+        "lon": -73.99273349999999
+      },
+      "subway": "1 To 59Th Stcolumbus Circle, A, B, C, D",
+      "favorites_count": 5,
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/place/fd/43/fd43fd2fa77c075a153961d14e71c033.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/fd/43/fd43fd2fa77c075a153961d14e71c033.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/fd/43/fd43fd2fa77c075a153961d14e71c033.jpg"
+          },
+          "source": {
+            "name": "musicinfocus.net",
+            "link": "http://www.musicinfocus.net/of-monsters-and-men-terminal-5/"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/e1/a8/e1a872ca6d9d4d56d9125858d47a9164.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/e1/a8/e1a872ca6d9d4d56d9125858d47a9164.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/e1/a8/e1a872ca6d9d4d56d9125858d47a9164.jpg"
+          },
+          "source": {
+            "name": "djoybeat.com",
+            "link": "http://cdn2.djoybeat.com/wp-content/uploads/2013/02/terminal5-ny4.jpg"
+          }
+        }
+      ],
+      "comments_count": 1,
+      "is_closed": false,
+      "categories": [
+        "clubs",
+        "concert-hall"
+      ],
+      "short_title": "Terminal 5",
+      "tags": [
+        "клубы",
+        "концертные залы"
+      ],
+      "location": "new-york",
+      "age_restriction": null,
+      "disable_comments": false,
+      "has_parking_lot": false
+    },
+    {
+      "id": 32703,
+      "title": "Музей Эмоций",
+      "slug": "muzej-muzej-emotsij",
+      "address": "пер. Нижний Сусальный, БК «Арма», д. 5, стр. 18.",
+      "timetable": "ежедневно 11:00–21:00",
+      "phone": "+7 995 887-77-88",
+      "is_stub": false,
+      "body_text": "<p>Музей Эмоций — авторский проект художника Алексея Сергиенко, который раскрывает его взгляд на мир эмоций и переживаний.</p><p>В пространстве Музея соседствуют несколько тематических зон, которые соединены между собой специальными коридорами. Каждая зона посвящена определённой эмоции, а коридор символизирует переход от одной эмоции к другой. Погружаться в разные эмоциональные состояния помогают запахи, звуки и тактильные ощущения.</p><p>Миссия Музея — помочь людям обратить более пристальное внимание на собственные эмоции и их разнообразие, дать толчок к развитию эмоциональной грамотности и эмоционального интеллекта.</p><div class=\"contentVideo\"><div class=\"contentVideo-outer\"></div></div><div class=\"contentInsert\">Музей Эмоций проводит акцию! По будним дням с 11:00 до 13:00 все взрослые билеты превращаются в детские: получить скидку 200 рублей можно по промокоду «Детство». </div><p>Требуется предварительная запись по телефону +7 (995) 887-77-88.</p><h3> Развлекайтесь с пользой</h3><p>Последние исследования доказывают, что жизненный успех во многом зависит от того, насколько у человека развит эмоциональный интеллект. Знакомя посетителей с богатой палитрой эмоций, музей старается сделать их более счастливыми.</p><div class=\"contentImage\"><div class=\"contentImage-inner\"><img alt=\"\" class=\"contentImage-image\" data-full=\"/media/images/rich_editor/09/aa/09aabbad89b2ddfd93ff99b736a933a8.png\" src=\"/media/thumbs/xl/images/rich_editor/09/aa/09aabbad89b2ddfd93ff99b736a933a8.png\"/></div></div><p>Гости музея отправляются в увлекательное путешествие с экскурсоводом, который рассказывает о факторах, влияющих на ощущение счастья. Посетители знакомятся с понятиями эмоционального интеллекта и эмоциональной грамотности, эмоциональной закалки и эмоционального подъёма, а также со своими собственными эмоциями. Всё в этом музее нацелено на создание богатого спектра эмоций и настроений:  объекты, запахи, звуки.</p><h3>Музей Эмоций — больше, чем музей</h3><div class=\"contentImage\"><div class=\"contentImage-inner\"><img alt=\"\" class=\"contentImage-image\" data-full=\"/media/images/rich_editor/74/4f/744f9efd878feb047f9aedd7f5ec1ef5.png\" src=\"/media/thumbs/xl/images/rich_editor/74/4f/744f9efd878feb047f9aedd7f5ec1ef5.png\"/></div></div><p>В Музее Эмоций внешняя эффектность экспонатов сочетается с их способностью вызывать разнообразные базовые эмоции. Поэтому здесь стоит побывать всем, кто хочет лучше осознать себя и свои переживания. Создатели музея стремятся сделать так, чтобы инсталляции и экскурсии психологически поддерживали тех, кто испытывает сложности с выражением эмоций. Кроме того, экскурсоводы дают много информации, которая поможет понять, что такое эмоциональный интеллект и почему его важно развивать каждому человеку. </p><div class=\"contentInsert\">Музей Эмоций дарит билет на день рождения! Именинник может посетить музей бесплатно, показав паспорт администратору.</div><p>Подробности узнавайте <a class=\"external-link\" href=\"https://museumofemotions.ru/msk\" target=\"_blank\">на сайте</a>. За новостями следите <a class=\"external-link\" href=\"https://vk.com/museumofemotions\" target=\"_blank\">«ВКонтакте»</a> и <a class=\"external-link\" href=\"https://www.instagram.com/museumofemotions/\" target=\"_blank\">в Instagram</a>.</p><p>Для посещения QR-код не требуется.</p>",
+      "description": "<p>Радость и грусть, злость и обида, восторг и отвращение — ежедневно каждый из нас переживает множество эмоций. Познакомьтесь с этими состояниями поближе и научитесь распознавать каждое из них на впечатляющей прогулке по Музею Эмоций.</p>",
+      "site_url": "https://kudago.com/msk/place/muzej-muzej-emotsij/",
+      "foreign_url": "https://museumofemotions.ru/msk",
+      "coords": {
+        "lat": 55.75896399999981,
+        "lon": 37.66450489999986
+      },
+      "subway": "Курская",
+      "favorites_count": 256,
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/place/59/85/5985c8195152e7ca23f45fa14cd41086.png",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/59/85/5985c8195152e7ca23f45fa14cd41086.png",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/59/85/5985c8195152e7ca23f45fa14cd41086.png"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/94/5e/945e08955c7685816acaf8a7cf99ac5b.png",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/94/5e/945e08955c7685816acaf8a7cf99ac5b.png",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/94/5e/945e08955c7685816acaf8a7cf99ac5b.png"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/c3/99/c3991091f7adfd0da06a974b22b39292.png",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/c3/99/c3991091f7adfd0da06a974b22b39292.png",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/c3/99/c3991091f7adfd0da06a974b22b39292.png"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/c0/82/c082aaf917db8c71cb74fbc595d93823.png",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/c0/82/c082aaf917db8c71cb74fbc595d93823.png",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/c0/82/c082aaf917db8c71cb74fbc595d93823.png"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/c1/14/c1146c567b43aed44fb6a9ce15f88d73.png",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/c1/14/c1146c567b43aed44fb6a9ce15f88d73.png",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/c1/14/c1146c567b43aed44fb6a9ce15f88d73.png"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/86/ae/86aeb6e2fdf8fa759759749bcec72bd2.png",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/86/ae/86aeb6e2fdf8fa759759749bcec72bd2.png",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/86/ae/86aeb6e2fdf8fa759759749bcec72bd2.png"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/1f/94/1f94352818d557d3b4038e3941d66741.png",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/1f/94/1f94352818d557d3b4038e3941d66741.png",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/1f/94/1f94352818d557d3b4038e3941d66741.png"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/3f/46/3f462d167ce3b52b890bc34bd5afe0c3.png",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/3f/46/3f462d167ce3b52b890bc34bd5afe0c3.png",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/3f/46/3f462d167ce3b52b890bc34bd5afe0c3.png"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/3e/67/3e674ca6b792c46a9ae575fe18b55e81.png",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/3e/67/3e674ca6b792c46a9ae575fe18b55e81.png",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/3e/67/3e674ca6b792c46a9ae575fe18b55e81.png"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/b0/b3/b0b37a876d4f6c8893e8a6b30fcc3d40.png",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/b0/b3/b0b37a876d4f6c8893e8a6b30fcc3d40.png",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/b0/b3/b0b37a876d4f6c8893e8a6b30fcc3d40.png"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        }
+      ],
+      "comments_count": 7,
+      "is_closed": false,
+      "categories": [
+        "museums"
+      ],
+      "short_title": "Музей Эмоций",
+      "tags": [
+        "всей семьей",
+        "осень",
+        "музеи и галереи",
+        "6+",
+        "с девушкой",
+        "музей: выставка года",
+        "новое на сайте",
+        "интересное",
+        "выходные с детьми"
+      ],
+      "location": "msk",
+      "age_restriction": "6+",
+      "disable_comments": false,
+      "has_parking_lot": false
+    },
+    {
+      "id": 33345,
+      "title": "«Центр искусств. Москва»",
+      "slug": "art-tsentr-tsentr-iskusstv-moskva",
+      "address": "ул. Волхонка, д. 15",
+      "timetable": "вт–вс 12:00–18:00",
+      "phone": "",
+      "is_stub": false,
+      "body_text": "<p>«Центр искусств. Москва» — площадка в самом сердце Москвы, где представлена живопись из частных собраний, ранее не демонстрировавшаяся широкой аудитории. Экспозиция Центра динамична и постоянно меняется: одни полотна возвращаются обратно в частные собрания, а на их место приходят другие. </p><p>Центр позиционирует себя как территорию, полностью посвящённую искусству. Помимо выставок, здесь проходят лекции и концерты, тема которых связана с пониманием и восприятием музыки и живописи. Есть и образовательные программы, рассчитанные на взрослых и детей от 10 лет: слушатели изучают основы теории и практики экспертизы и анализа живописи.</p><p>В галерее проходит уникальный формат вечерних мероприятий, где посетители могут насладиться концертом, лекцией или поэтическим перформансом в окружении произведений искусства. Зрителям выпадает возможность посетить галерею в вечернее время, в уединенной атмосфере погрузиться в созерцание искусства и насладиться вечерним мероприятием в камерном формате. </p><p>Каждый первый и последний вторник месяца школьники и пенсионеры могут посещать «Центр искусств. Москва» бесплатно.</p>",
+      "description": "<p>Пространство, наполненное искусством, в самом сердце столицы.</p>",
+      "site_url": "https://kudago.com/msk/place/art-tsentr-tsentr-iskusstv-moskva/",
+      "foreign_url": "http://artcentre.moscow/",
+      "coords": {
+        "lat": 55.74486847611072,
+        "lon": 37.60598044160465
+      },
+      "subway": "Библиотека имени Ленина, Кропоткинская",
+      "favorites_count": 17,
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/place/30/f1/30f1894ac2f8efd7859b1988996fac6c.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/30/f1/30f1894ac2f8efd7859b1988996fac6c.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/30/f1/30f1894ac2f8efd7859b1988996fac6c.jpg"
+          },
+          "source": {
+            "name": "поездкиклассом.рф",
+            "link": "https://www.поездкиклассом.рф/tsentr-iskusstv-moskva"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/73/72/7372d37a0e0e49648ec719fcdb3fa6fd.JPG",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/73/72/7372d37a0e0e49648ec719fcdb3fa6fd.JPG",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/73/72/7372d37a0e0e49648ec719fcdb3fa6fd.JPG"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/42/90/4290552ced6cbf5bd020b69e3624fcde.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/42/90/4290552ced6cbf5bd020b69e3624fcde.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/42/90/4290552ced6cbf5bd020b69e3624fcde.jpg"
+          },
+          "source": {
+            "name": "vk.com",
+            "link": "https://vk.com/album-97444948_217786264"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/da/14/da144f71d6e4f8cc11e82222c66cecde.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/da/14/da144f71d6e4f8cc11e82222c66cecde.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/da/14/da144f71d6e4f8cc11e82222c66cecde.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/ff/5f/ff5fc0b1d1ab7000a017db2ddfaf888d.JPG",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/ff/5f/ff5fc0b1d1ab7000a017db2ddfaf888d.JPG",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/ff/5f/ff5fc0b1d1ab7000a017db2ddfaf888d.JPG"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/c5/17/c517b6aaa192daf1ea6ed81044f0b135.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/c5/17/c517b6aaa192daf1ea6ed81044f0b135.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/c5/17/c517b6aaa192daf1ea6ed81044f0b135.jpg"
+          },
+          "source": {
+            "name": "vk.com",
+            "link": "https://vk.com/album-97444948_217786264"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/fc/75/fc755b576a093649ff2d7a80b8ce8d2e.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/fc/75/fc755b576a093649ff2d7a80b8ce8d2e.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/fc/75/fc755b576a093649ff2d7a80b8ce8d2e.jpg"
+          },
+          "source": {
+            "name": "kudamoscow.ru",
+            "link": "https://kudamoscow.ru/place/vystavochnyj-zal-tsentr-iskusstv-moskva/"
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/79/e2/79e2b72c9138792e4178e62196b2422c.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/79/e2/79e2b72c9138792e4178e62196b2422c.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/79/e2/79e2b72c9138792e4178e62196b2422c.jpg"
+          },
+          "source": {
+            "name": "amate.rblogger.ru",
+            "link": "http://www.amate.rblogger.ru/2016/11/22/tsentr-iskusstv/"
+          }
+        }
+      ],
+      "comments_count": 0,
+      "is_closed": false,
+      "categories": [
+        "amusement",
+        "art-centers",
+        "museums",
+        "art-space",
+        "sights"
+      ],
+      "short_title": "Центр искусств. Москва",
+      "tags": [
+        "интересные места",
+        "развлечения",
+        "лекции и мастер-классы",
+        "музеи и галереи",
+        "это лето",
+        "арт-центры",
+        "выходные",
+        "лучшее",
+        "арт-пространства",
+        "культура",
+        "интересное",
+        "культура и искусство"
+      ],
+      "location": "msk",
+      "age_restriction": 0,
+      "disable_comments": false,
+      "has_parking_lot": false
+    },
+    {
+      "id": 30365,
+      "title": "Музей Эмоций",
+      "slug": "interesnoe-mesto-muzej-emotsij",
+      "address": "ул. Итальянская, д. 1 (перекресток с наб. канала Грибоедова)",
+      "timetable": "ежедневно 11:00–21:00",
+      "phone": "+7 812 715-12-35",
+      "is_stub": false,
+      "body_text": "<p>Интерактивный музей современного искусства Музей Эмоций — проект Алексея Сергиенко. Художник создал пространство, которое рассказывает о базовых эмоциональных состояниях. Музей состоит из нескольких залов, каждый из которых погружает посетителей в одну из эмоций, побуждая почувствовать гнев, удивление, отвращение, влюбленность, страх, радость или вдохновение. Инсталляции в коридорах между комнатами готовят к переходу от одной эмоции к другой и помогают настроиться на новое состояние.</p><div class=\"contentInsert\">Музей Эмоций возвращает в детство! По будним дням с 11:00 до 13:00 все взрослые посетители могут пройти по детскому билету. Скидку 200 рублей можно получить по промокоду «Детство».</div><h3>Больше, чем музей</h3><div class=\"contentImage\"><div class=\"contentImage-inner\"><img alt=\"\" class=\"contentImage-image\" data-full=\"/media/images/rich_editor/68/3b/683bec1579d20bc9170ab0962d7aa27f.png\" src=\"/media/thumbs/xl/images/rich_editor/68/3b/683bec1579d20bc9170ab0962d7aa27f.png\"/></div></div><p>Музей эмоций — это не только эффектные инсталляции, которые интересны сами по себе. Создатели музея и его экспонатов стремились к тому, чтобы пространство помогало людям, которые испытывают сложности в выражении эмоций. Здесь стоит побывать всем, кто хочет научиться лучше понимать себя и свои переживания. Кроме того, музей предоставляет информацию об эмоциональном интеллекте и его значимости в современном мире, а значит, подталкивает посетителей к развитию собственной эмоциональной грамотности. </p><div class=\"contentInsert\">Музей Эмоций дарит билет на день рождения! Именинник может посетить музей бесплатно, показав паспорт администратору.</div><h3> Развлекайтесь с пользой </h3><div class=\"contentImage\"><div class=\"contentImage-inner\"><img alt=\"\" class=\"contentImage-image\" data-full=\"/media/images/rich_editor/9b/a1/9ba1c2a1b40d081e079bb836d251ae92.png\" src=\"/media/thumbs/xl/images/rich_editor/9b/a1/9ba1c2a1b40d081e079bb836d251ae92.png\"/></div></div><p>Эмоциональный интеллект — один из важнейших факторов, от которого зависит счастье человека и его успех. Музей Эмоций знакомит посетителей с большой палитрой базовых эмоций, чтобы помочь каждому стать счастливее.</p><div class=\"contentVideo\"><div class=\"contentVideo-outer\"></div></div><p>В ходе экскурсии гиды дают полезную информацию о развитии эмоциональной грамотности и эмоционального интеллекта, знакомят посетителей с понятиями эмоциональной закалки и эмоционального подъёма. В каждом зале музея происходит погружение в особую атмосферу, созданную с помощью визуальных образов, запахов, звуков, которые помогают создать различные настроения.</p><p>Подробности можно узнать <a class=\"external-link\" href=\"https://museumofemotions.ru/spb\" rel=\"nofollow\" target=\"_blank\">на сайте</a>.</p><p>Присоединяйтесь <a class=\"external-link\" href=\"https://vk.com/museumofemotions\" rel=\"nofollow\" target=\"_blank\">ВКонтакте</a> и в <a class=\"external-link\" href=\"https://www.instagram.com/museumofemotions/\" target=\"_blank\">Instagram</a>.</p>",
+      "description": "<p>Создатель музея, художник Алексей Сергиенко, уверен: искусство должно вызывать чувства. Арт-объекты, видео и инсталляции — всё, что вы увидите в Музее Эмоций, заставляет посетителей проживать определённые душевные состояния и помогает изучать собственные эмоциональные реакции.</p>\n",
+      "site_url": "https://kudago.com/spb/place/interesnoe-mesto-muzej-emotsij/",
+      "foreign_url": "https://museumofemotions.ru/spb",
+      "coords": {
+        "lat": 59.93667105398183,
+        "lon": 30.32857237468668
+      },
+      "subway": "Гостиный Двор, Невский Проспект",
+      "favorites_count": 260,
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/place/8e/8d/8e8dad41f778058f30a6bde9fd52ee10.png",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/8e/8d/8e8dad41f778058f30a6bde9fd52ee10.png",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/8e/8d/8e8dad41f778058f30a6bde9fd52ee10.png"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/14/d5/14d53a8f7731e0a3d1e4b40f487bd774.png",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/14/d5/14d53a8f7731e0a3d1e4b40f487bd774.png",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/14/d5/14d53a8f7731e0a3d1e4b40f487bd774.png"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/f1/8f/f18feefd806be6e63234fadac5f1c3a9.png",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/f1/8f/f18feefd806be6e63234fadac5f1c3a9.png",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/f1/8f/f18feefd806be6e63234fadac5f1c3a9.png"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/07/a1/07a10a33373ba1d281596e63fed81afe.png",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/07/a1/07a10a33373ba1d281596e63fed81afe.png",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/07/a1/07a10a33373ba1d281596e63fed81afe.png"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/e4/cd/e4cdf996f089fcb8a8257ae694836e0a.png",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/e4/cd/e4cdf996f089fcb8a8257ae694836e0a.png",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/e4/cd/e4cdf996f089fcb8a8257ae694836e0a.png"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/77/41/774194304a231b61ae20f9fcb801b915.png",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/77/41/774194304a231b61ae20f9fcb801b915.png",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/77/41/774194304a231b61ae20f9fcb801b915.png"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/1f/06/1f062448d1cf81cfe93a44a8ae5155dc.png",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/1f/06/1f062448d1cf81cfe93a44a8ae5155dc.png",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/1f/06/1f062448d1cf81cfe93a44a8ae5155dc.png"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/1a/2d/1a2d0af1e83257788a0ef1e9c6cdb8b0.png",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/1a/2d/1a2d0af1e83257788a0ef1e9c6cdb8b0.png",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/1a/2d/1a2d0af1e83257788a0ef1e9c6cdb8b0.png"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/50/c0/50c03636b83a16fd924773f1d010f1a7.png",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/50/c0/50c03636b83a16fd924773f1d010f1a7.png",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/50/c0/50c03636b83a16fd924773f1d010f1a7.png"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/3a/db/3adbe4b7bce5cd476dab9d0ad36cbeb2.png",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/3a/db/3adbe4b7bce5cd476dab9d0ad36cbeb2.png",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/3a/db/3adbe4b7bce5cd476dab9d0ad36cbeb2.png"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        }
+      ],
+      "comments_count": 4,
+      "is_closed": false,
+      "categories": [
+        "museums",
+        "sights"
+      ],
+      "short_title": "Музей Эмоций",
+      "tags": [
+        "интересные места",
+        "осень",
+        "музеи и галереи",
+        "6+",
+        "музей: выставка года"
+      ],
+      "location": "spb",
+      "age_restriction": "6+",
+      "disable_comments": false,
+      "has_parking_lot": false
+    },
+    {
+      "id": 33504,
+      "title": "криптозоологический музей «Бестиарий»",
+      "slug": "detskoe-mesto-bestiarij",
+      "address": "просп. Энгельса, д. 154, ТРК «Гранд Каньон», 3 этаж",
+      "timetable": "ежедневно 11:00–21:00",
+      "phone": "+7 965 025-31-00",
+      "is_stub": false,
+      "body_text": "<p>Если душа требует фантастических приключений, приходите в «Бестиарий» — музей удивительных существ, обитающих в волшебных мирах. Гости музея познакомятся с открытиями загадочного учёного по имени Вэйланд Тиберий Харроустоун и, возможно, сумеют раскрыть его тайну. Несмотря на то, что сам профессор Харроустоунт таинственным образом исчез во время экспедиции в пещеру Сулавеси, результаты его исследований сохранились для потомков.</p><p>Музей поделён на четыре пространства, в каждом из которых царит особая атмосфера. Гости попадут в лабораторию профессора, прогуляются по волшебному саду, посетят старинный замок. Благодаря уникальным декорациям и мультимедийным технологиям, посетители «Бестиария» смогут почувствовать себя героями захватывающей фэнтезийной истории. </p><p>Стоимость билетов — от 350 до 500 рублей.</p><p><strong>Музей работает в соответствии с постановлением правительства, для взрослых требуется QR-код.</strong></p><p>Узнавайте подробности на <a class=\"external-link\" href=\"https://bestiary.space/\" target=\"_blank\">официальном сайте</a> и в <a class=\"external-link\" href=\"https://www.instagram.com/bestiary.space/\" target=\"_blank\">Instagram</a>. </p>",
+      "description": "<p>Хотите увидеть доказательства существования русалок, кентавров и циклопов, встретиться с единорогом и фейри, узнать, чем вольпентингер отличается от обычного кролика? Удивительный музей «Бестиарий» ждёт всех, кто мечтает почувствовать себя героем фэнтезийной истории.</p>",
+      "site_url": "https://kudago.com/spb/place/detskoe-mesto-bestiarij/",
+      "foreign_url": "https://bestiary.space/",
+      "coords": {
+        "lat": 60.05889489999979,
+        "lon": 30.33496640000001
+      },
+      "subway": "Проспект Просвещения",
+      "favorites_count": 71,
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/place/b8/fa/b8fa9d94c409f3fdb8016eaa47019793.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/b8/fa/b8fa9d94c409f3fdb8016eaa47019793.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/b8/fa/b8fa9d94c409f3fdb8016eaa47019793.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/6f/d1/6fd1728fa0ab11429997ba4aa6537223.jpeg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/6f/d1/6fd1728fa0ab11429997ba4aa6537223.jpeg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/6f/d1/6fd1728fa0ab11429997ba4aa6537223.jpeg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/d8/f2/d8f2a7811f404e5e3fdf942a007edf71.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/d8/f2/d8f2a7811f404e5e3fdf942a007edf71.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/d8/f2/d8f2a7811f404e5e3fdf942a007edf71.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/c7/b2/c7b2af8e21ed667b031bedd327aa4e61.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/c7/b2/c7b2af8e21ed667b031bedd327aa4e61.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/c7/b2/c7b2af8e21ed667b031bedd327aa4e61.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/47/fa/47fa1aae2c2a94113f189fbe656f3c8b.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/47/fa/47fa1aae2c2a94113f189fbe656f3c8b.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/47/fa/47fa1aae2c2a94113f189fbe656f3c8b.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/a2/ad/a2ad6d3c62099c67911b007f78c979bd.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/a2/ad/a2ad6d3c62099c67911b007f78c979bd.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/a2/ad/a2ad6d3c62099c67911b007f78c979bd.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/17/13/17136dfe990439769e1121917e1a0bfa.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/17/13/17136dfe990439769e1121917e1a0bfa.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/17/13/17136dfe990439769e1121917e1a0bfa.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/54/1d/541d5595de61f4cf9187a492a2b0ebfc.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/54/1d/541d5595de61f4cf9187a492a2b0ebfc.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/54/1d/541d5595de61f4cf9187a492a2b0ebfc.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/37/64/3764d1e97d6434f676c6c2927db68932.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/37/64/3764d1e97d6434f676c6c2927db68932.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/37/64/3764d1e97d6434f676c6c2927db68932.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/f7/35/f7358d01ceba4ca509ba42d9673c30cd.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/f7/35/f7358d01ceba4ca509ba42d9673c30cd.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/f7/35/f7358d01ceba4ca509ba42d9673c30cd.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        }
+      ],
+      "comments_count": 3,
+      "is_closed": false,
+      "categories": [
+        "kids",
+        "museums",
+        "sights"
+      ],
+      "short_title": "Бестиарий",
+      "tags": [
+        "всей семьей",
+        "осень",
+        "новое место",
+        "интересные места",
+        "волшебство",
+        "детям",
+        "музеи и галереи",
+        "6+",
+        "подростки",
+        "школьники",
+        "фэнтези",
+        "новое на сайте",
+        "дошкольники",
+        "выходные с детьми",
+        "хеллоуин"
+      ],
+      "location": "spb",
+      "age_restriction": "6+",
+      "disable_comments": false,
+      "has_parking_lot": false
+    },
+    {
+      "id": 10459,
+      "title": "Музей оптики Университета ИТМО",
+      "slug": "muzej-optiki",
+      "address": "линия Биржевая, д. 14",
+      "timetable": "вт–чт 11:00–20:00, пт–вс 11:00–21:00",
+      "phone": "+7 965 032-61-02",
+      "is_stub": false,
+      "body_text": "<p>Музей оптики, существующий на базе Университета ИТМО, — место, где оптические явления предстают перед зрителями в наглядной доступной форме. Площадка находится на Васильевском острове в доме купцов Елисеевых, где до 2003 года располагались лаборатории Государственного оптического института. Внутри — 11 залов, каждый из которых иллюстрирует то или иное оптическое явление. Посетители взаимодействуют с большинством экспонатов музея напрямую: так, к примеру, здесь можно заморозить собственную тень, стать властелином частиц и даже немного полетать. Оптоклоны творений Фаберже, голограммы и одна из самых больших коллекций стекла в мире рассказывают о том, как оптические технологии применяются в разных сферах человеческой деятельности. Интерактивный формат даёт всем посетителям возможность изучать науку с интересом.</p>\n<p>Университет ИТМО и Греческий институт голографии провели в музее три успешные выставки — Magic of Light («Мэджик оф Лайт»), Magic of Light. Lite («Мэджик оф Лайт. Лайт») и «Живой свет». Некоторые объекты настолько понравились публике, что были включены в постоянную экспозицию.</p>\n<p>Оптические законы и технологии на территории современного образовательно-интерактивного пространства Музея оптики становятся не только понятными, но и завораживающе красивыми: для необычных фотографий есть множество зон.</p>\n<p>Детали — <a class=\"external-link\" href=\"https://vk.com/optical_museum\" rel=\"nofollow\" target=\"_blank\">«ВКонтакте»</a>.</p>\n",
+      "description": "<p>Хотели ли бы вы в мгновение ока перенестись в будущее? Познакомиться с технологиями, которые будет использовать человечество? Стать частью оптической иллюзии? Приручить радугу, порисовать светом и сыграть мелодию на лазерной арфе?</p>\n",
+      "site_url": "https://kudago.com/spb/place/muzej-optiki/",
+      "foreign_url": "http://optimus.ifmo.ru/",
+      "coords": {
+        "lat": 59.94411143561318,
+        "lon": 30.29543481349299
+      },
+      "subway": "Василеостровская, Спортивная",
+      "favorites_count": 336,
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/place/87/f5/87f522c23e791b0914c3159af34494a6.JPG",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/87/f5/87f522c23e791b0914c3159af34494a6.JPG",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/87/f5/87f522c23e791b0914c3159af34494a6.JPG"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/0f/a6/0fa60baf1b84899e4c2cb3b9ae8f0406.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/0f/a6/0fa60baf1b84899e4c2cb3b9ae8f0406.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/0f/a6/0fa60baf1b84899e4c2cb3b9ae8f0406.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/fa/f3/faf32f2baa68a785c9cabac28d66ef93.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/fa/f3/faf32f2baa68a785c9cabac28d66ef93.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/fa/f3/faf32f2baa68a785c9cabac28d66ef93.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/fa/0b/fa0bd08edc46b02cd9d9f858d5a179a0.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/fa/0b/fa0bd08edc46b02cd9d9f858d5a179a0.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/fa/0b/fa0bd08edc46b02cd9d9f858d5a179a0.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/48/2f/482f2803e7dc2de1d081312f392d847f.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/48/2f/482f2803e7dc2de1d081312f392d847f.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/48/2f/482f2803e7dc2de1d081312f392d847f.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/f8/c1/f8c1080f6affba2056490a3f22990eae.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/f8/c1/f8c1080f6affba2056490a3f22990eae.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/f8/c1/f8c1080f6affba2056490a3f22990eae.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/6e/d7/6ed734a470a9d96cf883b7927340aa08.jpeg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/6e/d7/6ed734a470a9d96cf883b7927340aa08.jpeg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/6e/d7/6ed734a470a9d96cf883b7927340aa08.jpeg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/07/c6/07c6ae09e26da689dabc6f4d005bf99e.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/07/c6/07c6ae09e26da689dabc6f4d005bf99e.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/07/c6/07c6ae09e26da689dabc6f4d005bf99e.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/0b/15/0b155e7e901fa61bc4f6de4e86d21f75.JPG",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/0b/15/0b155e7e901fa61bc4f6de4e86d21f75.JPG",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/0b/15/0b155e7e901fa61bc4f6de4e86d21f75.JPG"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/31/35/3135550adb0feee7a9271a4ff2882c8f.JPG",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/31/35/3135550adb0feee7a9271a4ff2882c8f.JPG",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/31/35/3135550adb0feee7a9271a4ff2882c8f.JPG"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/6a/8a/6a8a4491acd791bfe9bf88acc211c40a.png",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/6a/8a/6a8a4491acd791bfe9bf88acc211c40a.png",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/6a/8a/6a8a4491acd791bfe9bf88acc211c40a.png"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/86/ed/86edc82dd761676a535088056266b364.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/86/ed/86edc82dd761676a535088056266b364.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/86/ed/86edc82dd761676a535088056266b364.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/51/fc/51fcfa8a9fd6ec79da46242b56e6258a.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/51/fc/51fcfa8a9fd6ec79da46242b56e6258a.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/51/fc/51fcfa8a9fd6ec79da46242b56e6258a.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/97/56/9756779991c24104cba2ba6d73beaff8.JPG",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/97/56/9756779991c24104cba2ba6d73beaff8.JPG",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/97/56/9756779991c24104cba2ba6d73beaff8.JPG"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/59/a0/59a0fe553e8b3b7afb6cebcb2252e6c1.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/59/a0/59a0fe553e8b3b7afb6cebcb2252e6c1.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/59/a0/59a0fe553e8b3b7afb6cebcb2252e6c1.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        }
+      ],
+      "comments_count": 8,
+      "is_closed": false,
+      "categories": [
+        "museums"
+      ],
+      "short_title": "Музей оптики Университета ИТМО",
+      "tags": [
+        "день космонавтики",
+        "музеи и галереи",
+        "до лучших времён",
+        "космос"
+      ],
+      "location": "spb",
+      "age_restriction": 0,
+      "disable_comments": false,
+      "has_parking_lot": false
+    },
+    {
+      "id": 18778,
+      "title": "креативное пространство «Люмьер-Холл»",
+      "slug": "kinoteatr-lumiere-hall",
+      "address": "Берсеневский пер., д. 2, стр. 1",
+      "timetable": "ежедневно 11:00–23:00",
+      "phone": "+7 999 877-10-78",
+      "is_stub": false,
+      "body_text": "<p>В большом мультимедийном зале «Люмьер-Холла» установлено двадцать панорамных экранов с разрешением 6 тысяч пикселей. Объёмный звук, общая площадь изображения 500 квадратных метров, 2D- и 3D-анимация, технология мультипоточного проецирования создают у гостей эффект полного присутствия. Здесь, в мультимедийном зале, проходят выставки, кинопоказы, музыкальные концерты, фестивали, презентации и деловые встречи.</p>\n<p>На выставках формата «ожившие полотна» зрители могут полюбоваться картинами известных художников сразу на множестве экранов. Изображение проецируется в формате Full HD и сопровождается объёмным звуковым рядом. Картины приближаются и отдаляются, детали и предметы приходят в движение, и посетители словно погружаются в творческие миры живописцев.</p>\n<p>В «Люмьер-Холле» регулярно проходят тематические кинопоказы. Организаторы радуют эстетов подборками чёрно-белых лент, демонстрируют анимационные фильмы, устраивают ретроспективы звёздных режиссёров и балуют публику новыми хитами. Зрители располагаются на мягких пуфиках, причём сами выбирают, где их разместить. Для тех, кто предпочитает классические показы, работает зал с одним экраном.</p>\n<p>Перекусить и выпить чашечку кофе можно в кафе «Люмьер-Холла».</p>\n<p>Подробности узнавайте <a class=\"external-link\" href=\"http://www.lumierehall.ru/msk\" rel=\"nofollow\" target=\"_blank\">на сайте</a>. За расписанием показов и выставок следите <a class=\"external-link\" href=\"https://vk.com/club87604121\" rel=\"nofollow\" target=\"_blank\">«ВКонтакте»</a>.</p>\n",
+      "description": "<p>В креативном пространстве «Люмьер-Холл» благодаря мультимедийным выставкам оживают полотна великих мастеров, ценители кинематографа получают удовольствие от тематических кинопоказов, а на концертах и фестивалях кипит яркая, современная, полная впечатлений жизнь.</p>\n",
+      "site_url": "https://kudago.com/msk/place/kinoteatr-lumiere-hall/",
+      "foreign_url": "http://www.lumierehall.ru",
+      "coords": {
+        "lat": 55.74076718192345,
+        "lon": 37.60991006382213
+      },
+      "subway": "Кропоткинская, Полянка",
+      "favorites_count": 677,
+      "images": [
+        {
+          "image": "https://kudago.com/media/images/place/72/fd/72fdca056b037c8f7eff5ac304d73282.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/72/fd/72fdca056b037c8f7eff5ac304d73282.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/72/fd/72fdca056b037c8f7eff5ac304d73282.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/5f/97/5f97c76c6c6b05616050ede5cb477184.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/5f/97/5f97c76c6c6b05616050ede5cb477184.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/5f/97/5f97c76c6c6b05616050ede5cb477184.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/2b/51/2b511e0518a9663d692130306fa7d29a.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/2b/51/2b511e0518a9663d692130306fa7d29a.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/2b/51/2b511e0518a9663d692130306fa7d29a.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/19/92/199286f87b6eed5872d03de91b2e3744.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/19/92/199286f87b6eed5872d03de91b2e3744.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/19/92/199286f87b6eed5872d03de91b2e3744.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/b7/62/b7625475fce8967a2fbef865f66708e9.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/b7/62/b7625475fce8967a2fbef865f66708e9.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/b7/62/b7625475fce8967a2fbef865f66708e9.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        },
+        {
+          "image": "https://kudago.com/media/images/place/ba/f3/baf3c540403fb0057cf839849f8d92f6.jpg",
+          "thumbnails": {
+            "640x384": "https://kudago.com/media/thumbs/640x384/images/place/ba/f3/baf3c540403fb0057cf839849f8d92f6.jpg",
+            "144x96": "https://kudago.com/media/thumbs/144x96/images/place/ba/f3/baf3c540403fb0057cf839849f8d92f6.jpg"
+          },
+          "source": {
+            "name": "",
+            "link": ""
+          }
+        }
+      ],
+      "comments_count": 67,
+      "is_closed": false,
+      "categories": [
+        "coworking",
+        "attractions",
+        "sights",
+        "cinema"
+      ],
+      "short_title": "Люмьер-Холл",
+      "tags": [
+        "интересные места",
+        "18+",
+        "кино",
+        "мультимедиа",
+        "достопримечательности",
+        "выставочные пространства",
+        "кинотеатры",
+        "коворкинги",
+        "кинопоказы"
+      ],
+      "location": "msk",
+      "age_restriction": "18+",
+      "disable_comments": false,
+      "has_parking_lot": false
+    }
+  ]
+}
