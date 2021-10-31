@@ -4,7 +4,17 @@ namespace Larowka\KudaGo\Laravel;
 
 use Illuminate\Support\Facades\Facade;
 use Larowka\KudaGo\Api;
+use Larowka\KudaGo\Methods\Movies;
+use Larowka\KudaGo\Methods\Places;
+use Larowka\KudaGo\Methods\Showings;
 
+/**
+ * KudaGo API Laravel Facade
+ *
+ * @method static Movies movies()
+ * @method static Places places()
+ * @method static Showings showings()
+ */
 class KudaGo extends Facade
 {
     /**
