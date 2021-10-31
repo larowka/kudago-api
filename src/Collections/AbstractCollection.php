@@ -2,9 +2,7 @@
 
 namespace Larowka\KudaGo\Collections;
 
-use {Generator, IteratorAggregate};
-
-abstract class AbstractCollection implements IteratorAggregate
+abstract class AbstractCollection implements \IteratorAggregate
 {
     protected array $iterable = [];
 
@@ -23,7 +21,7 @@ abstract class AbstractCollection implements IteratorAggregate
         return $instance;
     }
 
-    public function getIterator(): Generator
+    public function getIterator(): \Generator
     {
         yield from $this->iterable;
     }

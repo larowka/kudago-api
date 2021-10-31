@@ -17,7 +17,7 @@
         "source": "https://github.com/larowka/kudago-api"
     },
     "require": {
-        "php": "^7.3",
+        "php": "^7.3|^8.0",
         "ext-json": "*",
         "guzzlehttp/guzzle": "^7.0",
         "nesbot/carbon": "^2.53.1"
