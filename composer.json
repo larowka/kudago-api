@@ -20,7 +20,8 @@
         "php": "^7.3|^8.0",
         "ext-json": "*",
         "guzzlehttp/guzzle": "^7.0",
-        "nesbot/carbon": "^2.53.1"
+        "nesbot/carbon": "^2.53.1",
+        "illuminate/support": "^5.5 || ^6.0 || ^7.0 || ^8.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5.10"
@@ -33,6 +34,16 @@
     "autoload-dev": {
         "psr-4": {
             "Larowka\\KudaGo\\Tests\\": "tests/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Larowka\\KudaGo\\Laravel\\KudaGoServiceProvider"
+            ],
+            "aliases": {
+                "KudaGo": "Larowka\\KudaGo\\Laravel\\KudaGo"
+            }
         }
     },
     "scripts": {
