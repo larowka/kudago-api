@@ -13,6 +13,23 @@ class Places extends AbstractMethod
     use HasDetails;
     use HasTimeFilter;
 
+    public function ids(array $ids): self
+    {
+        $this->params['ids'] = static::arrayToString($ids);
+        return $this;
+    }
+
+    public function inRadius(float $latitude, float $longitude, int $radius): self
+    {
+        $location = [
+            'lat' => $latitude,
+            'lon' => $longitude,
+            'radius' => $radius
+        ];
+        $this->params += $location;
+        return $this;
+    }
+
     /**
      * @return PlaceCollection|null
      */

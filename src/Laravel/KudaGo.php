@@ -5,6 +5,7 @@ namespace Larowka\KudaGo\Laravel;
 use Illuminate\Support\Facades\Facade;
 use Larowka\KudaGo\Api;
 use Larowka\KudaGo\Methods\Movies;
+use Larowka\KudaGo\Methods\MovieShowings;
 use Larowka\KudaGo\Methods\Places;
 use Larowka\KudaGo\Methods\Showings;
 
@@ -14,6 +15,7 @@ use Larowka\KudaGo\Methods\Showings;
  * @method static Movies movies()
  * @method static Places places()
  * @method static Showings showings()
+ * @method static MovieShowings movieShowings(int $movieId)
  */
 class KudaGo extends Facade
 {

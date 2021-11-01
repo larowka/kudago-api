@@ -3,7 +3,12 @@
 namespace Larowka\KudaGo;
 
 use GuzzleHttp\Client;
-use Larowka\KudaGo\Methods\{Movies, Places, Showings};
+use Larowka\KudaGo\Methods\{
+    Movies,
+    MovieShowings,
+    Places,
+    Showings
+};
 
 /**
  * Entrypoint for API Wrapper
@@ -35,6 +40,11 @@ class Api
     public function showings(): Showings
     {
         return new Showings($this->client);
+    }
+
+    public function movieShowings(int $movieId): MovieShowings
+    {
+        return new MovieShowings($this->client, $movieId);
     }
 
     private function getClient(): Client
