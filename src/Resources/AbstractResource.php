@@ -3,6 +3,7 @@
 namespace Larowka\KudaGo\Resources;
 
 use Larowka\KudaGo\CollectionFactory;
+use Larowka\KudaGo\Resources\Traits\HasAttributes;
 
 abstract class AbstractResource implements IResource
 {

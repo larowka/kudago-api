@@ -4,6 +4,13 @@ namespace Larowka\KudaGo\Methods;
 
 use GuzzleHttp\Exception\GuzzleException;
 use Larowka\KudaGo\Resources\Place;
+use Larowka\KudaGo\Methods\Traits\{
+    HasPaginator,
+    HasSort,
+    HasDetails,
+    HasTimeFilter,
+    HasCoordsFilter
+};
 
 /**
  * @method \Illuminate\Support\Collection|Place[]|null get()
@@ -14,6 +21,7 @@ class Places extends AbstractMethod
     use HasSort;
     use HasDetails;
     use HasTimeFilter;
+    use HasCoordsFilter;
 
     protected string $resource = Place::class;
 
@@ -23,24 +31,13 @@ class Places extends AbstractMethod
         return $this;
     }
 
-    public function inRadius(float $latitude, float $longitude, int $radius): self
-    {
-        $location = [
-            'lat' => $latitude,
-            'lon' => $longitude,
-            'radius' => $radius
-        ];
-        $this->params += $location;
-        return $this;
-    }
-
     /**
      * @param int $id
      * @return Place|null
      */
-    public function find(int $id): ?Place
+    public function find($id): ?Place
     {
-        parent::find($id);
+        parent::find((int) $id);
 
         try {
             return Place::fromArray($this->response());

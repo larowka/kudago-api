@@ -4,6 +4,12 @@ namespace Larowka\KudaGo\Methods;
 
 use GuzzleHttp\Exception\GuzzleException;
 use Larowka\KudaGo\Resources\Movie;
+use Larowka\KudaGo\Methods\Traits\{
+    HasPaginator,
+    HasSort,
+    HasDetails,
+    HasTimeFilter,
+};
 
 /**
  * @method \Illuminate\Support\Collection|Movie[]|null get()
@@ -21,9 +27,9 @@ class Movies extends AbstractMethod
      * @param int $id
      * @return Movie|null
      */
-    public function find(int $id): ?Movie
+    public function find($id): ?Movie
     {
-        parent::find($id);
+        parent::find((int) $id);
 
         try {
             return Movie::fromArray($this->response());

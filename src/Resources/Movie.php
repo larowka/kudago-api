@@ -7,7 +7,7 @@ use Illuminate\Support\Collection;
 /**
  * @method static Movie fromArray(array $data) Return an instance of Movie resource object
  *
- * @property int id                     идентификатор
+ * @property int $id                    идентификатор
  * @property string $site_url           адрес фильма на сайте kudago.com
  * @property int $publication_date      дата публикации
  * @property string $slug               слаг

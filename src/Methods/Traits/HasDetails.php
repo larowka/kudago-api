@@ -1,12 +1,12 @@
 <?php
 
-namespace Larowka\KudaGo\Methods;
+namespace Larowka\KudaGo\Methods\Traits;
 
 trait HasDetails
 {
     protected array $expand;
 
-    public function expand(string ...$fields)
+    public function expand(string ...$fields): self
     {
         $this->params['expand'] = empty($fields) ?
                 implode(',', array_keys($this->expand)) :

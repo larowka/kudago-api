@@ -18,7 +18,7 @@ use Illuminate\Support\Collection;
  * @property string $description
  * @property string $site_url
  * @property string $foreign_url
- * @property Location $coords
+ * @property Coords $coords
  * @property string $lat
  * @property string $lon
  * @property string $subway
@@ -48,7 +48,7 @@ class Place extends AbstractResource
         'description'         => true,
         'site_url'            => true,
         'foreign_url'         => true,
-        'coords'              => Location::class,
+        'coords'              => Coords::class,
         'subway'              => true, // todo: convert to array of strings?
         'favorites_count'     => true,
         'images'              => [Image::class],

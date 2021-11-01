@@ -1,6 +1,6 @@
 <?php
 
-namespace Larowka\KudaGo\Resources;
+namespace Larowka\KudaGo\Resources\Traits;
 
 trait HasAttributes
 {

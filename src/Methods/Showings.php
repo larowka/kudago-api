@@ -4,6 +4,12 @@ namespace Larowka\KudaGo\Methods;
 
 use GuzzleHttp\Exception\GuzzleException;
 use Larowka\KudaGo\Resources\Showing;
+use Larowka\KudaGo\Methods\Traits\{
+    HasPaginator,
+    HasSort,
+    HasDetails,
+    HasTimeFilter,
+};
 
 /**
  * @method \Illuminate\Support\Collection|Showing[]|null get()
@@ -27,9 +33,9 @@ class Showings extends AbstractMethod
      * @param int $id
      * @return Showing|null
      */
-    public function find(int $id): ?Showing
+    public function find($id): ?Showing
     {
-        parent::find($id);
+        parent::find((int) $id);
 
         try {
             return Showing::fromArray($this->response());

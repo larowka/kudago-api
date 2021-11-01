@@ -46,7 +46,10 @@ abstract class AbstractMethod
         return $this;
     }
 
-    public function find(int $id)
+    /**
+     * @param mixed $id
+     */
+    public function find($id)
     {
         $this->base .= DIRECTORY_SEPARATOR . $id;
         $this->params = array_intersect_key($this->params, array_flip(['fields', 'expand']));
