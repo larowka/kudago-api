@@ -2,12 +2,12 @@
 
 namespace Larowka\KudaGo\Tests\Methods\Mock;
 
+use Illuminate\Support\Collection;
 use PHPUnit\Framework\TestCase;
 use GuzzleHttp\Client;
 use GuzzleHttp\Handler\MockHandler;
 use GuzzleHttp\HandlerStack;
 use Larowka\KudaGo\Tests\ResponseFactory;
-use Larowka\KudaGo\Collections\MovieCollection;
 use Larowka\KudaGo\Resources\Movie;
 use Larowka\KudaGo\Methods\Movies;
 
@@ -34,7 +34,7 @@ class MoviesMethodTest extends TestCase
         $moviesMethod = new Movies(self::$client);
         $movieCollection = $moviesMethod->get();
 
-        $this->assertInstanceOf(MovieCollection::class, $movieCollection);
+        $this->assertInstanceOf(Collection::class, $movieCollection);
     }
 
     /** @test */
@@ -47,11 +47,11 @@ class MoviesMethodTest extends TestCase
     }
 
     /** @test */
-    public function moviesMethodReturnNull()
+    public function moviesMethodReturnEmptyCollection()
     {
         $moviesMethod = new Movies(self::$client);
         $movieCollection = $moviesMethod->get();
 
-        $this->assertNull($movieCollection);
+        $this->assertTrue($movieCollection->isEmpty());
     }
 }

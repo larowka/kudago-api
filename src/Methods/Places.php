@@ -3,15 +3,19 @@
 namespace Larowka\KudaGo\Methods;
 
 use GuzzleHttp\Exception\GuzzleException;
-use Larowka\KudaGo\Collections\PlaceCollection;
 use Larowka\KudaGo\Resources\Place;
 
+/**
+ * @method \Illuminate\Support\Collection|Place[]|null get()
+ */
 class Places extends AbstractMethod
 {
     use HasPaginator;
     use HasSort;
     use HasDetails;
     use HasTimeFilter;
+
+    protected string $resource = Place::class;
 
     public function ids(array $ids): self
     {
@@ -28,18 +32,6 @@ class Places extends AbstractMethod
         ];
         $this->params += $location;
         return $this;
-    }
-
-    /**
-     * @return PlaceCollection|null
-     */
-    public function get(): ?PlaceCollection
-    {
-        try {
-            return PlaceCollection::fromArray($this->response()['results']);
-        } catch (GuzzleException $e) {
-            return null;
-        }
     }
 
     /**

@@ -3,9 +3,11 @@
 namespace Larowka\KudaGo\Methods;
 
 use GuzzleHttp\Exception\GuzzleException;
-use Larowka\KudaGo\Collections\ShowingCollection;
 use Larowka\KudaGo\Resources\Showing;
 
+/**
+ * @method \Illuminate\Support\Collection|Showing[]|null get()
+ */
 class Showings extends AbstractMethod
 {
     use HasPaginator;
@@ -13,22 +15,12 @@ class Showings extends AbstractMethod
     use HasDetails;
     use HasTimeFilter;
 
+    protected string $resource = Showing::class;
+
     public function inPlace(int $id): self
     {
         $this->params['place_id'] = $id;
         return $this;
-    }
-
-    /**
-     * @return ShowingCollection|null
-     */
-    public function get(): ?ShowingCollection
-    {
-        try {
-            return ShowingCollection::fromArray($this->response()['results']);
-        } catch (GuzzleException $e) {
-            return null;
-        }
     }
 
     /**

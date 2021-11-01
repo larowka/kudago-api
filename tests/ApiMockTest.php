@@ -2,14 +2,13 @@
 
 namespace Larowka\KudaGo\Tests;
 
+use Illuminate\Support\Collection;
 use PHPUnit\Framework\TestCase;
 use GuzzleHttp\Client;
 use GuzzleHttp\Handler\MockHandler;
 use GuzzleHttp\HandlerStack;
-use Larowka\KudaGo\Tests\ResponseFactory;
 use Larowka\KudaGo\Api;
 use Larowka\KudaGo\Methods\{Movies, Places, Showings};
-use Larowka\KudaGo\Collections\{MovieCollection, PlaceCollection, ShowingCollection};
 use Larowka\KudaGo\Resources\{Movie, Place, Showing};
 
 class ApiMockTest extends TestCase
@@ -62,7 +61,7 @@ class ApiMockTest extends TestCase
     {
         $movies = $this->api->movies()->get();
 
-        $this->assertInstanceOf(MovieCollection::class, $movies);
+        $this->assertInstanceOf(Collection::class, $movies);
     }
 
     /** @test */

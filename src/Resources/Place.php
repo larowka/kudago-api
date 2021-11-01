@@ -2,7 +2,7 @@
 
 namespace Larowka\KudaGo\Resources;
 
-use Larowka\KudaGo\Collections\ImageCollection;
+use Illuminate\Support\Collection;
 
 /**
  * @method static Place fromArray(array $data) Return an instance of Place resource object
@@ -23,7 +23,7 @@ use Larowka\KudaGo\Collections\ImageCollection;
  * @property string $lon
  * @property string $subway
  * @property int $favorites_count
- * @property ImageCollection $images
+ * @property Collection|Image[] $images
  * @property int $comments_count
  * @property bool $is_closed
  * @property array $categories
@@ -51,7 +51,7 @@ class Place extends AbstractResource
         'coords'              => Location::class,
         'subway'              => true, // todo: convert to array of strings?
         'favorites_count'     => true,
-        'images'              => ImageCollection::class,
+        'images'              => [Image::class],
         'comments_count'      => true,
         'is_closed'           => true,
         'categories'          => true, // todo: simple array of strings

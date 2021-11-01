@@ -2,9 +2,9 @@
 
 namespace Larowka\KudaGo\Tests\Methods;
 
+use Illuminate\Support\Collection;
 use PHPUnit\Framework\TestCase;
 use GuzzleHttp\Client;
-use Larowka\KudaGo\Collections\PlaceCollection;
 use Larowka\KudaGo\Resources\Place;
 use Larowka\KudaGo\Methods\Places;
 
@@ -32,7 +32,7 @@ class PlacesMethodTest extends TestCase
         $placeCollection = $placesMethod->get();
         $placeResource = $placeCollection->first();
 
-        $this->assertInstanceOf(PlaceCollection::class, $placeCollection);
+        $this->assertInstanceOf(Collection::class, $placeCollection);
         $this->assertInstanceOf(Place::class, $placeResource);
 
         return $placeResource->id;

@@ -2,7 +2,7 @@
 
 namespace Larowka\KudaGo\Resources;
 
-use Larowka\KudaGo\Collections\{GenreCollection, ImageCollection};
+use Illuminate\Support\Collection;
 
 /**
  * @method static Movie fromArray(array $data) Return an instance of Movie resource object
@@ -16,7 +16,7 @@ use Larowka\KudaGo\Collections\{GenreCollection, ImageCollection};
  * @property string $body_text          полное описание
  * @property bool $is_editors_choice    является ли выбоором редакции
  * @property int $favorites_count       число пользователей, добавивших фильм в избранное
- * @property GenreCollection $genres    список жанров
+ * @property Collection|Genre[] $genres    список жанров
  * @property int $comments_count        число комментариев
  * @property string $original_title     оригинальное название
  * @property string $locale             язык оригинала
@@ -33,7 +33,7 @@ use Larowka\KudaGo\Collections\{GenreCollection, ImageCollection};
  * @property string $writer             сценарист
  * @property string $awards             награды
  * @property string $trailer            трейлер
- * @property ImageCollection $images    галерея картинок
+ * @property Collection|Image[] $images    галерея картинок
  * @property Image $poster              постер
  * @property string $url                сайт фильма
  * @property string $imdb_url           ссылка на страницу фильма на imdb.com
@@ -51,7 +51,7 @@ class Movie extends AbstractResource
         'body_text' => true,
         'is_editors_choice' => true,
         'favorites_count' => true,
-        'genres' => GenreCollection::class,
+        'genres' => [Genre::class],
         'comments_count' => true,
         'original_title' => true,
         'locale' => true,
@@ -68,7 +68,7 @@ class Movie extends AbstractResource
         'writer' => true,
         'awards' => true,
         'trailer' => true,
-        'images' => ImageCollection::class,
+        'images' => [Image::class],
         'poster' => Image::class,
         'url' => true,
         'imdb_url' => true,

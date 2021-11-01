@@ -2,9 +2,9 @@
 
 namespace Larowka\KudaGo\Tests\Methods;
 
+use Illuminate\Support\Collection;
 use PHPUnit\Framework\TestCase;
 use GuzzleHttp\Client;
-use Larowka\KudaGo\Collections\ShowingCollection;
 use Larowka\KudaGo\Resources\Showing;
 use Larowka\KudaGo\Methods\Showings;
 
@@ -32,7 +32,7 @@ class ShowingsMethodTest extends TestCase
         $showingCollection = $showingsMethod->get();
         $showingResource = $showingCollection->first();
 
-        $this->assertInstanceOf(ShowingCollection::class, $showingCollection);
+        $this->assertInstanceOf(Collection::class, $showingCollection);
         $this->assertInstanceOf(Showing::class, $showingResource);
 
         return $showingResource->id;

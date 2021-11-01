@@ -2,12 +2,12 @@
 
 namespace Larowka\KudaGo\Tests\Methods\Mock;
 
+use Illuminate\Support\Collection;
 use PHPUnit\Framework\TestCase;
 use GuzzleHttp\Client;
 use GuzzleHttp\Handler\MockHandler;
 use GuzzleHttp\HandlerStack;
 use Larowka\KudaGo\Tests\ResponseFactory;
-use Larowka\KudaGo\Collections\PlaceCollection;
 use Larowka\KudaGo\Resources\Place;
 use Larowka\KudaGo\Methods\Places;
 
@@ -34,7 +34,7 @@ class PlacesMethodTest extends TestCase
         $placesMethod = new Places(self::$client);
         $placeCollection = $placesMethod->get();
 
-        $this->assertInstanceOf(PlaceCollection::class, $placeCollection);
+        $this->assertInstanceOf(Collection::class, $placeCollection);
     }
 
     /** @test */
@@ -47,10 +47,11 @@ class PlacesMethodTest extends TestCase
     }
 
     /** @test */
-    public function placesMethodReturnNull()
+    public function placesMethodReturnEmptyCollection()
     {
         $placesMethod = new Places(self::$client);
         $placeCollection = $placesMethod->get();
-        $this->assertNull($placeCollection);
+
+        $this->assertTrue($placeCollection->isEmpty());
     }
 }

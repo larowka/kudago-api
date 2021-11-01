@@ -2,12 +2,12 @@
 
 namespace Larowka\KudaGo\Tests\Methods\Mock;
 
+use Illuminate\Support\Collection;
 use PHPUnit\Framework\TestCase;
 use GuzzleHttp\Client;
 use GuzzleHttp\Handler\MockHandler;
 use GuzzleHttp\HandlerStack;
 use Larowka\KudaGo\Tests\ResponseFactory;
-use Larowka\KudaGo\Collections\ShowingCollection;
 use Larowka\KudaGo\Resources\Showing;
 use Larowka\KudaGo\Methods\Showings;
 
@@ -34,7 +34,7 @@ class ShowingsMethodTest extends TestCase
         $showingsMethod = new Showings(self::$client);
         $showingCollection = $showingsMethod->get();
 
-        $this->assertInstanceOf(ShowingCollection::class, $showingCollection);
+        $this->assertInstanceOf(Collection::class, $showingCollection);
     }
 
     /** @test */
@@ -47,10 +47,11 @@ class ShowingsMethodTest extends TestCase
     }
 
     /** @test */
-    public function showingsMethodReturnNull()
+    public function showingsMethodReturnEmptyCollection()
     {
         $showingsMethod = new Showings(self::$client);
         $showingCollection = $showingsMethod->get();
-        $this->assertNull($showingCollection);
+
+        $this->assertTrue($showingCollection->isEmpty());
     }
 }

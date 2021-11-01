@@ -2,9 +2,9 @@
 
 namespace Larowka\KudaGo\Tests\Methods;
 
+use Illuminate\Support\Collection;
 use PHPUnit\Framework\TestCase;
 use GuzzleHttp\Client;
-use Larowka\KudaGo\Collections\MovieCollection;
 use Larowka\KudaGo\Resources\Movie;
 use Larowka\KudaGo\Methods\Movies;
 
@@ -32,7 +32,7 @@ class MoviesMethodTest extends TestCase
         $movieCollection = $moviesMethod->get();
         $movieResource = $movieCollection->first();
 
-        $this->assertInstanceOf(MovieCollection::class, $movieCollection);
+        $this->assertInstanceOf(Collection::class, $movieCollection);
         $this->assertInstanceOf(Movie::class, $movieResource);
 
         return $movieResource->id;

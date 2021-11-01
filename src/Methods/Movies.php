@@ -3,9 +3,11 @@
 namespace Larowka\KudaGo\Methods;
 
 use GuzzleHttp\Exception\GuzzleException;
-use Larowka\KudaGo\Collections\MovieCollection;
 use Larowka\KudaGo\Resources\Movie;
 
+/**
+ * @method \Illuminate\Support\Collection|Movie[]|null get()
+ */
 class Movies extends AbstractMethod
 {
     use HasPaginator;
@@ -13,17 +15,7 @@ class Movies extends AbstractMethod
     use HasDetails;
     use HasTimeFilter;
 
-    /**
-     * @return MovieCollection|null
-     */
-    public function get(): ?MovieCollection
-    {
-        try {
-            return MovieCollection::fromArray($this->response()['results']);
-        } catch (GuzzleException $e) {
-            return null;
-        }
-    }
+    protected string $resource = Movie::class;
 
     /**
      * @param int $id

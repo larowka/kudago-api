@@ -8,9 +8,6 @@
         <testsuite name="Resources">
             <directory suffix="Test.php">./tests/Resources</directory>
         </testsuite>
-        <testsuite name="Collections">
-            <directory suffix="Test.php">./tests/Collections</directory>
-        </testsuite>
         <testsuite name="Mock Methods">
             <directory suffix="Test.php">./tests/Methods/Mock</directory>
         </testsuite>

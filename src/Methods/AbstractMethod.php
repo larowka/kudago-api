@@ -4,17 +4,18 @@ namespace Larowka\KudaGo\Methods;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\GuzzleException;
+use Illuminate\Support\Collection;
 use Psr\Http\Message\ResponseInterface;
+use Larowka\KudaGo\CollectionFactory;
 
 abstract class AbstractMethod
 {
     protected string $base = '';
+    protected string $resource;
     protected array $params = [];
     protected array $fields = [];
 
     private Client $client;
-
-    abstract public function get();
 
     abstract protected function config(): void;
 
@@ -23,6 +24,17 @@ abstract class AbstractMethod
         $this->client = $client;
         $this->base = strtolower(substr(strrchr(get_class($this), '\\'), 1));
         $this->config();
+    }
+
+    public function get(): Collection
+    {
+        try {
+            $data = $this->response()['results'];
+        } catch (GuzzleException $e) {
+            $data = [];
+        }
+
+        return CollectionFactory::make($data, $this->resource);
     }
 
     public function fields(array $fields = []): self

@@ -2,6 +2,8 @@
 
 namespace Larowka\KudaGo\Resources;
 
+use Larowka\KudaGo\CollectionFactory;
+
 abstract class AbstractResource implements IResource
 {
     use HasAttributes;
@@ -19,6 +21,8 @@ abstract class AbstractResource implements IResource
             if (isset($data[$key])) {
                 if ($item === true) {
                     $this->$key = $data[$key];
+                } elseif (is_array($item)) {
+                    $this->$key = CollectionFactory::make($data[$key], $item[0]);
                 } else {
                     $this->$key = $item::fromArray($data[$key]);
                 }

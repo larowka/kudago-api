@@ -4,15 +4,19 @@ namespace Larowka\KudaGo\Methods;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\GuzzleException;
-use Larowka\KudaGo\Collections\ShowingCollection;
 use Larowka\KudaGo\Resources\Showing;
 
+/**
+ * @method \Illuminate\Support\Collection|Showing[]|null get()
+ */
 class MovieShowings extends AbstractMethod
 {
     use HasPaginator;
     use HasSort;
     use HasDetails;
     use HasTimeFilter;
+
+    protected string $resource = Showing::class;
 
     public function __construct(Client $client, int $movieId)
     {
@@ -24,15 +28,6 @@ class MovieShowings extends AbstractMethod
     {
         $this->params['place_id'] = $id;
         return $this;
-    }
-
-    public function get(): ?ShowingCollection
-    {
-        try {
-            return ShowingCollection::fromArray($this->response()['results']);
-        } catch (GuzzleException $e) {
-            return null;
-        }
     }
 
     /**
