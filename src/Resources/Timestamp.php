@@ -10,6 +10,6 @@ class Timestamp extends AbstractResource
 {
     public static array $attributes = [
         'start' => true,
-        'end' => true
+        'end'   => true
     ];
 }

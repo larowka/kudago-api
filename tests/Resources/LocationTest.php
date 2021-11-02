@@ -16,7 +16,7 @@ class LocationTest extends TestCase
     public function locationFromArray()
     {
         $coords = Coords::fromArray($this->coords);
-        
+
         $this->assertInstanceOf(Coords::class, $coords);
     }
 }

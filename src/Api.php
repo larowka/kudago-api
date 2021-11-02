@@ -3,7 +3,7 @@
 namespace Larowka\KudaGo;
 
 use GuzzleHttp\Client;
-use Larowka\KudaGo\Methods\{Events, Locations, Movies, MovieShowings, Places, Showings};
+use Larowka\KudaGo\Methods\{Events, Locations, Movies, MovieShowings, Places, Search, Selections, Showings};
 
 /**
  * Entrypoint for API Wrapper
@@ -12,7 +12,7 @@ use Larowka\KudaGo\Methods\{Events, Locations, Movies, MovieShowings, Places, Sh
  */
 class Api
 {
-    private const BASE_URI = 'https://kudago.com/public-api';
+    private const BASE_URI    = 'https://kudago.com/public-api';
     private const API_VERSION = 'v1.4';
 
     private Client $client;
@@ -52,10 +52,20 @@ class Api
         return new Events($this->client);
     }
 
+    public function lists(): Selections
+    {
+        return new Selections($this->client);
+    }
+
+    public function search(): Search
+    {
+        return new Search($this->client);
+    }
+
     private function getClient(): Client
     {
         $config = [
-            'headers' => ['Accept' => 'application/json'],
+            'headers'  => ['Accept' => 'application/json'],
             'base_uri' => self::BASE_URI . DIRECTORY_SEPARATOR . self::API_VERSION . DIRECTORY_SEPARATOR,
         ];
         return new Client($config);

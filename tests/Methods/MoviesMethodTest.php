@@ -10,7 +10,7 @@ use Larowka\KudaGo\Methods\Movies;
 
 class MoviesMethodTest extends TestCase
 {
-    private const BASE_URI = 'https://kudago.com/public-api';
+    private const BASE_URI    = 'https://kudago.com/public-api';
     private const API_VERSION = 'v1.4';
 
     private static Client $client;
@@ -18,7 +18,7 @@ class MoviesMethodTest extends TestCase
     public static function setUpBeforeClass(): void
     {
         $config = [
-            'headers' => ['Accept' => 'application/json'],
+            'headers'  => ['Accept' => 'application/json'],
             'base_uri' => self::BASE_URI . DIRECTORY_SEPARATOR . self::API_VERSION . DIRECTORY_SEPARATOR,
         ];
 

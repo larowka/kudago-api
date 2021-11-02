@@ -14,7 +14,7 @@ use Larowka\KudaGo\Resources\{Movie, Place, Showing};
 class ApiMockTest extends TestCase
 {
     private static Client $client;
-    private Api $api;
+    private Api           $api;
 
     public static function setUpBeforeClass(): void
     {

@@ -6,7 +6,7 @@ use Carbon\Carbon;
 
 trait HasTimeFilter
 {
-    protected string $afterParam = 'actual_since';
+    protected string $afterParam  = 'actual_since';
     protected string $beforeParam = 'actual_until';
 
     public function after(string $timestamp): self

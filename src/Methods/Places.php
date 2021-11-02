@@ -3,6 +3,7 @@
 namespace Larowka\KudaGo\Methods;
 
 use GuzzleHttp\Exception\GuzzleException;
+use Illuminate\Support\Collection;
 use Larowka\KudaGo\Resources\Place;
 use Larowka\KudaGo\Methods\Traits\{
     HasPaginator,
@@ -13,7 +14,7 @@ use Larowka\KudaGo\Methods\Traits\{
 };
 
 /**
- * @method \Illuminate\Support\Collection|Place[]|null get()
+ * @method Collection|Place[]|null get()
  */
 class Places extends AbstractMethod
 {
@@ -33,11 +34,12 @@ class Places extends AbstractMethod
 
     /**
      * @param int $id
+     *
      * @return Place|null
      */
     public function find($id): ?Place
     {
-        parent::find((int) $id);
+        parent::find((int)$id);
 
         try {
             return Place::fromArray($this->response());

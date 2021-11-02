@@ -9,8 +9,8 @@ trait HasDetails
     public function expand(string ...$fields): self
     {
         $this->params['expand'] = empty($fields) ?
-                implode(',', array_keys($this->expand)) :
-                static::arrayToString($fields);
+            implode(',', array_keys($this->expand)) :
+            static::arrayToString($fields);
 
         return $this;
     }

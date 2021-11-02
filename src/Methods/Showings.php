@@ -3,6 +3,7 @@
 namespace Larowka\KudaGo\Methods;
 
 use GuzzleHttp\Exception\GuzzleException;
+use Illuminate\Support\Collection;
 use Larowka\KudaGo\Resources\Showing;
 use Larowka\KudaGo\Methods\Traits\{
     HasPaginator,
@@ -12,7 +13,7 @@ use Larowka\KudaGo\Methods\Traits\{
 };
 
 /**
- * @method \Illuminate\Support\Collection|Showing[]|null get()
+ * @method Collection|Showing[]|null get()
  */
 class Showings extends AbstractMethod
 {
@@ -31,11 +32,12 @@ class Showings extends AbstractMethod
 
     /**
      * @param int $id
+     *
      * @return Showing|null
      */
     public function find($id): ?Showing
     {
-        parent::find((int) $id);
+        parent::find((int)$id);
 
         try {
             return Showing::fromArray($this->response());

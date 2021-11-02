@@ -3,6 +3,7 @@
 namespace Larowka\KudaGo\Methods;
 
 use GuzzleHttp\Exception\GuzzleException;
+use Illuminate\Support\Collection;
 use Larowka\KudaGo\Resources\Event;
 use Larowka\KudaGo\Methods\Traits\{
     HasPaginator,
@@ -12,6 +13,9 @@ use Larowka\KudaGo\Methods\Traits\{
     HasCoordsFilter
 };
 
+/**
+ * @method Collection|Event[]|null get()
+ */
 class Events extends AbstractMethod
 {
     use HasPaginator;
@@ -24,11 +28,12 @@ class Events extends AbstractMethod
 
     /**
      * @param int $id
+     *
      * @return Event|null
      */
     public function find($id): ?Event
     {
-        parent::find((int) $id);
+        parent::find((int)$id);
 
         try {
             return Event::fromArray($this->response());

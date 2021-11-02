@@ -8,13 +8,14 @@ use function collect;
 
 class CollectionFactory
 {
-    public static function make(array $data, string $resource): Collection
+    public static function make(array $data, string $interface): Collection
     {
         $output = [];
 
         foreach ($data as $item) {
-            $resource = $resource::fromArray($item);
-            $output[$resource->id] = $resource;
+            if ($resource = $interface::fromArray($item)) {
+                $output[$resource->id] = $resource;
+            }
         }
 
         return collect($output);

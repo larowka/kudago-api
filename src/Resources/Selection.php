@@ -3,37 +3,40 @@
 namespace Larowka\KudaGo\Resources;
 
 use Illuminate\Support\Collection;
+use Larowka\KudaGo\ResourceFactory;
 
 /**
- * @method static News fromArray(array $data) Return an instance of News resource object
+ * @method static Selection fromArray(array $data) Return an instance of Selection(List) resource object
  *
  * @property int                $id
+ * @property string             $ctype
  * @property int                $publication_date
  * @property string             $title
- * @property string             $slug
- * @property Place|null         $place
- * @property string             $description
- * @property string             $body_text
- * @property Collection|Image[] $images
- * @property string             $site_url
+ * @property mixed              $items
  * @property int                $favorites_count
  * @property int                $comments_count
+ * @property Collection|Image[] $images
+ * @property string             $description
+ * @property string             $body_text
+ * @property string             $site_url
+ * @property string             $item_url
  * @property bool               $disable_comments
  */
-class News extends AbstractResource
+class Selection extends AbstractResource
 {
     public static array $attributes = [
         'id'               => true,
+        'ctype'            => true,
         'publication_date' => true,
         'title'            => true,
-        'slug'             => true,
-        'place'            => Place::class, // nullable?
-        'description'      => true,
-        'body_text'        => true,
-        'images'           => [Image::class],
-        'site_url'         => true,
+        'items'            => [ResourceFactory::class],
         'favorites_count'  => true,
         'comments_count'   => true,
+        'images'           => [Image::class],
+        'description'      => true,
+        'body_text'        => true,
+        'site_url'         => true,
+        'item_url'         => true,
         'disable_comments' => true,
     ];
 }

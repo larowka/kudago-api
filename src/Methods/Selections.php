@@ -4,37 +4,35 @@ namespace Larowka\KudaGo\Methods;
 
 use GuzzleHttp\Exception\GuzzleException;
 use Illuminate\Support\Collection;
-use Larowka\KudaGo\Resources\Movie;
+use Larowka\KudaGo\Resources\Selection;
 use Larowka\KudaGo\Methods\Traits\{
     HasPaginator,
-    HasSort,
     HasDetails,
-    HasTimeFilter,
+    HasSort
 };
 
 /**
- * @method Collection|Movie[]|null get()
+ * @method Collection|Selection[]|null get()
  */
-class Movies extends AbstractMethod
+class Selections extends AbstractMethod
 {
     use HasPaginator;
-    use HasSort;
     use HasDetails;
-    use HasTimeFilter;
+    use HasSort;
 
-    protected string $resource = Movie::class;
+    protected string $resource = Selection::class;
 
     /**
      * @param int $id
      *
-     * @return Movie|null
+     * @return Selection|null
      */
-    public function find($id): ?Movie
+    public function find($id): ?Selection
     {
         parent::find((int)$id);
 
         try {
-            return Movie::fromArray($this->response());
+            return Selection::fromArray($this->response());
         } catch (GuzzleException $e) {
             return null;
         }
@@ -42,7 +40,7 @@ class Movies extends AbstractMethod
 
     protected function config(): void
     {
-        $this->fields = array_flip(array_keys(Movie::$attributes));
-        $this->expand = ['images', 'poster'];
+        $this->base = 'lists';
+        $this->expand = ['images'];
     }
 }

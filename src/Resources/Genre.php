@@ -5,7 +5,7 @@ namespace Larowka\KudaGo\Resources;
 /**
  * @method static Genre fromArray(array $data) Return an instance of Genre resource object
  *
- * @property int $id
+ * @property int    $id
  * @property string $name
  * @property string $slug
  */

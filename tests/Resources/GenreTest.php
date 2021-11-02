@@ -8,7 +8,7 @@ use Larowka\KudaGo\Resources\Genre;
 class GenreTest extends TestCase
 {
     private array $genre = [
-        "id" => 7,
+        "id"   => 7,
         "name" => "комедия",
         "slug" => "comedy"
     ];

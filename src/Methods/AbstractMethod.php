@@ -10,10 +10,10 @@ use Larowka\KudaGo\CollectionFactory;
 
 abstract class AbstractMethod
 {
-    protected string $base = '';
+    protected string $base   = '';
     protected string $resource;
-    protected array $params = [];
-    protected array $fields = [];
+    protected array  $params = [];
+    protected array  $fields = [];
 
     private Client $client;
 
@@ -31,7 +31,7 @@ abstract class AbstractMethod
         try {
             $data = $this->response()['results'];
         } catch (GuzzleException $e) {
-            $data = [];
+            return new Collection();
         }
 
         return CollectionFactory::make($data, $this->resource);

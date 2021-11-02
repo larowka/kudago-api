@@ -8,7 +8,7 @@ use Larowka\KudaGo\Resources\Image;
 class ImageTest extends TestCase
 {
     private array $image = [
-        'image' => 'https://kudago.com/media/images/movie/f3/41/f341493a5375e8cfda47f8a89cec7eb3.jpg',
+        'image'  => 'https://kudago.com/media/images/movie/f3/41/f341493a5375e8cfda47f8a89cec7eb3.jpg',
         'source' => [
             'name' => 'kinonews.ru',
             'link' => 'https://www.kinonews.ru/shot187143/'
@@ -16,12 +16,12 @@ class ImageTest extends TestCase
     ];
 
     private array $imageExtended = [
-        'image' => 'https://kudago.com/media/images/movie/f3/41/f341493a5375e8cfda47f8a89cec7eb3.jpg',
+        'image'      => 'https://kudago.com/media/images/movie/f3/41/f341493a5375e8cfda47f8a89cec7eb3.jpg',
         'thumbnails' => [
             '640x384' => 'https://kudago.com/media/thumbs/640x384/images/movie/f3/41/f341493a5375e8cfda47f8a89.jpg',
-            '144x96' => 'https://kudago.com/media/thumbs/144x96/images/movie/f3/41/f341493a5375e8cfda47f8a89.jpg'
+            '144x96'  => 'https://kudago.com/media/thumbs/144x96/images/movie/f3/41/f341493a5375e8cfda47f8a89.jpg'
         ],
-        'source' => [
+        'source'     => [
             'name' => 'kinonews.ru',
             'link' => 'https://www.kinonews.ru/shot187143/'
         ]
