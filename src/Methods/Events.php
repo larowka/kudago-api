@@ -15,6 +15,10 @@ use Larowka\KudaGo\Methods\Traits\{
 
 /**
  * @method Collection|Event[]|null get()
+ * @method $this orderBy(string ...$fields) Sort result by specific fields: id, publication_date, title, slug, place, description, body_text, location, tagline, age_restriction, price, is_free, favorites_count, comments_count, short_title
+ * @method $this expand(string ...$fields) Expand specific fields: images, place, location, dates, participants
+ * @method $this before(string $datetime, string $format = 'Y-m-d', bool $exceptions = false)
+ * @method $this after(string $datetime, string $format = 'Y-m-d', bool $exceptions = false)
  */
 class Events extends AbstractMethod
 {

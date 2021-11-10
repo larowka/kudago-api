@@ -6,7 +6,7 @@ trait HasSort
 {
     protected array $orderBy = [];
 
-    public function orderBy(array $fields = []): self
+    public function orderBy(string ...$fields): self
     {
         $this->params['order_by'] = empty($fields) ?
             implode(',', array_keys($this->orderBy)) :

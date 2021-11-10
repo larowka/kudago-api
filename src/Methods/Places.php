@@ -26,7 +26,7 @@ class Places extends AbstractMethod
 
     protected string $resource = Place::class;
 
-    public function ids(array $ids): self
+    public function ids(int ...$ids): self
     {
         $this->params['ids'] = static::arrayToString($ids);
         return $this;
