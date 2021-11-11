@@ -76,6 +76,10 @@ $events->find(161043); // find by event ID
 ##### Object categories ([doc](https://docs.kudago.com/api/#page:категории-объектов))
 
 ```php
+$categories = $kudago->categories();
+
+$eventCategories = $categories->events()->get();
+$placeCategories = $categories->places()->get();
 ```
 
 ##### Locations ([doc](https://docs.kudago.com/api/#page:города))
@@ -85,8 +89,7 @@ $events->find(161043); // find by event ID
 ```php
 $locations = $kudago->locations();
 
-$cities = $locations->orderBy('timezone')
-                    ->get();
+$cities = $locations->orderBy('timezone')->get();
 $city = $locations->find('spb');
 ```
 
@@ -118,11 +121,13 @@ $kudago->events()
 ##### Events of the day ([doc](https://docs.kudago.com/api/#page:события-дня))
 
 ```php
+$kudago->eventsOfTheDay()->get();
 ```
 
 ##### News ([doc](https://docs.kudago.com/api/#page:новости))
 
 ```php
+$kudago->news()->get();
 ```
 
 ##### Lists ([doc](https://docs.kudago.com/api/#page:подборки))
@@ -130,8 +135,7 @@ $kudago->events()
 > traits: Paginator, Sort, Details
 
 ```php
-$kudago->lists()
-        ->get();
+$kudago->lists()->get();
 ```
 
 ##### Places ([doc](https://docs.kudago.com/api/#page:места))
@@ -149,8 +153,7 @@ $kudago->places()
 > traits: Paginator, Sort, Details, TimeFilter
 
 ```php
-$kudago->movies()
-        ->get();
+$kudago->movies()->get();
 ```
 
 ##### Showings ([doc](https://docs.kudago.com/api/#page:показы))
@@ -176,13 +179,11 @@ $kudago->movieShowings(3315)
 ##### Agents ([doc](https://docs.kudago.com/api/#page:агенты))
 
 ```php
-$kudago->agents()
-        ->get();
+$kudago->agents()->get();
 ```
 
 ##### Agent Roles ([doc](https://docs.kudago.com/api/#page:роли))
 
 ```php
-$kudago->agentRoles(614)
-        ->get();
+$kudago->agentRoles()->get();
 ```

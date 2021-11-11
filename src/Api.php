@@ -3,7 +3,18 @@
 namespace Larowka\KudaGo;
 
 use GuzzleHttp\Client;
-use Larowka\KudaGo\Methods\{Events, Locations, Movies, MovieShowings, Places, Search, Selections, Showings};
+use Larowka\KudaGo\Methods\{Agents,
+    Categories,
+    Events,
+    EventsOfTheDay,
+    Locations,
+    Movies,
+    MovieShowings,
+    News,
+    Places,
+    Search,
+    Selections,
+    Showings};
 
 /**
  * Entrypoint for API Wrapper
@@ -20,6 +31,11 @@ class Api
     public function __construct()
     {
         $this->client = $this->getClient();
+    }
+
+    public function categories(): Categories
+    {
+        return new Categories($this->client);
     }
 
     public function movies(): Movies
@@ -52,6 +68,16 @@ class Api
         return new Events($this->client);
     }
 
+    public function eventsOfTheDay(): EventsOfTheDay
+    {
+        return new EventsOfTheDay($this->client);
+    }
+
+    public function news(): News
+    {
+        return new News($this->client);
+    }
+
     public function lists(): Selections
     {
         return new Selections($this->client);
@@ -60,6 +86,11 @@ class Api
     public function search(): Search
     {
         return new Search($this->client);
+    }
+
+    public function agents(): Agents
+    {
+        return new Agents($this->client);
     }
 
     private function getClient(): Client

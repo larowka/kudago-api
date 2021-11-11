@@ -19,9 +19,9 @@ abstract class AbstractMethod
 
     abstract protected function config(): void;
 
-    public function __construct(Client $client)
+    public function __construct(Client &$client)
     {
-        $this->client = $client;
+        $this->client = &$client;
         $this->base = strtolower(substr(strrchr(get_class($this), '\\'), 1));
         $this->config();
     }
@@ -29,12 +29,14 @@ abstract class AbstractMethod
     public function get(): Collection
     {
         try {
-            $data = $this->response()['results'];
+            if ($data = $this->response()['results'] ?? false) {
+                return CollectionFactory::make($data, $this->resource);
+            }
         } catch (GuzzleException $e) {
-            return new Collection();
+            // placeholder for $config[exceptions]
         }
 
-        return CollectionFactory::make($data, $this->resource);
+        return new Collection();
     }
 
     public function fields(array $fields = []): self
